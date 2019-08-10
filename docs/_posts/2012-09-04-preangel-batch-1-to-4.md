@@ -1,5 +1,5 @@
 ---
-title: "PreAngel First 4 Batch Portfolio Companies"
+title: "PreAngel Batch 1-4 Portfolio Companies"
 author: leo
 categories: news
 tags:

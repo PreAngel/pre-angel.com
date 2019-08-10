@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to PreAngel!"
-categories: announcements
+categories: news
 image: assets/images/demo1.jpg
 ---
 

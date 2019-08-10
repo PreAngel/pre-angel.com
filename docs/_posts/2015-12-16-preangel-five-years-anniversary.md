@@ -7,6 +7,7 @@ tags:
   - milestone
   - event
   - featured
+  - sticky
 image: assets/2015/12-16-five-years-group-photo-2k.jpg
 ---
 
