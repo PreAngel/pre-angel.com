@@ -4,13 +4,14 @@ author: leo
 categories: news
 tags:
   - anniversary
+  - milestone
   - event
-image: assets/2015/12-16-five-years-group-photo-2k.jpeg
+image: assets/2015/12-16-five-years-group-photo-2k.jpg
 ---
 
 PA 这个品牌，不觉中已经5岁了。一路走来，颇多感慨。PreAngel这一路上少不了您的陪伴和支持，点点滴滴，记在心头，今天盛情邀请您参加PA的5岁生日年会，请您看看过去五年PA投资的优秀企业，听听老朋友接下来的5年规划，有时间的话，顺便吃个饭，叙叙旧。
 
-![leo & huan]({{ 'assets/2015/12-16-five-years-leo-huan.jpeg' | relative_url }})
+![leo & huan]({{ 'assets/2015/12-16-five-years-leo-huan.jpg' | relative_url }})
 
 ## Preangel 5 Anniversary
 
@@ -155,4 +156,4 @@ PA 这个品牌，不觉中已经5岁了。一路走来，颇多感慨。PreAnge
 
 本次PreAngel 5周年活动虽然免费，但并不是对外开放的，请不要转发本邀请函，以免场地公开，引来太多不速之客，感谢您的配合。
 
-![PreAngel 5 years anniversary]({{ 'assets/2015/12-16-five-years.jpeg' | relative_url }})
+![PreAngel 5 years anniversary]({{ 'assets/2015/12-16-five-years.jpg' | relative_url }})
