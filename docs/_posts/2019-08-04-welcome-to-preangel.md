@@ -1,5 +1,6 @@
 ---
 title:  "Welcome to PreAngel!"
+author: huan
 categories: news
 image: assets/images/demo1.jpg
 ---
