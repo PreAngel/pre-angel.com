@@ -342,6 +342,8 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 
 谢谢！
 
+![Slide Page 43][slide-43]
+
 ## 课程视频
 
 <div class="zoom-container" style="
@@ -391,7 +393,7 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 * Google Slide: [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络][huan-ai-slide]
 * PDF: [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络][huan-ai-pdf]
 
-## 《立志朋友圈》节目访谈
+### 《立志朋友圈》节目访谈
 
 * [人工智能专家李卓桓：什么是神经网络和机器学习！][lizhi-ximalaya]
 
@@ -444,3 +446,4 @@ AI Revolution，希望大家每个人都参与进来并获得成功。
 [slide-40]: {{ 'assets/2017/12-entrepreneur-meet-ai/huan-ai-talk-40.jpg' | relative_url }}
 [slide-41]: {{ 'assets/2017/12-entrepreneur-meet-ai/huan-ai-talk-41.jpg' | relative_url }}
 [slide-42]: {{ 'assets/2017/12-entrepreneur-meet-ai/huan-ai-talk-42.jpg' | relative_url }}
+[slide-43]: {{ 'assets/2017/12-entrepreneur-meet-ai/huan-ai-talk-43.jpg' | relative_url }}

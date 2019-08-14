@@ -2,6 +2,8 @@
 title:  "Welcome to PreAngel!"
 author: huan
 categories: news
+tags:
+  - sticky
 image: assets/images/demo1.jpg
 ---
 
