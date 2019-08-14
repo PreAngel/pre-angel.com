@@ -52,6 +52,8 @@ image: assets/2018/01/banjiesanguan-huan.jpg
 
 他解释如果有项目需求资金较大，他又非常认可的话，他其实会介绍朋友一起融资，让项目继续下去。
 
+![snow mountain]({{ 'assets/2018/01/snow-mountain-huan.jpg' | relative_url }})
+
 ## 李卓桓的职场分享
 
 如何让自己的请求更容易被人接受？  
