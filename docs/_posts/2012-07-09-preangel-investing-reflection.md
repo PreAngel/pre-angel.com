@@ -3,6 +3,7 @@ title: "一位天使投资人的心路历程"
 author: leo
 categories: news
 tags:
+  - home
   - angel
   - featured
 image: assets/2012/07-09-leo-talk.jpg

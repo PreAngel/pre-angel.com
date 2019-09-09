@@ -3,6 +3,7 @@ title: "PreAngel 荷多基金成立"
 author: leo
 categories: news
 tags:
+  - home
   - milestone
   - event
   - featured

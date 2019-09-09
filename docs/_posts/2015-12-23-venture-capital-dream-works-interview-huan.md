@@ -3,6 +3,7 @@ title:  "PreAngel 李卓桓：技术控“无厘头”投资靠谱项目丨100�
 author: huan
 categories: news
 tags:
+  - home
   - featured
   - interview
 image: assets/2015/12/venture-capital-dream-works.jpg

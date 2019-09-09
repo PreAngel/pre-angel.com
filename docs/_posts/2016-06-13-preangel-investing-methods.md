@@ -3,6 +3,7 @@ title: "PreAngel 投资方法论"
 author: leo
 categories: news
 tags:
+  - home
   - investing
   - featured
 image: assets/2016/heduo-fund-portfolios.jpg

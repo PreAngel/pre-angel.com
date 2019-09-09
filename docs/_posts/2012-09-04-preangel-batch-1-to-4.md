@@ -3,6 +3,7 @@ title: "PreAngel Batch 1-4 Portfolio Companies"
 author: leo
 categories: news
 tags:
+  - home
   - portfolio
   - featured
 image: assets/2012/seed-portfolios.jpg

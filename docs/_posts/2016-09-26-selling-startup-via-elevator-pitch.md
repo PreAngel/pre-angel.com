@@ -3,6 +3,7 @@ title:  "30秒打动投资人：电梯演讲篇"
 author: huan
 categories: tutorials
 tags:
+  - home
   - itjuzi
   - bizplan
   - pitch
