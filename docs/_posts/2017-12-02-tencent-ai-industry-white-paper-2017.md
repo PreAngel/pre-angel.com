@@ -422,6 +422,8 @@ AI人才严重短缺。中国尤其短缺。中国未来的AI人才队伍如何�
 
 > 本文转载于[36Kr](https://36kr.com/user/108218233)，由[腾讯研究院](https://36kr.com/user/108218233)发布。
 
+### 附：2017全球人工智能人才白皮书 PDF
+
 <div class="zoom-container" style="
     position: relative;
     padding-bottom:56.25%;
@@ -449,8 +451,6 @@ AI人才严重短缺。中国尤其短缺。中国未来的AI人才队伍如何�
     "
   ></iframe>
 </div>
-
-> 2017全球人工智能人才白皮书 PDF
 
 [wp-01]: {{ 'assets/2017/12-tencent-ai-white-paper/white-paper-1.jpg' | relative_url }}
 [wp-02]: {{ 'assets/2017/12-tencent-ai-white-paper/white-paper-2.jpg' | relative_url }}

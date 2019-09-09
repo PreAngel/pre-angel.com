@@ -12,7 +12,7 @@ image: assets/2016/10-selling-startup-via-bizplan/slide-01.jpg
 
 BizPlan 商业计划书是创业者融资过程中写给投资人看的项目介绍，**写BP你首先要尝试理解投资人的需求，以及关注点**。
 
-> **投资人投资的是未来百倍回报的可能性**  
+> 投资人投资的是未来百倍回报的可能性
 
 ![p2][slide-02]
 
@@ -225,6 +225,40 @@ PreAngel和创业者打交道的过程中，总结了13页的BP模板。
 我们只有了解投资人关注什么，为什么关注这些，才能写出投资人想看到的东西的内容，通过BP获得和投资人进一步沟通的可能性。
 
 ![p31][slide-31]
+
+感谢大家的时间。希望通过我这里的介绍，大家都可以写出更能打动投资人的商业计划书！
+
+商祺！
+
+### 附：课程视频及讲义 PDF
+
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src="https://v.qq.com/txp/iframe/player.html?vid=d0914efkb3g"
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+
+> 3分钟打动投资人：商业计划书篇 公开课视频 ([YouTube](https://youtu.be/Agp8pKbhJrg))
+
+-----
 
 <div class="zoom-container" style="
     position: relative;
