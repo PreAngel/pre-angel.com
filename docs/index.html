@@ -1,17 +1,12 @@
 ---
 title: "PreAngel Partners"
 layout: default
-pagination:
-    enabled: true
 description: "PreAngel is a fund focus on Artificial Intelligence(AI) startups."
 ---
 
 {% assign home_posts = site.tags['home'] %}
 
 <div class="container">
-
-{% if page.url == "/" %}
-
 
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
@@ -154,13 +149,6 @@ description: "PreAngel is a fund focus on Artificial Intelligence(AI) startups."
 </div>
 {% endif %}
 {% endfor %}
-
-
-
-
-
-{% endif %} <!--endif page url is / -->
-
 
 
 <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
