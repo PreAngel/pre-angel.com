@@ -64,6 +64,15 @@ paginate_path: "/news/page:num/"
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
 collections:
-  people:
+  lps:
+    output: true
+    permalink: /:collection/:path/
+  peoples:
+    output: true
+    permalink: /:collection/:path/
+  portfolios:
+    output: true
+    permalink: /:collection/:path/
+  ventures:
     output: true
     permalink: /:collection/:path/
