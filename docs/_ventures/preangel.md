@@ -1,5 +1,4 @@
 ---
-author: huan-li
 name: "PreAngel"
 site: https://www.pre-angel.com
 bio: "职业联合创始人服务"

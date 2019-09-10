@@ -2,8 +2,8 @@
 name: Leo WANG (王利杰)
 site: https://linkedin.com/in/betashow
 avatar: https://tva3.sinaimg.cn/crop.102.12.722.722.180/4cd1ca29gw1ek3yz6rg30j20oo0xg421.jpg
-bio: "PA创投基金•创始合伙人 王利杰"
-email: leo@preangelfunc.com
+bio: "PA创投基金•创始合伙人"
+email: leo@preangelfund.com
 twitter: https://twitter.com/betashow
 preangel:
   - partner
