@@ -1,11 +1,13 @@
 ---
-author: huan
+author: huan-li
 name: Huan (李卓桓)
 site: https://linkedin.com/in/zixia
 avatar: https://avatars1.githubusercontent.com/u/1361891
 bio: "Hi, I am Huan, PreAngel Partner focus on ML & Conversational AI, a full of passion Chatbot fan!"
 email: huan@pre-angel.com
 twitter: https://twitter.com/zixia
+preangel:
+  - partner
 ---
 
 Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
@@ -65,4 +67,10 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 - Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
-- Wechat: [918999]({{ '/assets/people/huan/wechat-qrcode.jpg' | relative_url }})
+- Wechat: [918999]({{ '/assets/peoples/huan-li/wechat-qrcode.jpg' | relative_url }})
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/huan/elevator-pitch', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+<!-- Calendly badge widget end -->
