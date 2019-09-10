@@ -26,6 +26,29 @@ comments: true
         {{ content }}
       </div>
 
+
+      <!-- Portfolio Start -->
+      {% assign people_portfolios = '' | split: ',' %}
+      {% for portfolio in site.portfolios %}
+        {% if portfolio.people contains people.slug %}
+          {% assign people_portfolios = people_portfolios | push: portfolio %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_portfolios_size = people_portfolios | size %}
+      {% if people_portfolios_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Startup of {{people.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% for portfolio in people_portfolios %}
+            {% include main-loop-card-portfolio.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Portfolio End -->
+
+
       <h4 class="font-weight-bold spanborder"><span>Posts by {{people.name}}</span></h4>
 
       {% assign posts = site.posts | where:"author", people.slug %}

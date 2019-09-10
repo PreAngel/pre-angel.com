@@ -27,9 +27,28 @@ comments: true
       </div>
 
 
+      <!-- Founder Start -->
+      <h4 class="font-weight-bold spanborder"><span>Founder of {{portfolio.name}}</span></h4>
 
-      <h4 class="font-weight-bold spanborder"><span>Investors of {{portfolio.name}}</span></h4>
+      {% assign portfolio_people = '' | split: ',' %}
+      {% for person in site.peoples %}
+        {% if portfolio.people contains person.slug %}
+          {% assign portfolio_people = portfolio_people | push: person %}
+        {% endif %}
+      {% endfor %}
 
+      <div class="container">
+        <div class="row gap-y listrecent listrecent listauthor">
+          {% for person in portfolio_people %}
+          {% include main-loop-card-person.html %}
+          {% endfor %}
+        </div>
+      </div>
+      <!-- Founder End -->
+
+
+
+      <!-- Investors Start -->
       {% assign portfolio_ventures = '' | split: ',' %}
       {% for venture in site.ventures %}
         {% if portfolio.ventures contains venture.slug %}
@@ -37,21 +56,27 @@ comments: true
         {% endif %}
       {% endfor %}
 
-      <div class="container">
-        <div class="row gap-y listrecent listrecent listauthor">
-          {% for venture in portfolio_ventures %}
-          {% include main-loop-card-venture.html %}
-          {% endfor %}
+      {% assign portfolio_ventures_size = portfolio_ventures | size %}
+      {% if portfolio_ventures_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Investors of {{portfolio.name}}</span></h4>
+
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% for venture in portfolio_ventures %}
+            {% include main-loop-card-venture.html %}
+            {% endfor %}
+          </div>
         </div>
-      </div>
+      {% endif %}
+      <!-- Investors End-->
 
-
+      <!-- Posts Start -->
       <h4 class="font-weight-bold spanborder"><span>Posts by {{portfolio.name}}</span></h4>
-
       {% assign posts = site.posts | where:"author", portfolio.slug %}
       {% for post in posts %}
       {% include main-loop-card-post.html %}
       {% endfor %}
+      <!-- Posts End -->
 
     </div>
   </div>
