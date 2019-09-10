@@ -6,8 +6,6 @@ bio: "句子互动科技有限公司联合创始人 & CTO"
 avatar: https://avatars3.githubusercontent.com/u/6801292
 email: gaoyuan@juzi.bot
 twitter: https://www.weibo.com/u/2166731327
-preangel:
-  - batch9
 ---
 
 高原，句子互动联合创始人，前Amazon，Expedia工程师，北邮计算机本科，马里兰大学硕士，Wechaty contributor，wechaty-puppet-padpro author & maintainer

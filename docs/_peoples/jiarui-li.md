@@ -5,8 +5,6 @@ bio: "句子互动科技有限公司创始人，连续创业者，微软人工�
 avatar: https://lijiarui.github.io/images/avatar.jpg
 email: lijiarui@juzi.bot
 twitter: https://weibo.com/u/2175505900
-preangel:
-  - batch9
 ---
 
 李佳芮，北京句子互动科技有限公司创始人，连续创业者，微软人工智能最有价值专家（AI MVP），GitHub 4000+ Stars开源项目Wechaty联合作者，创建了覆盖全球的微信聊天机器人开发者社区，并活跃在各大技术社区。北京邮电大学本科 & 硕士。
