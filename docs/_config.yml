@@ -59,6 +59,18 @@ defaults:
       layout: people
       comments: true
 
+  - scope:
+      path: "_portfolios"
+    values:
+      layout: portfolio
+      comments: true
+
+  - scope:
+      path: "_ventures"
+    values:
+      layout: venture
+      comments: true
+
 # Syntax
 markdown: kramdown
 highlighter: rouge

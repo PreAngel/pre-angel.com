@@ -3,7 +3,7 @@ layout: default
 comments: true
 ---
 
-{% assign people = site.peoples | where: 'slug', page.slug | first %}
+{% assign portfolio = site.portfolios | where: 'slug', page.slug | first %}
 
 <div class="container">
 
@@ -11,12 +11,12 @@ comments: true
     <div class="col-md-8">
       <div class="row align-items-center mb-5">
         <div class="col-md-9">
-          <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ people.twitter }}">Follow</a></span></h2>
-          <p><a href="{{ people.site }}">{{ people.site }}</a></p>
-          <p class="excerpt">{{ people.bio }}</p>
+          <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ portfolio.twitter }}">Follow</a></span></h2>
+          <p><a href="{{ portfolio.site }}">{{ portfolio.site }}</a></p>
+          <p class="excerpt">{{ portfolio.bio }}</p>
         </div>
         <div class="col-md-3 text-right">
-          <img alt="{{ people.name }}" src="{{ people.avatar }}" class="rounded-circle" height="100" width="100">
+          <img alt="{{ portfolio.name }}" src="{{ portfolio.avatar }}" class="rounded-circle" height="100" width="100">
         </div>
       </div>
 
@@ -26,9 +26,9 @@ comments: true
         {{ content }}
       </div>
 
-      <h4 class="font-weight-bold spanborder"><span>Posts by {{people.name}}</span></h4>
+      <h4 class="font-weight-bold spanborder"><span>Posts by {{portfolio.name}}</span></h4>
 
-      {% assign posts = site.posts | where:"author", people.slug %}
+      {% assign posts = site.posts | where:"author", portfolio.slug %}
       {% for post in posts %}
       {% include main-loop-card-post.html %}
       {% endfor %}
