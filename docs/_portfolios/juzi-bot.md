@@ -16,6 +16,8 @@ ventures:
 
 # 句子互动
 
+![intro](/assets/portfolios/juzi-bot/intro.png)
+
 [句子互动（北京句子互动科技有限公司）](https://www.juzi.bot)是一家人工智能技术与服务提供商，主营业务是基于微信生态，为客户提供集销售、市场和售后于一体的微信智能客服系统——句子秒回，通过智能对话，客服系统和数据分析帮助企业快速获客，增加用户粘性并提高销售转化。
 
 第一届YC中国的六支入选团队之一, 此前曾为百度AI加速器首期成员企业，已获得Plug and Play、PreAngel、Y Combinator，TSVC，阿尔法公社等多家中美机构的投资。
