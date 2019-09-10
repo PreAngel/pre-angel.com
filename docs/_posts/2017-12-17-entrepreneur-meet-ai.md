@@ -16,7 +16,7 @@ image: assets/2017/12-entrepreneur-meet-ai/huan-ai-talk-01.jpg
 
 我认为，为了拥抱人工智能，首先我们需要和AI交朋友，对AI技术进行真正的了解。因为只有真正理解了AI技术，才能理解如何将其融入具体的应用场景中。其次，我们必须聚焦专注的抓住一个痛点，并将其解决到极致。
 
-* 2016年，我开始不再关注移动互联网行业的天使投资，开始深度关注人工智能。我最初阅读了[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)，然后完成了吴恩达的[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)课程。接下来，我开始阅读大量论文和代码，并自己动手写了一些GitHub上开源的机器学习项目，如[FaceNet](https://github.com/zixia/node-facenet)。
+* 2016年，我开始不再关注移动互联网行业的天使投资，开始深度关注人工智能。我最初阅读了[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)，然后完成了吴恩达的[Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)课程。接下来，我开始阅读大量论文和代码，并自己动手写了一些GitHub上开源的机器学习项目，如[FaceNet](https://github.com/zixia/node-facenet)。
 * 2017年，我定位只投资AI领域，并开始PreAngel投资了5个AI早期项目。11月份，我得到了机器学习[博士入学的Offer](https://weibo.com/1663343825/FwVey3c3k)。
 
 <!--more-->

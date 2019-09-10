@@ -3,17 +3,13 @@
     <ol class="list-featured">
         {% for post in site.tags.featured %}
 
-            {% if post.tags contains 'home' %}
-              {% unless home %}
-                {% continue %}
-              {% endunless %}
+        {% if post.tags contains 'home' %}
+              <!-- in home page, we only display posts with tag `home` -->
+              {% unless home %}{% continue %}{% endunless %}
+            {% else %}
+              <!-- in news page, we only display posts without tag `home` -->
+              {% if home %}{% continue %}{% endif %}
             {% endif %}
-
-            {% unless post.tags contains 'home' %}
-              {% if home %}
-                {% continue %}
-              {% endif %}
-            {% endunless %}
 
             <li class="mb-4">
             <span>
