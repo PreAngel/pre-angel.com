@@ -2,7 +2,7 @@
 name: "Juzi BOT (句子互动)"
 site: https://www.juzi.bot
 bio: "在微信上提供集销售、市场、和售后服务于一体的客户沟通系统"
-avatar: https://www.juzi.bot/img/logo-square.jpg
+avatar: https://www.juzi.bot/img/logo-square.png
 twitter: https://weibo.com/u/2175505900
 people:
   - jiarui-li
