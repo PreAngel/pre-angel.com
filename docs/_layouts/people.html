@@ -49,6 +49,29 @@ comments: true
       <!-- Portfolio End -->
 
 
+      <!-- Ventures Start -->
+      {% assign people_ventures = '' | split: ',' %}
+      {% for venture in site.ventures %}
+        {% if venture.people contains people.slug %}
+          {% assign people_ventures = people_ventures | push: venture %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_ventures_size = people_ventures | size %}
+      {% if people_ventures_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Ventures of {{people.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% for venture in people_ventures %}
+            {% include main-loop-card-venture.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Ventures End -->
+
+
+
       <!-- Posts Start -->
 
       {% assign posts = site.posts | where:"author", people.slug %}
