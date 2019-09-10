@@ -1,7 +1,6 @@
 ---
 title: "Portfolio News"
 layout: default
-permalink: "/news/"
 pagination:
   enabled: true
 description: "PreAngel Latest News."
@@ -199,7 +198,7 @@ description: "PreAngel Latest News."
                   {% if page == paginator.page %}
                   <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                   {% elsif page == 1 %}
-                  <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
+                  <li class="page-item"><a class="page-link" href="{{site.baseurl}}/news/">{{ page }}</a></li>
                   {% else %}
                   <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
                   {% endif %}
