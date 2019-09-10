@@ -1,5 +1,4 @@
 ---
-author: xin-he
 name: "Xin (贺新)"
 site: https://ai-ml.club/people/newip
 bio: "AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)"

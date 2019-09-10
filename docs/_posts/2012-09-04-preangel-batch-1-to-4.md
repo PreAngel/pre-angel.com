@@ -1,6 +1,6 @@
 ---
 title: "PreAngel Batch 1-4 Portfolio Companies"
-author: leo
+author: leo-wang
 categories: news
 tags:
   - home

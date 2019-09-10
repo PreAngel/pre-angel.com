@@ -1,5 +1,4 @@
 ---
-author: chen-zhao
 name: Chen ZHAO (赵晨)
 site: https://linkedin.com/in/chenzhaomba
 avatar: http://www.pnpchina.com/public/static/images/2018-08-02/5b6278b9312c2.png

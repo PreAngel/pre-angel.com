@@ -1,6 +1,6 @@
 ---
 title:  "“只投十万”的天使投资人李卓桓，不跟年轻人讲道理"
-author: huan
+author: huan-li
 categories: news
 tags:
   - featured

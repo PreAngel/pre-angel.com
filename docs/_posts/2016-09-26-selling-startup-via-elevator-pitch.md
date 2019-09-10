@@ -1,6 +1,6 @@
 ---
 title:  "30秒打动投资人：电梯演讲篇"
-author: huan
+author: huan-li
 categories: tutorials
 tags:
   - home

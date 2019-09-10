@@ -1,6 +1,6 @@
 ---
 title:  "3分钟打动投资人：商业计划书篇"
-author: huan
+author: huan-li
 categories: tutorials
 tags:
   - home

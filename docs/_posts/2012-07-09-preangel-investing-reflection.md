@@ -1,6 +1,6 @@
 ---
 title: "一位天使投资人的心路历程"
-author: leo
+author: leo-wang
 categories: news
 tags:
   - home

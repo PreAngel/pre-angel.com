@@ -1,6 +1,6 @@
 ---
 title:  "PreAngel 李卓桓：技术控“无厘头”投资靠谱项目丨100位投资人访谈"
-author: huan
+author: huan-li
 categories: news
 tags:
   - home

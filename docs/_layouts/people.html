@@ -1,0 +1,43 @@
+---
+layout: default
+comments: true
+---
+
+{% assign people = site.peoples | where: 'slug', page.slug | first %}
+
+<div class="container">
+
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="row align-items-center mb-5">
+        <div class="col-md-9">
+          <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ people.twitter }}">Follow</a></span></h2>
+          <p><a href="{{ people.site }}">{{ people.site }}</a></p>
+          <p class="excerpt">{{ people.bio }}</p>
+        </div>
+        <div class="col-md-3 text-right">
+          <img alt="{{ people.name }}" src="{{ people.avatar }}" class="rounded-circle" height="100" width="100">
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold spanborder"><span>Bio</span></h3>
+
+      <div class="page-content">
+        {{ content }}
+      </div>
+
+      <h4 class="font-weight-bold spanborder"><span>Posts by {{people.name}}</span></h4>
+
+      {% assign posts = site.posts | where:"author", people.slug %}
+      {% for post in posts %}
+      {% include main-loop-card.html %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+
+<!-- Comments -->
+{% if page.comments != false %}
+    {% include comments.html %}
+{% endif %}

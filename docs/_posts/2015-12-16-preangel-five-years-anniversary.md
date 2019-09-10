@@ -1,6 +1,6 @@
 ---
 title: "PreAngel Fund 五周年"
-author: leo
+author: leo-wang
 categories: news
 tags:
   - home

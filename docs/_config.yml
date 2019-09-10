@@ -43,14 +43,21 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      comments: true
+      author: preangel
+      avatar: /assets/images/logo-a.png
 
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
+
+  - scope:
+      path: "_peoples"
+    values:
+      layout: people
+      comments: true
 
 # Syntax
 markdown: kramdown
