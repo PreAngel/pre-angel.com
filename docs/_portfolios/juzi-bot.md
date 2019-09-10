@@ -11,6 +11,7 @@ ventures:
   - preangel
   - alpha-startups
   - pnp-china
+  - yc
 ---
 
 # 句子互动

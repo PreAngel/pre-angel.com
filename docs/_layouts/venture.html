@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+{% assign venture = site.ventures | where: 'slug', page.slug | first %}
+
+<div class="container">
+
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="row align-items-center mb-5">
+        <div class="col-md-9">
+          <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ venture.twitter }}">Follow</a></span></h2>
+          <p><a href="{{ venture.site }}">{{ venture.site }}</a></p>
+          <p class="excerpt">{{ venture.bio }}</p>
+        </div>
+        <div class="col-md-3 text-right">
+          <img alt="{{ venture.name }}" src="{{ venture.avatar }}" class="rounded-circle" height="100" width="100">
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold spanborder"><span>Bio</span></h3>
+
+      <div class="page-content">
+        {{ content }}
+      </div>
+
+      <h4 class="font-weight-bold spanborder"><span>Portfolios from {{venture.name}}</span></h4>
+
+      {% assign venture_portfolios = '' | split: ',' %}
+      {% for portfolio in site.portfolios %}
+        {% if venture.portfolios contains portfolio.slug %}
+          {% assign venture_portfolios = venture_portfolios | push: portfolio %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="container">
+        <div class="row gap-y listrecent listrecent listauthor">
+          {% for portfolio in venture_portfolios %}
+          {% include main-loop-card-portfolio.html %}
+          {% endfor %}
+        </div>
+      </div>
+
+      <h4 class="font-weight-bold spanborder"><span>People from {{venture.name}}</span></h4>
+
+      {% assign venture_people = '' | split: ',' %}
+      {% for person in site.peoples %}
+        {% if venture.people contains person.slug %}
+          {% assign venture_people = venture_people | push: person %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="container">
+        <div class="row gap-y listrecent listrecent listauthor">
+          {% for person in venture_people %}
+          {% include main-loop-card-person.html %}
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Comments -->
+{% if page.comments != false %}
+  {% include comments.html %}
+{% endif %}

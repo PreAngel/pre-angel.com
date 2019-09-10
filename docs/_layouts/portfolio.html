@@ -26,6 +26,26 @@ comments: true
         {{ content }}
       </div>
 
+
+
+      <h4 class="font-weight-bold spanborder"><span>Investors of {{portfolio.name}}</span></h4>
+
+      {% assign portfolio_ventures = '' | split: ',' %}
+      {% for venture in site.ventures %}
+        {% if portfolio.ventures contains venture.slug %}
+          {% assign portfolio_ventures = portfolio_ventures | push: venture %}
+        {% endif %}
+      {% endfor %}
+
+      <div class="container">
+        <div class="row gap-y listrecent listrecent listauthor">
+          {% for venture in portfolio_ventures %}
+          {% include main-loop-card-venture.html %}
+          {% endfor %}
+        </div>
+      </div>
+
+
       <h4 class="font-weight-bold spanborder"><span>Posts by {{portfolio.name}}</span></h4>
 
       {% assign posts = site.posts | where:"author", portfolio.slug %}
