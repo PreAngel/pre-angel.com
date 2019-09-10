@@ -17,7 +17,9 @@ description: "PreAngel Latest News."
 
 <div class="container">
 
-  {% if page.url == "/news.html" %}
+
+
+  {% unless page.url contains 'page' %}
 
 
 
@@ -164,9 +166,7 @@ description: "PreAngel Latest News."
 
 
 
-
-
-  {% endif %} <!--endif page url is / -->
+  {% endunless %} <!--endif page url is / -->
 
 
 

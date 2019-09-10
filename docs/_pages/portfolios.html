@@ -1,7 +1,7 @@
 ---
 title: "Portfolios"
 layout: default
-permalink: "/portfolios.html"
+permalink: "/portfolios/"
 ---
 
 {% assign portfolios = site.portfolios %}
@@ -19,9 +19,9 @@ permalink: "/portfolios.html"
               <img alt="{{ portfolios.name }}" src="{{ portfolios.avatar }}" class="rounded-circle" height="80" width="80">
             </div>
             <div class="col-md-9">
-              <a href="{{site.baseurl}}/peoples/{{ portfolios.slug }}">
+              <a href="{{site.baseurl}}/portfolios/{{ portfolios.slug }}">
                 <h4 class="text-dark mb-0"> {{ portfolios.name }} </h4>
-                <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
+                <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Company)</small>
                 <div class="excerpt">{{ portfolios.bio }}</div>
               </a>
               <div class="icon-block mt-3 d-flex justify-content-between">

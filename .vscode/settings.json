@@ -48,8 +48,7 @@
   },
 
   "files.exclude": {
-    "dist/": true,
-    "doc/": true,
+    "docs/_site/": true,
     "node_modules/": true,
     "package/": true,
   },
