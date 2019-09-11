@@ -6,7 +6,14 @@ image: assets/2015/12-five-years/group-photo-2k.jpg
 comments: true
 ---
 
-{% assign partners = site.peoples | where: 'preangel', 'partner' %}
+{% assign preangel = site.ventures | where: 'slug', 'preangel' | first %}
+
+{% assign partners = '' | split: ',' %}
+{% for person in site.peoples %}
+  {% if preangel.people contains person.slug %}
+     {% assign partners = partners | push: person %}
+  {% endif %}
+{% endfor %}
 
 <div class="container">
 <div class="row gap-y listrecent listrecent listauthor">
