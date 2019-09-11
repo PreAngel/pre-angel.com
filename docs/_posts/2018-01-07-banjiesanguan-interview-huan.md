@@ -3,6 +3,7 @@ title:  "“只投十万”的天使投资人李卓桓，不跟年轻人讲道�
 author: zhuohuan-li
 categories: news
 tags:
+  - home
   - featured
   - interview
 image: assets/2018/01/banjiesanguan-huan.jpg

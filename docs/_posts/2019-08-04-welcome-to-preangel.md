@@ -3,6 +3,7 @@ title:  "Welcome to PreAngel!"
 author: zhuohuan-li
 categories: news
 tags:
+  - home
   - sticky
 image: assets/images/demo1.jpg
 ---

@@ -3,6 +3,7 @@ title: "2017全球人工智能人才白皮书：PreAngel与YC、真格基金并�
 author: preangel
 categories: news
 tags:
+  - home
   - featured
   - white paper
 image: assets/2017/12-tencent-ai-white-paper/white-paper-18.jpg

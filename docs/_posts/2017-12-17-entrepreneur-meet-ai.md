@@ -4,6 +4,7 @@ author: zhuohuan-li
 categories: tutorials
 tags:
   - ai
+  - home
   - entrepreneur
   - talk
   - featured
