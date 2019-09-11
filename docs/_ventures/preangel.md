@@ -7,6 +7,7 @@ twitter: https://weibo.com/preangel
 portfolios:
   - juzi-bot
 people:
+  - preangel
   - zhuohuan-li
   - lijie-wang
 ---
