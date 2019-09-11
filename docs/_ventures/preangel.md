@@ -2,14 +2,16 @@
 name: "PreAngel"
 site: https://www.pre-angel.com
 bio: "职业联合创始人服务"
-avatar: https://www.pre-angel.com/assets/images/logo-a.png
+avatar: /assets/peoples/preangel/preangel-logo-a.png
 twitter: https://weibo.com/preangel
 portfolios:
   - juzi-bot
 people:
-  - huan-li
-  - leo-wang
+  - zhuohuan-li
+  - lijie-wang
 ---
+
+# PreAngel
 
 PreAngel is a fund focus on the initial financing for Artificial Intelligence(AI) startups in Beijing. It normally invests 10K to 20K USD in each deal for 2% - 10% of its equity.
 

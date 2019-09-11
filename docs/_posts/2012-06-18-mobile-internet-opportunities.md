@@ -1,6 +1,6 @@
 ---
 title: "移动互联网之商机无限"
-author: leo-wang
+author: lijie-wang
 categories: news
 tags:
   - home

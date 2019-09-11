@@ -66,7 +66,7 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 - Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
-- Wechat: [918999]({{ '/assets/peoples/huan-li/wechat-qrcode.jpg' | relative_url }})
+- Wechat: [918999]({{ '/assets/peoples/zhuohuan-li/wechat-qrcode.jpg' | relative_url }})
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

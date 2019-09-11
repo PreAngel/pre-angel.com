@@ -7,7 +7,7 @@ twitter: https://twitter.com/PlugandPlayTC
 portfolios:
   - juzi-bot
 people:
-  - huan-li
+  - zhuohuan-li
   - chen-zhao
 ---
 

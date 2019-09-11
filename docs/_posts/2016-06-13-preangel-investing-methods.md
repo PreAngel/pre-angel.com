@@ -1,6 +1,6 @@
 ---
 title: "PreAngel 投资方法论"
-author: leo-wang
+author: lijie-wang
 categories: news
 tags:
   - home

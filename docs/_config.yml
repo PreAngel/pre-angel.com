@@ -45,7 +45,7 @@ defaults:
       layout: post
       comments: true
       author: preangel
-      avatar: /assets/images/logo-a.png
+      avatar: /assets/peoples/preangel/preangel-logo-a.png
 
   # all pages
   - scope:

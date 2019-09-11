@@ -1,6 +1,6 @@
 ---
 title:  "60分钟入门神经网络 - 人工智能创业篇"
-author: huan-li
+author: zhuohuan-li
 categories: tutorials
 tags:
   - ai
