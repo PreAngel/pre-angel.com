@@ -7,64 +7,33 @@ email: huan@pre-angel.com
 twitter: https://twitter.com/zixia
 ---
 
-Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
+李卓桓，PreAngel合伙人，Plug and Play Venture Partner。zixia BBS站长、优酷网首席科学家、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA，BUPT CS Ph.D majored in Machine Learning。
 
-## Research Interests
+- 15年互联网创业经验。作为LP投资了中美多支天使基金，中关村股权投资协会副会长，中国青年天使会创始理事，多家创业公司和VC机构顾问。创业邦、创业家、新浪网等媒体都对他作过创业特别报道。
+- 20年编程经验，曾任ChinaRen系统工程师。著有《Linux网络编程》、《反垃圾邮件完全手册》、《智能问答与深度学习》等技术作品。
 
-1. Conversational AI
-1. BotFramework / BotBuilder
-1. Tensorflow(JavaScript/TypeScript, Switft, TPU)
-1. Entrepreneurship
+热爱极限运动，喜欢和勇敢、富有激情、愿意接受新鲜事物并不断挑战突破自己的人做朋友。
 
-## Open Source Projects
+- 2012年到2016年，投资了百余家移动互联网初创企业，如：蓝信、时光小屋、微差事、IT桔子；抹茶美妆、互动吧；蒲公英、中体飞行、蜂信、凌宇智控；座头鲸；等。
+- 2017年至今，聚焦 ChatBot / Conversational AI 领域，投资了桔子互动；硅心科技、全悉科技、Enabler、积至科技、Hallo健身、AITalking、ChatOpera等多家人工智能公司。
 
-- [Wechaty](https://github.com/chatie/wechaty) - WeChat Bot SDK for Individual Account. ![GitHub stars](https://img.shields.io/github/stars/chatie/wechaty.svg?style=social)
-- [facenet](https://github.com/huan/node-facenet) - Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js. ![GitHub stars](https://img.shields.io/github/stars/huan/node-facenet.svg?style=social)
-- [docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker. ![GitHub stars](https://img.shields.io/github/stars/huan/docker-simple-mail-forwarder.svg?style=social)
-- [pinject](https://github.com/google/pinject) -  Dependency injection library for python. ![GitHub stars](https://img.shields.io/github/stars/google/pinject.svg?style=social)
-- [botbuilder-wechaty-adapter](https://github.com/huan/botbuilder-wechaty-adapter) - Microsoft Bot Framework v4 Adapter for Wechat Individual Account.
-- [matrix-appservice-wechaty](https://github.com/huan/matrix-appservice-wechaty) - Matrix Application Services Bridge for Wechaty for Wechat Individual Accounts.
+生活中喜爱跑步、滑雪、SALSA、MMA、跑酷、滑翔伞等极限运动。
 
-## Talks
-
-- [Operator in Variational Auto-Encoder (VAE)](https://docs.google.com/presentation/d/17w7gtD26MU2Ay38WXMDY9Ok37S6Mwd4JJ0EMpoq9M0I/edit?usp=sharing), Jan 2019
-- [Build Chatbot From 0 to 1](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing), Dec 2018
-- [Machine Learning in TypeScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing), Nov 2018
-- [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), Oct 2018
-- [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), Jan 2018 (video)
-- [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络](https://blog.zixia.net/2017/12/15/entrepreneur-meet-ai-get-started-with-neural-networks-in-60-minutes.html), Dec 2017 (video)
-- [Road to Success - To Became a Real Full Stack Developer](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), June 2017 ([repo](https://github.com/bupt/wora-app))
-- [30秒打动投资人：电梯演讲篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834289&idx=1&sn=f357a3ef14b31d6e2624492120338dbf), June 2017 (video)
-- [3分钟打动投资人：商业计划书篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834290&idx=1&sn=6ce3f9a22e1b82f51804f8306a95b512), Dec 2017
-- [Wechaty 101: from v0.0 to v0.7](https://blog.chatie.io/wechaty-101-presentation/), 18 Dec 2016 (video)
-- [听道演讲 - 李卓桓：和我一起来飞翔](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=10000009&idx=1&sn=4d4adea2700d99f5fb9e90da7ddd812d), Aug 2012 (video)
-- [跟我一起飞](https://docs.google.com/presentation/d/1oV8me-DsH_TVgFhFeQQ3axvDID6R1n4Tya64NbClhaQ/edit?usp=sharing), Mar 2010
-
-## Publications
-
-- [Concise Tensorflow 2.0](https://tf.wiki), 人民邮电出版社，ISBN TBD, 2019 (WIP)
-- [Chatbot 0 to 1](#chatbot), 电子工业出版社, ISBN TBD, 2019 (WIP)
-- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社, ISBN 9787121349218, Jan 2019
-- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社, ISBN 9787302140214, Dec 2006
-- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社, ISBN 9787111076773, Jan 2001
-
-## Awards & Honors
-
-- [Google Cloud Professional Data Engineer](https://www.credential.net/x609tcmm), Apr 2019
-- [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) (Most Valuable Artificial Intelligence Professional), Mar 2018
-- [Google ML GDE](https://developers.google.com/community/experts/directory/) (Google Machine Learning Developer Expert), Aug 2018
-- [Machine Learning by Stanford University, Coursera](https://www.coursera.org/account/accomplishments/verify/JY5VH7K6EBGZ), March 2016
-
-## Paper
-
-- TBD1 -_-b
-- TBD2 -_-\|\|
+最爱大话西游。热衷于无厘头文化。生命中最看重的两个词是：健康和快乐。
 
 ## Contact
 
 - Linkedin: <https://linkedin.com/in/zixia>
-- Email: <huan@bupt.edu.cn>
+- Github: <https://github.com/huan>
+- Email: <huan@pre-angel.com>
 - Wechat: [918999]({{ '/assets/peoples/zhuohuan-li/wechat-qrcode.jpg' | relative_url }})
+- Weibo: [@李卓桓](https://weibo.com/lizhuohuan)
+
+### As an AI Professional & ML Expert
+
+> I focus on helping Artifical Intelligence Startups  
+> to use the State-Of-The-Art Machine Learning Algorithms  
+> to solve the Real-world Problem.  
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
