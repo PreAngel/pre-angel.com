@@ -3,20 +3,18 @@ layout: default
 comments: true
 ---
 
-{% assign portfolio = site.portfolios | where: 'slug', page.slug | first %}
-
 <div class="container">
 
   <div class="row justify-content-center">
     <div class="col-md-8">
       <div class="row align-items-center mb-5">
         <div class="col-md-9">
-          <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ portfolio.twitter }}">Follow</a></span></h2>
-          <p><a href="{{ portfolio.site }}">{{ portfolio.site }}</a></p>
-          <p class="excerpt">{{ portfolio.bio }}</p>
+          <h2 class="font-weight-bold">{{page.name}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ page.twitter }}">Follow</a></span></h2>
+          <p><a href="{{ page.site }}">{{ page.site }}</a></p>
+          <p class="excerpt">{{ page.bio }}</p>
         </div>
         <div class="col-md-3 text-right">
-          <img alt="{{ portfolio.name }}" src="{{ portfolio.avatar }}" class="rounded-circle" height="100" width="100">
+          <img alt="{{ page.name }}" src="{{ page.avatar }}" class="rounded-circle" height="100" width="100">
         </div>
       </div>
 
@@ -28,11 +26,11 @@ comments: true
 
 
       <!-- Founder Start -->
-      <h4 class="font-weight-bold spanborder"><span>Founder of {{portfolio.name}}</span></h4>
+      <h4 class="font-weight-bold spanborder"><span>Founder of {{page.name}}</span></h4>
 
       {% assign portfolio_people = '' | split: ',' %}
       {% for person in site.peoples %}
-        {% if portfolio.people contains person.slug %}
+        {% if page.people contains person.slug %}
           {% assign portfolio_people = portfolio_people | push: person %}
         {% endif %}
       {% endfor %}
@@ -51,14 +49,14 @@ comments: true
       <!-- Investors Start -->
       {% assign portfolio_ventures = '' | split: ',' %}
       {% for venture in site.ventures %}
-        {% if portfolio.ventures contains venture.slug %}
+        {% if page.ventures contains venture.slug %}
           {% assign portfolio_ventures = portfolio_ventures | push: venture %}
         {% endif %}
       {% endfor %}
 
       {% assign portfolio_ventures_size = portfolio_ventures | size %}
       {% if portfolio_ventures_size > 0 %}
-        <h4 class="font-weight-bold spanborder"><span>Investors of {{portfolio.name}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Investors of {{page.name}}</span></h4>
 
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
@@ -71,8 +69,8 @@ comments: true
       <!-- Investors End-->
 
       <!-- Posts Start -->
-      <h4 class="font-weight-bold spanborder"><span>Posts by {{portfolio.name}}</span></h4>
-      {% assign posts = site.posts | where:"author", portfolio.slug %}
+      <h4 class="font-weight-bold spanborder"><span>Posts by {{page.name}}</span></h4>
+      {% assign posts = site.posts | where:"author", page.slug %}
       {% for post in posts %}
       {% include main-loop-card-post.html %}
       {% endfor %}
