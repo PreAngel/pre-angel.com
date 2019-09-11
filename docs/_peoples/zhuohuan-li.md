@@ -5,8 +5,6 @@ avatar: /assets/peoples/zhuohuan-li/avatar.jpg
 bio: "Hi, I am Huan, PreAngel Partner focus on ML & Conversational AI, a full of passion Chatbot fan!"
 email: huan@pre-angel.com
 twitter: https://twitter.com/zixia
-preangel:
-  - partner
 ---
 
 Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.

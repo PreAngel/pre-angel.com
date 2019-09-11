@@ -27,7 +27,7 @@ layout: default
 
       {% assign venture_portfolios = '' | split: ',' %}
       {% for portfolio in site.portfolios %}
-        {% if page.portfolios contains portfolio.slug %}
+        {% if portfolio.ventures contains page.slug %}
           {% assign venture_portfolios = venture_portfolios | push: portfolio %}
         {% endif %}
       {% endfor %}

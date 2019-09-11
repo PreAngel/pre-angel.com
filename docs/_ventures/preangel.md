@@ -1,11 +1,9 @@
 ---
 name: "PreAngel"
 site: https://www.pre-angel.com
-bio: "职业联合创始人服务"
+bio: "职业联合创始人服务：300+家中美初创企业背后的天使投资机构"
 avatar: /assets/peoples/preangel/preangel-logo-a.png
 twitter: https://weibo.com/preangel
-portfolios:
-  - juzi-bot
 people:
   - preangel
   - zhuohuan-li

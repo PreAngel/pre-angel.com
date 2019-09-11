@@ -4,8 +4,6 @@ site: http://www.alphastartups.net
 bio: "阿尔法公社（Alpha Startups）是一家重度帮助创业者的天使投资基金"
 avatar: https://media.licdn.com/dms/image/C4E0BAQHgfFxqZIxoJw/company-logo_200_200/0?e=2159024400&v=beta&t=5aUR3hsOHamTXApXK4Ae6KQ_s_4YwyBNHpMIAQnFjpQ
 twitter: https://twitter.com/alpha_startups
-portfolios:
-  - juzi-bot
 people:
   - siqing-xu
   - yameng-jiang
