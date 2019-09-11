@@ -5,7 +5,6 @@ categories: news
 tags:
   - home
   - angel
-  - featured
 image: assets/2012/07-09-leo-talk.jpg
 ---
 

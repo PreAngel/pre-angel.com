@@ -4,7 +4,6 @@ author: zhuohuan-li
 categories: news
 tags:
   - home
-  - featured
   - interview
 image: assets/2015/12/venture-capital-dream-works.jpg
 ---

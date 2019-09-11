@@ -5,7 +5,6 @@ categories: news
 tags:
   - home
   - mobile
-  - featured
 image: assets/2012/07-23-leo-talk.jpg
 ---
 

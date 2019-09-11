@@ -6,7 +6,6 @@ tags:
   - home
   - milestone
   - event
-  - featured
 image: assets/2012/08-12-heduo-lp-group-photo.jpg
 ---
 

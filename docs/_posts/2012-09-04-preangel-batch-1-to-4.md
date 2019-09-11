@@ -5,7 +5,6 @@ categories: news
 tags:
   - home
   - portfolio
-  - featured
 image: assets/2012/seed-portfolios.jpg
 ---
 
