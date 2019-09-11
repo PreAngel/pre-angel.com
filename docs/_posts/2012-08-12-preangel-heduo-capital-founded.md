@@ -43,11 +43,11 @@ image: assets/2012/08-12-heduo-lp-group-photo.jpg
 
 ## 非路演PreAngel项目
 
-1. 李相磊，旅行淘 CEO，www.Lxtao.com 
-1. 陆军，彩链中国 CEO， www.colormobi.com 
-1. 曹阳，巨鹿移动 CTO， www.julumobile.com 
-1. 严天亦，巴别塔 CEO， www.babeeta.com 
-1. 张斌，九樱天下 CEO， www.vinux.com 
+1. 李相磊，旅行淘 CEO，www.Lxtao.com
+1. 陆军，彩链中国 CEO， www.colormobi.com
+1. 曹阳，巨鹿移动 CTO， www.julumobile.com
+1. 严天亦，巴别塔 CEO， www.babeeta.com
+1. 张斌，九樱天下 CEO， www.vinux.com
 1. 邬珏玲，樱果无限 CEO
 1. 张杰，福杰科技 CEO
 
@@ -56,9 +56,9 @@ image: assets/2012/08-12-heduo-lp-group-photo.jpg
 1. 蔡文胜（地主:-P）
 1. 历伟，张春晖（松禾资本）
 1. 李晓光，刘炳海（至少来一个）
-1. 孙涛，时光流 CEO， www.Shiguangliu.com 
-1. 赵力，乐蛙 CEO， www.LewaOS.com 
-1. 沈烨，索乐 CEO， www.Socogame.com 
+1. 孙涛，时光流 CEO， www.Shiguangliu.com
+1. 赵力，乐蛙 CEO， www.LewaOS.com
+1. 沈烨，索乐 CEO， www.Socogame.com
 1. 李卓桓，清华企业家协会，叽歪网创始人
 1. 王迪鹏，神州数码移动互联网事业部总经理
 1. 刘晓光，高通中国投资部，高级经理

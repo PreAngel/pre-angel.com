@@ -12,7 +12,9 @@
     ]
   },
   "ignore": [
-    "docs/assets/js/viewer-js",
+    "docs/assets/js",
+    "docs/assets/css",
+    "docs/assets/images",
     "tests/fixtures"
   ]
 }

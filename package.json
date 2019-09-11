@@ -1,7 +1,7 @@
 {
-  "name": "mm-github-pages-starter",
-  "version": "0.2.9",
-  "description": "Minimal Mistakes GitHub Pages Site Starter for Chatie Org",
+  "name": "pre-angel.com",
+  "version": "0.0.1",
+  "description": "PreAngel Official Website",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chatie/mm-github-pages-starter.git"
+    "url": "git+https://github.com/PreAngel/pre-angel.com.git"
   },
   "keywords": [
-    "Minimal Mistakes",
+    "PreAngel",
     "Jekyll"
   ],
   "author": "Huan LI <zixia@zixia.net>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/chatie/mm-github-pages-starter/issues"
+    "url": "https://github.com/PreAngel/pre-angel.com/issues"
   },
-  "homepage": "https://github.com/chatie/mm-github-pages-starter#readme",
+  "homepage": "https://github.com/PreAngel/pre-angel.com#readme",
   "devDependencies": {
     "@chatie/eslint-config": "^0.8.1",
     "@chatie/tsconfig": "^0.6.1",

@@ -217,7 +217,7 @@ image: assets/2016/09-selling-startup-via-elevator-pitch/slide-01.jpg
     overflow:hidden;
 ">
   <iframe
-    src="https://v.qq.com/txp/iframe/player.html?vid=v052930xs7u" 
+    src="https://v.qq.com/txp/iframe/player.html?vid=v052930xs7u"
     width='560'
     height='315'
     allowfullscreen

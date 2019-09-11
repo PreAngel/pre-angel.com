@@ -51,25 +51,25 @@ PreAngel first four batch portfolio companies: total 50 companies.
 ## PreAngel 第三期
 
 1. [Wodache.com](http://www.wodache.com/) [@](http://weibo.com/wodache)[我搭车](http://weibo.com/wodache)：都市白领拼车服务，通过平台匹配路线吻合的私家车和搭车者，建立公平的机制保证付出和收获的公平及用户人身财产安全；**正在募集天使投资；**北京；[@王一禾EricWang](http://weibo.com/ericyihewang) [@胡怀之James](http://www.weibo.com/huisjames) [@许伟捷JeffHsu](http://www.weibo.com/sirjeffhsu)
-1. [BeHere.us](http://www.behere.us/) [@BeHereUs](http://weibo.com/behereus)：“现场云协作平台”，以活动、会议、展览、商场等现场为中心的信息云服务，用户Check in到活动现场的云服务站点后可以查看相关信息或下载文档；**正在Pre-A轮；**北京；[@吴敏Tree](http://weibo.com/yunzhongzi) [@王晗\_MW](http://weibo.com/url4mw) [@曾乐Brant](http://weibo.com/legitimatemind) 
+1. [BeHere.us](http://www.behere.us/) [@BeHereUs](http://weibo.com/behereus)：“现场云协作平台”，以活动、会议、展览、商场等现场为中心的信息云服务，用户Check in到活动现场的云服务站点后可以查看相关信息或下载文档；**正在Pre-A轮；**北京；[@吴敏Tree](http://weibo.com/yunzhongzi) [@王晗\_MW](http://weibo.com/url4mw) [@曾乐Brant](http://weibo.com/legitimatemind)
 1. [Sxbbm.com](http://sxbbm.com/) [@师兄帮帮忙网站](http://weibo.com/sxbbm)：在校大学生任务发布和解决的社交平台。女生可以轻松发布各类任务寻求帮助，男生认领任务并帮助师妹解决问题，由清华博士和硕士生创办；**正在募集天使投资；**北京；申磊（[@颓猫](http://weibo.com/u/1530797013)）[@翁晓奇](http://weibo.com/206152888) [@兰德杰](http://weibo.com/randjiang) [@壹芃](http://weibo.com/li1peng)
 1. [Miidi.net](http://www.miidi.net/) 米迪：移动广告平台。为开发者提供支持广告条，广告墙等丰富多样广告展示的SDK并提供服务托管及用户交互行为跟踪分析等服务；**正在募集天使投资**；武汉；邓康（[@茫茫江天](http://www.weibo.com/u/2201072042)）；
 1. [Shengshengbuxi.com](http://shengshengbuxi.com/) 声声不息（[@声声app](http://weibo.com/shengshengapp)）：社会化语音问答分享应用，系统每天提出一个有趣的问题，用户用语音回答并与其他好友及陌生人分享；通过植入式广告及品牌互动营销盈利；正在募集天使投资；北京；[@陈桦Grace](http://weibo.com/chenhuagrace)；
 1. [iBookbook.com](http://ibookbook.com/) 书途网：杭州师范大学和杭州电子科大学生联合创办，面向在校大学生的旧书互借平台；结合新书电子商务及面向大学生的招聘和广告模式盈利；**正在募集天使投资；**杭州；陈康（[@Sasiky](http://weibo.com/910223291)）
 1. [NumberSinger.sinaapp.com](http://numsinger.sinaapp.com/) [@](http://weibo.com/numbersinger)[智铃手机应用](http://weibo.com/numbersinger)：由北大研究生团队创办的个性化铃音服务，可基于手机号码转换成音符，自动生成美妙的来电铃音，通过销售音乐模板获利；**正在Pre-A轮；**北京；王宫（[@王小宫不爱Gossip](http://weibo.com/wangxiaogong)）
-1. [Elepon.me](http://elepon.me/)[@爱丽胖](http://weibo.com/u/2576715224) 是一款专为女性用户量身打造的宠物互动App，研发团队均为科技女孩（Girls in Tech）。该应用通过趣味交互的方式收集女性用户的兴趣点以及消费行为轨迹。**正在募集天使投资；**上海；大妈咪: [@周静GITChina](http://weibo.com/acrossthec) 
-1. 艺点儿 ArtPlus：“A＋”搭建青年艺术家与大众消费者间的平台，通过租售艺术品实现盈利的同时，帮助青年艺术家获利并提高声望，成为“草根艺术家”；**正在募集天使投资；**北京 ；[@Viv\_猫](http://weibo.com/u/1752166204) 
-1. [JuluMobile.com](http://julumobile.com/) [@巨鹿软件科技上海有限公司](http://weibo.com/julumobile)：由前 Google Asia Search Monetization 负责人 创办的移动品牌广告平台，通过数据挖掘，精准营销等云技术帮助品牌主在移动互联网建立高效低成本的品牌传播渠道；上海；**正在A轮；**Doug Raymond, 曹阳 
+1. [Elepon.me](http://elepon.me/)[@爱丽胖](http://weibo.com/u/2576715224) 是一款专为女性用户量身打造的宠物互动App，研发团队均为科技女孩（Girls in Tech）。该应用通过趣味交互的方式收集女性用户的兴趣点以及消费行为轨迹。**正在募集天使投资；**上海；大妈咪: [@周静GITChina](http://weibo.com/acrossthec)
+1. 艺点儿 ArtPlus：“A＋”搭建青年艺术家与大众消费者间的平台，通过租售艺术品实现盈利的同时，帮助青年艺术家获利并提高声望，成为“草根艺术家”；**正在募集天使投资；**北京 ；[@Viv\_猫](http://weibo.com/u/1752166204)
+1. [JuluMobile.com](http://julumobile.com/) [@巨鹿软件科技上海有限公司](http://weibo.com/julumobile)：由前 Google Asia Search Monetization 负责人 创办的移动品牌广告平台，通过数据挖掘，精准营销等云技术帮助品牌主在移动互联网建立高效低成本的品牌传播渠道；上海；**正在A轮；**Doug Raymond, 曹阳
 1. [YeeCloud.com](http://www.yeecloud.com/) **深圳易科：创新的技术与服务能帮助开发者把他们原生的智能手机应用（Apps）在无需重写的情况下，直接且快速的进行跨平台移植，两位创始人均为英国剑桥大学硕士；**正在A轮；**深圳；陈文琦（[@Wenqi1](http://weibo.com/wenq1)），黄昕（[@\_Stephen\_Huang\_](http://weibo.com/xyeec)）
 
 ## PreAngel 第四期
 
 1. [Shicha.com](http://shicha.com/) [@时差网官方微博](http://weibo.com/timediff)：由美国康乃尔大学毕业生创办的留学服务交易平台，整合海外留学生向国内学生提供一对一的出国留学相关咨询服务，类似于留学咨询服务界的淘宝网；**正在A轮；**北京；[@司维Robin](http://weibo.com/robinsi)；
 1. [Guomi.com](http://guomi.com/) [@果蜜网](http://weibo.com/u/2681188553)：旨在建立国内No.1的垂直于美容及个人护理行业的社会化 电商平台，可以理解为化妆品领域的“美丽说”；**正在A轮；**北京；[@](http://weibo.com/yujieyang)[杨毓杰Jack](http://weibo.com/yujieyang)，王猛；
-1. [Lxtao.com](http://lxtao.com/) [@旅行淘](http://weibo.com/u/2713458851)： 针对出国商旅人士提供当地特色商品购买相关的价格，品牌，位置，交通，折扣，关税等相关信息，并打造为最佳代购信息交互及交易平台；**正在A轮；**北京；李相磊（[@最美中国李相磊](http://weibo.com/izmzgvincent)）； 
+1. [Lxtao.com](http://lxtao.com/) [@旅行淘](http://weibo.com/u/2713458851)： 针对出国商旅人士提供当地特色商品购买相关的价格，品牌，位置，交通，折扣，关税等相关信息，并打造为最佳代购信息交互及交易平台；**正在A轮；**北京；李相磊（[@最美中国李相磊](http://weibo.com/izmzgvincent)）；
 1. [Bobo-hair.com](http://www.bobo-hair.com/) [@波波美发网](http://weibo.com/bobhair)：聚合美发师，美容店，美发品牌，美发培训机构和美发顾客五大类用户群的垂直O2O平台；业内资深人士创办；**正在A轮；**上海；史良瑞，徐小雅（ [@梧桐胡杨](http://weibo.com/evaxyx) ）；
 1. [YesMyLaw.com](http://yesmylaw.com/) [@YesMyLaw官方微博](http://weibo.com/yesmylaw)：面向初创企业及中小企业法律服务平台，提供免费的线下法律知识讲座，线上提供价格低廉的各种企业常用法律文件模板和审阅服务，并提供面向律师和律师所的社会化评论分享；**正在A轮；**上海；[@YesMyLaw马强](http://weibo.com/come2usa)，周雪爽 William；
-1. [Wokaishi.com](http://wokaishi.com/) [@我开始网站](http://weibo.com/wokaishi): 用游戏的奖励机制结合世界上最友好的健身视频，让用户更加容易的坚持运动，随时随地锻炼身体，分享成果。产品为用户提供了免费的健身，饮食方案。帮助用户把健身变成新的习惯。正在募集天使投资；北京；[@Josh杜希萌 ](http://weibo.com/joshduximeng)
+1. [Wokaishi.com](http://wokaishi.com/) [@我开始网站](http://weibo.com/wokaishi): 用游戏的奖励机制结合世界上最友好的健身视频，让用户更加容易的坚持运动，随时随地锻炼身体，分享成果。产品为用户提供了免费的健身，饮食方案。帮助用户把健身变成新的习惯。正在募集天使投资；北京；[@Josh杜希萌](http://weibo.com/joshduximeng)
 1. [Wodingche.com](http://wodingche.com/) [@](http://weibo.com/qumanyou)[订车网-Wodingche](http://weibo.com/qumanyou) ：网络订车领域的“携程+去哪儿”模式，提供一站式便捷订车，自驾代驾，机场接送，166个城市，一个电话：400-118-0101；**正在A轮；**上海；[@订车网李天怡](http://weibo.com/n/%E8%AE%A2%E8%BD%A6%E7%BD%91%E6%9D%8E%E5%A4%A9%E6%80%A1) [@订车网陈萌](http://weibo.com/n/%E8%AE%A2%E8%BD%A6%E7%BD%91%E9%99%88%E8%90%8C)；
 1. [iQiubo.com](http://iqiubo.com/) 秋菠网：北京科技大学在校生创业，基于校园物品互赠的真实身份社交网络平台，用户你可以将身边的闲置物品或小玩意儿无偿地送给其他人，并基于此展开的线下社交；与Steve Bell共同投资；北京；陈威
 1. [佰看](http://100kan.tv/)：类似于Deja的视频版Flipboard，聚合各大视频网站有趣好玩的微视频，用更加友好的交互方式呈现给用户，方便用户一站式检索，浏览和观看微视频。SP行业资深人士创办。正在A轮；上海；[@朱明Brian](http://weibo.com/brianzhu)

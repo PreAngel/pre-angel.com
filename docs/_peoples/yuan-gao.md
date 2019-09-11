@@ -12,7 +12,7 @@ twitter: https://www.weibo.com/u/2166731327
 
 - 前 Amazon Software Engineer
 - 前 Expedia Software Engineer
-- 共同搭建舞蹈社群‘舞哩’ 
+- 共同搭建舞蹈社群‘舞哩’
 - 共同创立联想idea精英汇
 - 清华大学信息安全实验室安卓源码加密研究
 - 北京邮电大学计算机本科
