@@ -2,7 +2,7 @@
 name: "Galileo Venture (伽利略资本)"
 site: 
 bio: "锐意进取，浩然正气，与创业者一起在路上"
-avatar: https://img5.tianyancha.com/logo/jigou/6ceb534e1309ee78f8b9508068cbbb4b.png@!n_200x200
+avatar: /assets/ventures/galileo-venture/logo-square.png
 twitter: 
 people:
   - hao-gu
