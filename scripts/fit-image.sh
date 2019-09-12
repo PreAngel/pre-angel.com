@@ -26,7 +26,7 @@ FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o 
 
 echo "Checking ..."
 for FILE in "${FILE_LIST[@]}"; do
-  if [[ $FILE =~ assets/peoples/preangel/ ]]; then
+  if [[ $FILE =~ assets/ventures/preangel/ ]]; then
     # echo "skipped $FILE for it's in whitelist directory."
     echo -n S
     continue
