@@ -35,7 +35,7 @@ test('image size should not more than 1MB', async t => {
   const MAX_SIZE  = 1024 * 1024 * 2  // 2MB
 
   const SKIP_REG = [
-    /docs\/assets\/peoples\/preangel\//,
+    /docs\/assets\/ventures\/preangel\//,
     /docs\/assets\/2015\/12-five-years\//,
   ]
 
