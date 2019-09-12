@@ -5,6 +5,7 @@ categories: news
 tags:
   - tsinghua
   - xlab
+  - pitch
   - 333
 image: assets/2013/12-xlab-tsinghua/huan.jpg
 ---
