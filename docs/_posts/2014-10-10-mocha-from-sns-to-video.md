@@ -3,6 +3,7 @@ title: 做化妆品导购，“抹茶美妆”为什么放弃社区选择了短�
 author: yi-huang
 categories: news
 tags:
+  - featured
   - mocha
   - o2o
   - retail

@@ -3,6 +3,7 @@ title: “抹茶美妆” 完成千万美金 A+ 轮融资，计划由导购转�
 author: yi-huang
 categories: news
 tags:
+  - featured
   - mocha
   - o2o
   - retail
