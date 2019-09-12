@@ -1,5 +1,5 @@
 ---
-title:  "PreAngel 李卓桓：技术控“无厘头”投资靠谱项目丨100位投资人访谈"
+title: 专访李卓桓：技术控“无厘头”投资靠谱项目
 author: zhuohuan-li
 categories: news
 tags:
