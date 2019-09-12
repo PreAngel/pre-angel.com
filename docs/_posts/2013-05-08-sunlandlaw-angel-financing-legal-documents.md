@@ -89,7 +89,7 @@ image: assets/2013/05-sunlandlaw-leagel-documents/sunland-leijun-xuxiaoping.jpg
 - [天使投融资法律文件与解析 Part1](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part1.pdf)
 - [天使投融资法律文件与解析 Part2](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part2.pdf)
 
-1. [条款清单（Term_Sheet）](/assets/2013/05-sunlandlaw-leagel-documents/1-term-sheet.doc)
-2. [增资协议（主交易文件）](/assets/2013/05-sunlandlaw-leagel-documents/2-capital-increase-agreement.doc)
-3. [增资协议附件列表](/assets/2013/05-sunlandlaw-leagel-documents/3-capital-increase-agreement-appendix.doc)
-4. [增资扩股股东会决议](/assets/2013/05-sunlandlaw-leagel-documents/4-capital-increase-agreement-board-resolution.doc )
+1. [Term Sheet - 条款清单](/assets/2013/05-sunlandlaw-leagel-documents/1-term-sheet.doc)
+2. [Share Purchase Agreement (SPA) - 增资协议（主交易文件）](/assets/2013/05-sunlandlaw-leagel-documents/2-share-purchase-agreement.doc)
+3. [Appendix - 增资协议附件列表](/assets/2013/05-sunlandlaw-leagel-documents/3-share-purchase-agreement-appendix.doc)
+4. [Shareholders Agreement (SHA) - 增资扩股股东会决议](/assets/2013/05-sunlandlaw-leagel-documents/4-shareholders-agreement.doc )
