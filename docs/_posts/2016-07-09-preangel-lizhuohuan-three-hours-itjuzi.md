@@ -3,6 +3,8 @@ title: 与PreAngel李卓桓漫谈3小时，他热爱的飞伞，技术与投资
 author: preangel
 categories: news
 tags:
+  - home
+  - featured
   - itjuzi
   - interview
 image: assets/2016/07-preangel-lizhuohuan-itjuzi-xiling/xiling.jpg
