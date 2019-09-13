@@ -1,5 +1,5 @@
 ---
-title: 李卓桓：天使投资界的“玩主”
+title: 中关村股权投资协会会长访谈：李卓桓”
 author: preangel
 categories: news
 tags:
