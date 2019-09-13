@@ -1,5 +1,5 @@
 ---
-title: "PreAngel Batch 1-4 Portfolio Companies"
+title: PreAngel Batch 1-4 Portfolio Companies
 author: lijie-wang
 categories: news
 tags:

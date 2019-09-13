@@ -1,5 +1,5 @@
 ---
-title:  "30秒打动投资人：电梯演讲篇"
+title: 30秒打动投资人：电梯演讲篇
 author: zhuohuan-li
 categories: tutorials
 tags:

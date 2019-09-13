@@ -1,5 +1,5 @@
 ---
-title: "如果他们当年上了创业真人秀，下场将会是这样的…"
+title: 如果他们当年上了创业真人秀，下场将会是这样的…
 author: zhuohuan-li
 categories: news
 tags:

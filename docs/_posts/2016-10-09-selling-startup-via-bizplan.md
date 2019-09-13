@@ -1,5 +1,5 @@
 ---
-title:  "3分钟打动投资人：商业计划书篇"
+title: 3分钟打动投资人：商业计划书篇
 author: zhuohuan-li
 categories: tutorials
 tags:

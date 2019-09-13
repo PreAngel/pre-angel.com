@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-permalink: "/contact.html"
+title: Contact
+permalink: /contact.html
 ---
 
 <!-- markdownlint-disable MD033 -->

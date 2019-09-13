@@ -1,5 +1,5 @@
 ---
-title: "PreAngel 投资方法论"
+title: PreAngel 投资方法论
 author: lijie-wang
 categories: news
 tags:

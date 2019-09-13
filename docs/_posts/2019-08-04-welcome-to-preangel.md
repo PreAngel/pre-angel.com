@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to PreAngel!"
+title: Welcome to PreAngel!
 author: zhuohuan-li
 categories: news
 tags:
