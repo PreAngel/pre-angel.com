@@ -1,5 +1,5 @@
 ---
-title: 快创学院结业典礼：结业只是我们结识的开始
+title: 快乐创业学院结业典礼：结业只是我们结识的开始
 author: zhuohuan-li
 categories: news
 tags:
