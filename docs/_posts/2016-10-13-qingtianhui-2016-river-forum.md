@@ -1,5 +1,5 @@
 ---
-title: 中国天使投资人峰会暨中国青年天使会第三届黄浦江论坛 
+title: PreAngel协办：中国天使投资人峰会暨中国青年天使会第三届黄浦江论坛 
 author: lijie-wang
 categories: news
 tags:
@@ -49,7 +49,7 @@ image: assets/2016/10-qingtianhui-river-forum/splash.jpg
 
 ![杨守彬](/assets/2016/10-qingtianhui-river-forum/yangshoubin.jpg)
 
-**杨守彬**
+### 杨守彬
 
 - 中国青年天使会秘书长
 - 丰厚资本创始合伙人
@@ -60,7 +60,7 @@ image: assets/2016/10-qingtianhui-river-forum/splash.jpg
 
 ## 人员构成
 
-![人员构成](/assets/2016/10-qingtianhui-river-forum/structure.jpg)
+![人员构成](/assets/2016/10-qingtianhui-river-forum/structure.png)
 
 ## 参会嘉宾
 
