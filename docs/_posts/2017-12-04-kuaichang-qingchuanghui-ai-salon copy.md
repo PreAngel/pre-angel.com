@@ -16,13 +16,13 @@ image: assets/2016/09-ai-angel-investment-salon/wangshaojie.jpg
 
 中关村股权投资协会执行秘书长、快创学院创始人尹立志会长首先对本次“人工智能投资”投资人下午茶活动作了详细介绍，这一期的“投资人下午茶”活动以“人工智能投资”为主题，与会者既可以听行业专家做专业分享，还可以坐在一起探讨未来最有价值的投资方向。
 
-![人工智能沙龙](/assets/2016/09-ai-angel-investment-salon/zhaochen.jpg)
-
-美国硅谷著名孵化器Plug and Play中国区负责人赵晨介绍Plug and Play孵化器。
-
-![人工智能沙龙](/assets/2016/09-ai-angel-investment-salon/lizhuohuan.jpg)
+![人工智能沙龙 - 李卓桓](/assets/2016/09-ai-angel-investment-salon/lizhuohuan.jpg)
 
 PreAngel 投资合伙人、中关村股权投资协会常务副会长李卓桓分享人工智能机器学习的原理和具体投资案例。李卓桓会长既是技术控，又是投资家，深耕天使投资领域多年，对人工智能投资有着深刻的见解。此次李卓桓会长详细分享了自己对人工智能的现状、发展和未来投资趋势的把握。
+
+![人工智能沙龙 - 赵晨](/assets/2016/09-ai-angel-investment-salon/zhaochen.jpg)
+
+美国硅谷著名孵化器Plug and Play中国区负责人赵晨介绍Plug and Play孵化器。
 
 ![人工智能沙龙](/assets/2016/09-ai-angel-investment-salon/wangshaojie.jpg)
 
