@@ -1,5 +1,5 @@
 ---
-title: 中关村股权投资协会会长访谈：李卓桓”
+title: 中关村股权投资协会会长李卓桓访谈
 author: preangel
 categories: news
 tags:
