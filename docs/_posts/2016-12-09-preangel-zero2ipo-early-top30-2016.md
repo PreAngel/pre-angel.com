@@ -19,6 +19,8 @@ image: assets/2016/12-preangel-zero2ipo-early-top30/zero2ipo.jpg
 
 > Top 30 Early-stage InvestmentFirms of the Year 2016
 
+<!-- markdownlint-disable MD033 -->
+
 <div>
    <table width="100%" cellspacing="1" cellpadding="0" border="0" bgcolor="#f8f8f8">
       <tbody>
