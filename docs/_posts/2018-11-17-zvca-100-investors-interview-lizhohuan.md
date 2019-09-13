@@ -5,6 +5,7 @@ categories: news
 tags:
   - featured
   - zvca
+  - pnp
   - interview
 image: assets/2018/11-zvca-100-investors-interview/zvca-interview-lizhuohuan.jpg
 ---
@@ -27,7 +28,31 @@ PreAngel基金专指在某个产业领域有深刻的认识和资源积累，愿
 
 PreAngel投资人，Plug and Play Venture Partner，水木清华 BBS 站长，程序员。连续创业者，活跃天使投资人，技术背景。Zixia BBS、优酷网（首席科学家）、叽歪网创始人、中国青年天使会创始理事，中关村股权投资协会副会长。
 
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src="http://player.youku.com/embed/XMzI0OTcxMDcwOA=="
+    width='510'
+    height='498'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
 
+> 记录改变时代进程的人和脚步 - 中关村股权投资协会会长访谈 - 星时代
 
 他是资深技术控，追逐极客精神；他爱玩无线电、练过跳舞，更钟情极限运动；他喜欢新鲜事物，自称"三分钟热度"，更关注刺激和有激情的项目，但一定要是感兴趣的。
 
@@ -85,7 +110,7 @@ PreAngel投资人，Plug and Play Venture Partner，水木清华 BBS 站长，�
 
 李卓桓认为，"人类科技的每一次进步，始终是会有一群像我一样，疯狂地去追求和研究它的人。"而他自己，也希望用技术变革推动社会前进。
 
-"我已经被录取为2018年入学的Machine Learning Ph.D 了，研究方向是 ChatUI。"李卓桓说。
+"我已经被录取为2018年入学攻读 Machine Learning 方向的 Ph.D 了，研究方向是 Conversational AI / Chat User Interface。"李卓桓说。
 
 -----
 
