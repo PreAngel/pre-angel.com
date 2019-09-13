@@ -51,7 +51,7 @@ image: assets/2016/12-preangel-zero2ipo-early-top30/zero2ipo.jpg
                2
             </td>
             <td>
-               北京创新工场投资中心（有限合伙） 
+               北京创新工场投资中心（有限合伙）
             </td>
             <td>
                创新工场
@@ -84,7 +84,7 @@ image: assets/2016/12-preangel-zero2ipo-early-top30/zero2ipo.jpg
                5
             </td>
             <td>
-               英诺融科（北京）投资管理有限公司 
+               英诺融科（北京）投资管理有限公司
             </td>
             <td>
                英诺天使基金

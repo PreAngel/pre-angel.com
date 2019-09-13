@@ -1,5 +1,5 @@
 ---
-title: PreAngel协办：中国天使投资人峰会暨中国青年天使会第三届黄浦江论坛 
+title: PreAngel 协办：中国天使投资人峰会暨中国青年天使会第三届黄浦江论坛 
 author: lijie-wang
 categories: news
 tags:

@@ -1,5 +1,5 @@
 ---
-title: PreAngel荷多资本荣登“中国天使投资TOP15” 
+title: PreAngel 荣登“中国天使投资TOP15” 
 author: preangel
 categories: news
 tags:
