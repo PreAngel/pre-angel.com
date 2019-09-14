@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% assign items = site[page.collection] %}
+
+<div class="container">
+  {{ content }}
+
+  <h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+    <div class="row gap-y listrecent listrecent listauthor">
+
+      {% for entity in items %}
+      {% include main-loop-card-item.html %}
+      {% endfor %}
+
+    </div>
+  </div>

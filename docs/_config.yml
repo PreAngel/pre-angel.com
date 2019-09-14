@@ -1,12 +1,12 @@
 # Site
-name: 'PreAngel'
-description: 'PreAngel - 300+家中美初创企业背后的天使投资机构：你的职业联合创始人服务'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: ''
-disqus: 'preangel'
-email: 'bp@pre-angel.com'
-mailchimp-list: 'https://zixia.us4.list-manage.com/subscribe/post?u=a8584b55dea5aa8bbc14bd1a0&amp;id=d9899f0d70'
+name: PreAngel
+description: PreAngel - 300+家中美初创企业背后的天使投资机构：你的职业联合创始人服务
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
+baseurl:
+disqus: preangel
+email: bp@pre-angel.com
+mailchimp-list: https://zixia.us4.list-manage.com/subscribe/post?u=a8584b55dea5aa8bbc14bd1a0&amp;id=d9899f0d70
 
 include: ["_pages"]
 permalink: /:title/
@@ -18,29 +18,12 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
 # Defaults
 defaults:
 
   # all posts
   - scope:
-      path: "_posts"
+      path: _posts
     values:
       layout: post
       comments: true
@@ -49,24 +32,26 @@ defaults:
 
   # all pages
   - scope:
-      path: "_pages"
+      path: _pages
     values:
       layout: page
-
   - scope:
-      path: "_peoples"
+      path: _peoples
     values:
       layout: people
       comments: true
-
   - scope:
-      path: "_portfolios"
+      path: _portfolios
     values:
       layout: portfolio
       comments: true
-
   - scope:
-      path: "_ventures"
+      path: _ventures
+    values:
+      layout: venture
+      comments: true
+  - scope:
+      path: _agencies
     values:
       layout: venture
       comments: true
@@ -77,7 +62,7 @@ highlighter: rouge
 
 # Paginate
 paginate: 15
-paginate_path: "/news/page:num/"
+paginate_path: /news/page:num/
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
@@ -93,5 +78,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   ventures:
+    output: true
+    permalink: /:collection/:path/
+  agencies:
     output: true
     permalink: /:collection/:path/
