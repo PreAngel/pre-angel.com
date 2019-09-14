@@ -1,6 +1,6 @@
 ---
 title: 中关村股权投资协会会长李卓桓访谈
-author: preangel
+author: zhuohuan-li
 categories: news
 tags:
   - featured

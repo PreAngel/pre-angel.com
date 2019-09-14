@@ -1,6 +1,6 @@
 ---
 title: 尚伦天使投融资法律文件与解析
-author: zhuohuan-li
+author: sunlandlaw
 categories: tutorial
 tags:
   - law

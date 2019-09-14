@@ -1,6 +1,6 @@
 ---
 title: 【清华“校长杯”赛前培训】只有一分钟，你能打动投资人吗？ 
-author: preangel
+author: zhuohuan-li
 categories: news
 tags:
   - xlab

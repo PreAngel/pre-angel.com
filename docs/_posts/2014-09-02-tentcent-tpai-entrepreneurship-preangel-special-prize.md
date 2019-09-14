@@ -1,6 +1,6 @@
 ---
 title: WeFuture 团队获得腾讯T派创业大赛 PreAngel 特别奖
-author: zhuohuan-li
+author: preangel
 categories: news
 tags:
   - tencent

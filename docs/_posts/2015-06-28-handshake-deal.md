@@ -1,6 +1,6 @@
 ---
 title: 如何规范创业投资中的“口头交易”？
-author: zhuohuan-li
+author: yc
 categories: rules
 tags:
   - tips

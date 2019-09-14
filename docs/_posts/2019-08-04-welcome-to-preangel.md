@@ -1,6 +1,6 @@
 ---
 title: Welcome to PreAngel!
-author: zhuohuan-li
+author: preangel
 categories: news
 tags:
   - home
