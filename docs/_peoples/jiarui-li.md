@@ -1,7 +1,7 @@
 ---
-name: "Jiarui LI (李佳芮)"
+name: Jiarui LI (李佳芮)
 site: https://lijiarui.github.io
-bio: "句子科技创始人 & CEO，连续创业者，微软人工智能最有价值专家（AI MVP），GitHub 6,000+ Stars 开源项目 Wechaty 联合作者"
+bio: 句子科技创始人 & CEO，连续创业者，微软人工智能最有价值专家（AI MVP），GitHub 6,000+ Stars 开源项目 Wechaty 联合作者
 avatar: /assets/peoples/jiarui-li/avatar.png
 email: lijiarui@juzi.bot
 twitter: https://weibo.com/u/2175505900

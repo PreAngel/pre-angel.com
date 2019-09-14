@@ -1,7 +1,7 @@
 ---
-name: "Mo Cha (抹茶美妆)"
+name: Mo Cha (抹茶美妆)
 site: http://www.mocha.cn
-bio: "致力于成为国内最大的妆品社区，成为年轻人购妆、学妆的首选。"
+bio: 致力于成为国内最大的妆品社区，成为年轻人购妆、学妆的首选。
 avatar: /assets/portfolios/mocha/logo-square.jpg
 twitter: https://weibo.com/mochameizhuang
 people:

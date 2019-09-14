@@ -1,7 +1,7 @@
 ---
-name: "AI x Coder (硅心科技)"
+name: AI x Coder (硅心科技)
 site: https://www.aixcoder.com
-bio: "AI虚拟编程机器人研发商"
+bio: AI虚拟编程机器人研发商
 avatar: https://file.aixcoder.com/img/logo_w.png
 twitter: 
 people:

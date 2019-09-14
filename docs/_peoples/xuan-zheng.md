@@ -1,7 +1,7 @@
 ---
-name: "郑譞 (Bodhi)"
+name: 郑譞 (Bodhi)
 site: https://www.linkedin.com/in/xuanr/
-bio: "伽利略资本董事总经理"
+bio: 伽利略资本董事总经理
 avatar: https://media.licdn.com/dms/image/C4E03AQGLR5TSP7gfPg/profile-displayphoto-shrink_200_200/0?e=1573689600&v=beta&t=afrUTiJhffJ8z-6VB1ZlvdRvtLWmhiumDbKg923und8
 email: zheng@xuanr.net
 twitter: 

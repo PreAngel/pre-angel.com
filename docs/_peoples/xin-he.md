@@ -1,7 +1,7 @@
 ---
-name: "Xin (贺新)"
+name: Xin (贺新)
 site: https://ai-ml.club/people/newip
-bio: "AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)"
+bio: AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)
 avatar: "https://avatars1.githubusercontent.com/u/1592542?s=460&v=4"
 email: xin.a.he@gmail.com
 twitter: https://twitter.com/newip
