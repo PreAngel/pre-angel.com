@@ -38,7 +38,8 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% for portfolio in people_portfolios %}
+            {% assign entity_type = 'portfolios' %}
+            {% for entity in people_portfolios %}
             {% include main-loop-card-portfolio.html %}
             {% endfor %}
           </div>
@@ -60,8 +61,9 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Ventures of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% for venture in people_ventures %}
-            {% include main-loop-card-venture.html %}
+            {% assign entity_type = 'ventures' %}
+            {% for entity in people_ventures %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
@@ -69,9 +71,30 @@ comments: true
       <!-- Ventures End -->
 
 
+      <!-- Agents Start -->
+      {% assign people_agents = '' | split: ',' %}
+      {% for agent in site.agents %}
+        {% if agent.people contains page.slug %}
+          {% assign people_agents = people_agents | push: agent %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_agents_size = people_agents | size %}
+      {% if people_agents_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Agents of {{page.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% assign entity_type = 'agencies' %}
+            {% for agent in people_agents %}
+            {% include main-loop-card-venture.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Agents End -->
+
 
       <!-- Posts Start -->
-
       {% assign posts = site.posts | where:"author", page.slug %}
       {% assign posts_size = posts | size %}
       {% if posts_size > 0 %}
