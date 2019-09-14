@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
-{% assign author = site.peoples | where: 'slug', page.author | first %}
+
+{% assign author_people = site.peoples | where: 'slug', page.author | first %}
+{% assign author_portfolio = site.portfolios | where: 'slug', page.author | first %}
+{% assign author_venture = site.ventures | where: 'slug', page.author | first %}
+
+{% if author_people %}
+  {% assign author_type = 'peoples' %}
+  {% assign author = author_people %}
+{% elsif author_portfolio %}
+  {% assign author_type = 'portfolios' %}
+  {% assign author = author_portfolio %}
+{% elsif author_venture %}
+  {% assign author_type = 'ventures' %}
+  {% assign author = author_venture %}
+{% endif %}
 
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
@@ -18,7 +32,7 @@ layout: default
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
                         {% if author.avatar %}
-                          <a href="{{site.baseurl}}/peoples/{{ author.slug }}">
+                          <a href="{{site.baseurl}}/{{ author_type }}/{{ author.slug }}">
                             <img class="rounded-circle" src="{{author.avatar}}" alt="{{author.name}}" width="70"/>
                           </a>
                         {% endif %}
@@ -108,7 +122,7 @@ layout: default
 				<div class="row mt-5">
 					<div class="col-md-2 align-self-center">
                         {% if author.avatar %}
-                          <a href="{{site.baseurl}}/peoples/{{ author.slug }}">
+                          <a href="{{site.baseurl}}/{{ author_type }}/{{ author.slug }}">
                             <img class="rounded-circle" src="{{author.avatar}}" alt="{{author.name}}" width="90"/>
                           </a>
                         {% endif %}

@@ -40,6 +40,9 @@ layout: default
         </div>
       </div>
 
+
+
+      <!-- People Start -->
       <h4 class="font-weight-bold spanborder"><span>People from {{page.name}}</span></h4>
 
       {% assign venture_people = '' | split: ',' %}
@@ -56,6 +59,19 @@ layout: default
           {% endfor %}
         </div>
       </div>
+      <!-- People End -->
+
+
+
+      <!-- Posts Start -->
+      <h4 class="font-weight-bold spanborder"><span>Posts by {{page.name}}</span></h4>
+      {% assign posts = site.posts | where:"author", page.slug %}
+      {% for post in posts %}
+      {% include main-loop-card-post.html %}
+      {% endfor %}
+      <!-- Posts End -->
+
+
 
     </div>
   </div>
