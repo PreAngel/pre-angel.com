@@ -1,5 +1,5 @@
 ---
-title: PreAngel 荣登“中国天使投资TOP15” 
+title: PreAngel 荣登私募基金联盟“中国天使投资TOP15” 
 author: preangel
 categories: news
 tags:
