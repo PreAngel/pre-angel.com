@@ -3,6 +3,7 @@ title: 中关村股权投资协会会长李卓桓访谈
 author: zhuohuan-li
 categories: news
 tags:
+  - home
   - featured
   - zvca
   - pnp
