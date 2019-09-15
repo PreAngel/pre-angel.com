@@ -3,6 +3,8 @@ title: 伽利略资本合伙人顾浩：做天使投资，“慢”是一种更�
 author: galileo-venture
 categories: news
 tags:
+  - home
+  - features
   - interview
 image: assets/2017/05-guhao-slow-art/handwriting.png
 ---

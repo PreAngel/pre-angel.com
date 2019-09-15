@@ -1,5 +1,4 @@
 ---
-author: yuan-gao
 name: Yuan Gao (高原)
 site: https://github.com/windmemory
 bio: 句子互动科技有限公司联合创始人 & CTO

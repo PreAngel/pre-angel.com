@@ -48,21 +48,21 @@ comments: true
 
 
       <!-- Investors Start -->
-      {% assign portfolio_ventures = '' | split: ',' %}
+      {% assign portfolio_investors = '' | split: ',' %}
       {% for venture in site.ventures %}
         {% if page.ventures contains venture.slug %}
-          {% assign portfolio_ventures = portfolio_ventures | push: venture %}
+          {% assign portfolio_investors = portfolio_investors | push: venture %}
         {% endif %}
       {% endfor %}
 
-      {% assign portfolio_ventures_size = portfolio_ventures | size %}
+      {% assign portfolio_ventures_size = portfolio_investors | size %}
       {% if portfolio_ventures_size > 0 %}
         <h4 class="font-weight-bold spanborder"><span>Investors of {{page.name}}</span></h4>
 
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
             {% assign item_type = 'ventures' %}
-            {% for item in portfolio_ventures %}
+            {% for item in portfolio_investors %}
             {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
