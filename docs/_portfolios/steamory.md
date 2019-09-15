@@ -6,14 +6,13 @@ avatar: https://usercontents.authing.cn/client/logo@2.png
 twitter: https://github.com/Authing
 people:
   - yang-xie
+  - jian-jin
 ventures:
   - preangel
   - pnp-china
 ---
 
 ## 蒸汽记忆
-
-![intro](/assets/portfolios/juzibot/intro.jpg)
 
 蒸汽记忆（北京蒸汽记忆科技有限公司）打造以身份为中心的**云原生操作系统**，服务全球创意工作者。我们让用户控制自己的身份和数据，同时数据可以被重复利用。构建在蒸汽记忆平台上的应用会使数据泄漏变成过去式，并大幅降低企业和开发者进入市场的成本。
 
