@@ -17,9 +17,9 @@ comments: true
 
 <div class="container">
 <div class="row gap-y listrecent listrecent listauthor">
-
-  {% for person in partners %}
-  {% include main-loop-card-person.html %}
+  {% assign item_type = 'peoples' %}
+  {% for item in partners %}
+  {% include main-loop-card-item.html %}
   {% endfor %}
 
 </div>

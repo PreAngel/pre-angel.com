@@ -37,8 +37,9 @@ comments: true
 
       <div class="container">
         <div class="row gap-y listrecent listrecent listauthor">
-          {% for person in portfolio_people %}
-          {% include main-loop-card-person.html %}
+          {% assign item_type = 'peoples' %}
+          {% for item in portfolio_people %}
+          {% include main-loop-card-item.html %}
           {% endfor %}
         </div>
       </div>
@@ -60,8 +61,9 @@ comments: true
 
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% for venture in portfolio_ventures %}
-            {% include main-loop-card-venture.html %}
+            {% assign item_type = 'ventures' %}
+            {% for item in portfolio_ventures %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>

@@ -34,8 +34,9 @@ layout: default
 
       <div class="container">
         <div class="row gap-y listrecent listrecent listauthor">
-          {% for portfolio in venture_portfolios %}
-          {% include main-loop-card-portfolio.html %}
+          {% assign item_type = 'portfolios' %}
+          {% for item in venture_portfolios %}
+          {% include main-loop-card-item.html %}
           {% endfor %}
         </div>
       </div>
@@ -54,8 +55,9 @@ layout: default
 
       <div class="container">
         <div class="row gap-y listrecent listrecent listauthor">
-          {% for person in venture_people %}
-          {% include main-loop-card-person.html %}
+          {% assign item_type = 'peoples' %}
+          {% for item in venture_people %}
+          {% include main-loop-card-item.html %}
           {% endfor %}
         </div>
       </div>

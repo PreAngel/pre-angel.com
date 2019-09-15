@@ -38,9 +38,9 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% assign entity_type = 'portfolios' %}
-            {% for entity in people_portfolios %}
-            {% include main-loop-card-portfolio.html %}
+            {% assign item_type = 'portfolios' %}
+            {% for item in people_portfolios %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
@@ -84,9 +84,9 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Agents of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% assign entity_type = 'agencies' %}
-            {% for agent in people_agents %}
-            {% include main-loop-card-venture.html %}
+            {% assign item_type = 'agencies' %}
+            {% for item in people_agents %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
