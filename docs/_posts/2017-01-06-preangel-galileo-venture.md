@@ -1,11 +1,11 @@
 ---
 title: Galileo Galilei 与 Galileo Venture 
-author: galileo-ventre
+author: galileo-venture
 categories: news
 tags:
   - home
   - featured
-image: assets/2017/01-galileo-venture/galileo-venture.jpg
+image: assets/2017/01-galileo-venture/galileo-venture.png
 ---
 
 PreAngel在成长的6年中，已经裂变出6支基金，其中包括：荷多资本、喔赢资本、十维资本、鉴睿资本、鼎萃资本、PreAngel USD等多个天使投资基金品牌。
