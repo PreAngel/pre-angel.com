@@ -2,7 +2,9 @@
   <div class="p-4 border rounded">
     <div class="row">
       <div class="col-md-3 mb-4 mb-md-0">
-        <img alt="{{ item.name }}" src="{{ item.avatar }}" class="rounded-circle" height="80" width="80">
+        <a href="{{site.baseurl}}/{{ item_type }}/{{ item.slug }}/">
+          <img alt="{{ item.name }}" src="{{ item.avatar }}" class="rounded-circle" height="80" width="80">
+        </a>
       </div>
       <div class="col-md-9">
         <a href="{{site.baseurl}}/{{ item_type }}/{{ item.slug }}/">

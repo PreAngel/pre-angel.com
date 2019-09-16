@@ -25,6 +25,28 @@ comments: true
       </div>
 
 
+      <!-- Startup Start -->
+      {% assign people_startups = '' | split: ',' %}
+      {% for portfolio in site.portfolios %}
+        {% if portfolio.people contains page.slug %}
+          {% assign people_startups = people_startups | push: portfolio %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_startups_size = people_startups | size %}
+      {% if people_startups_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% assign item_type = 'portfolios' %}
+            {% for item in people_startups %}
+            {% include main-loop-card-item.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Startup End -->
+
       <!-- Portfolio Start -->
       {% assign people_portfolios = '' | split: ',' %}
       {% for portfolio in site.portfolios %}
@@ -35,7 +57,7 @@ comments: true
 
       {% assign people_portfolios_size = people_portfolios | size %}
       {% if people_portfolios_size > 0 %}
-        <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Portfolios of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
             {% assign item_type = 'portfolios' %}
