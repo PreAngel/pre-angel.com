@@ -1,5 +1,5 @@
 ---
-title: 曾经是清华上下铺兄弟，硅谷多年创投老司机，联手投出独角兽，靠专业更靠大格局
+title: 曾经是清华上下铺兄弟，硅谷多年创投老司机，联手投出独角兽
 author: tsvc
 categories: news
 tags:

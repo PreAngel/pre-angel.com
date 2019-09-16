@@ -1,7 +1,7 @@
 ---
-name: TSVC(清谷资本)
+name: TSVC (清谷资本)
 site: https://www.tsvcap.com
-bio: TSVC (formerly TEEC Angel Fund) is proud to be the first deep technology-focused Chinese venture capital firm in Silicon Valley.
+bio: Deep technology-focused Chinese venture capital firm in Silicon Valley
 avatar: /assets/ventures/tsvc/logo.png
 twitter: https://twitter.com/tsvcap
 people:

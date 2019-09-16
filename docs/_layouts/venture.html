@@ -63,13 +63,15 @@ layout: default
       </div>
       <!-- People End -->
 
-
       <!-- Posts Start -->
-      <h4 class="font-weight-bold spanborder"><span>Posts by {{page.name}}</span></h4>
       {% assign posts = site.posts | where:"author", page.slug %}
-      {% for post in posts %}
-      {% include main-loop-card-post.html %}
-      {% endfor %}
+      {% assign posts_size = posts | size %}
+      {% if posts_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.name}}</span></h4>
+        {% for post in posts %}
+        {% include main-loop-card-post.html %}
+        {% endfor %}
+      {% endif %}
       <!-- Posts End -->
 
 
