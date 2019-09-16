@@ -46,30 +46,53 @@ comments: true
       <!-- Founder End -->
 
 
+      <!-- Person Investors Start -->
+      {% assign portfolio_investors_person = '' | split: ',' %}
 
-      <!-- Investors Start -->
-      {% assign portfolio_investors = '' | split: ',' %}
-      {% for venture in site.ventures %}
-        {% if page.ventures contains venture.slug %}
-          {% assign portfolio_investors = portfolio_investors | push: venture %}
-        {% endif %}
+      {% for person in site.peoples %}
+      {% if page.ventures contains person.slug %}
+        {% assign portfolio_investors_person = portfolio_investors_person | push: person %}
+      {% endif %}
       {% endfor %}
 
-      {% assign portfolio_ventures_size = portfolio_investors | size %}
-      {% if portfolio_ventures_size > 0 %}
-        <h4 class="font-weight-bold spanborder"><span>Investors of {{page.name}}</span></h4>
+      {% assign portfolio_ventures_person_size = portfolio_investors_person | size %}
+      {% if portfolio_ventures_person_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Individual Investors of {{page.name}}</span></h4>
 
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% assign item_type = 'ventures' %}
-            {% for item in portfolio_investors %}
+            {% assign item_type = 'peoples' %}
+            {% for item in portfolio_investors_person %}
             {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
       {% endif %}
-      <!-- Investors End-->
+      <!-- Person Investors End -->
 
+      <!-- Venture Investors Start -->
+      {% assign portfolio_investors_venture = '' | split: ',' %}
+
+      {% for venture in site.ventures %}
+        {% if page.ventures contains venture.slug %}
+          {% assign portfolio_investors_venture = portfolio_investors_venture | push: venture %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign portfolio_ventures_venture_size = portfolio_investors_venture | size %}
+      {% if portfolio_ventures_venture_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Venture Investors of {{page.name}}</span></h4>
+
+        <div class="container">
+          <div class="row gap-y listrecent listrecent listauthor">
+            {% assign item_type = 'ventures' %}
+            {% for item in portfolio_investors_venture %}
+            {% include main-loop-card-item.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Venture Investors End-->
 
 
       <!-- Posts Start -->

@@ -28,7 +28,7 @@ comments: true
       <!-- Portfolio Start -->
       {% assign people_portfolios = '' | split: ',' %}
       {% for portfolio in site.portfolios %}
-        {% if portfolio.people contains page.slug %}
+        {% if portfolio.ventures contains page.slug %}
           {% assign people_portfolios = people_portfolios | push: portfolio %}
         {% endif %}
       {% endfor %}
