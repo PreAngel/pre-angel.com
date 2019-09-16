@@ -64,7 +64,6 @@ layout: default
       <!-- People End -->
 
 
-
       <!-- Posts Start -->
       <h4 class="font-weight-bold spanborder"><span>Posts by {{page.name}}</span></h4>
       {% assign posts = site.posts | where:"author", page.slug %}
@@ -74,12 +73,12 @@ layout: default
       <!-- Posts End -->
 
 
+      <!-- Comments -->
+      {% if page.comments != false %}
+        {% include comments.html %}
+      {% endif %}
+
 
     </div>
   </div>
 </div>
-
-<!-- Comments -->
-{% if page.comments != false %}
-  {% include comments.html %}
-{% endif %}
