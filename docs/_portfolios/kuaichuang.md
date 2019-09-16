@@ -1,7 +1,7 @@
 ---
 name: 快乐创业学院
 site: http://www.kuaitouhui.cn/
-bio: 面向创业者的商学院：通过线下教育培训+线上业务交流与合作的形式，将分散的投资人、创业家聚合成专业寻师团队，以班级教学的形式帮助创业者实现快速融资、商业模式优化和资源匹配
+bio: 创业者的商学院
 avatar: /assets/portfolios/kuaichuang/logo-square.jpg
 twitter: 
 people:
