@@ -9,7 +9,7 @@ people:
   - jian-jin
 ventures:
   - preangel
-  - pnp-china
+  - pnp
 ---
 
 ## 蒸汽记忆

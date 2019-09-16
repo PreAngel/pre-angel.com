@@ -10,9 +10,10 @@ people:
 ventures:
   - preangel
   - alpha-startups
-  - pnp-china
+  - pnp
   - yc
   - tsvc
+  - xin-he
 ---
 
 ## 句子互动

@@ -2,7 +2,7 @@
 name: Plug and Play China
 site: http://www.pnpchina.com
 bio: 科技创新生态平台 - 用最前沿科技助力商业发展的国际创新加速器与投资机构
-avatar: /assets/ventures/pnp-china/pnp-logo.png
+avatar: /assets/ventures/pnp/logo.png
 twitter: https://twitter.com/PlugandPlayTC
 people:
   - zhuohuan-li
