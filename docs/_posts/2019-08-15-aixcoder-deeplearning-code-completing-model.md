@@ -4,6 +4,7 @@ author: aixcoder
 categories: news
 tags:
   - featured
+  - sticky
 image: assets/2019/08-aixcoder-deeplearning-code-completing-model/big-code-data.jpg
 ---
 
