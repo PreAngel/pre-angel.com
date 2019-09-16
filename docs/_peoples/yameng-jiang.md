@@ -1,7 +1,7 @@
 ---
 name: Alex JIANG (蒋亚萌)
 site: https://www.linkedin.com/in/vcalex/
-avatar: /assets/people/yameng-jiang/avatar.jpg
+avatar: /assets/peoples/yameng-jiang/avatar.jpg
 bio: 阿尔法公社创始合伙人
 email: ajiang@alphastartups.net
 ---
