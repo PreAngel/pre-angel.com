@@ -12,6 +12,7 @@ ventures:
   - alpha-startups
   - pnp-china
   - yc
+  - tsvc
 ---
 
 ## 句子互动
