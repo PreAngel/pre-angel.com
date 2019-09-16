@@ -1,7 +1,7 @@
 ---
 name: Qiuhu WANG (王秋虎)
 site: 
-avatar: https://pic.huodongjia.com/guest/2017-07-26/1501051868.14.jpg
+avatar: /assets/peoples/qiuhu-wang/avatar.jpg
 bio: "开物投资国管理合伙人"
 email: 
 twitter: 

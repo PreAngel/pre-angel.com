@@ -2,7 +2,7 @@
 name: 快乐创业学院
 site: http://www.kuaitouhui.cn/
 bio: 面向创业者的商学院：通过线下教育培训+线上业务交流与合作的形式，将分散的投资人、创业家聚合成专业寻师团队，以班级教学的形式帮助创业者实现快速融资、商业模式优化和资源匹配
-avatar: http://www.kuaitouhui.cn/static/uploadfiles//5-155698997210.png
+avatar: /assets/portfolios/kuaichuang/logo-square.jpg
 twitter: 
 people:
   - lizhi-yin
@@ -11,6 +11,7 @@ ventures:
   - preangel
   - innoangel
   - lotus-lake-ventures
+  - qiuhu-wang
 ---
 
 快创学院（快乐创业学院）是由清华大学旗下的启迪投资、英诺天使基金，PreAngel等多家知名机构联合投资建立的商业创新服务平台，已经有1000多位新锐企业家入学就读，拥有100多位常任投资人导师，1000多位企业家和投资人后盾支持，90多个项目成功获得风险投资。

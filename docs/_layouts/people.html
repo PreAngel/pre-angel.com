@@ -61,8 +61,8 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Ventures of {{page.name}}</span></h4>
         <div class="container">
           <div class="row gap-y listrecent listrecent listauthor">
-            {% assign entity_type = 'ventures' %}
-            {% for entity in people_ventures %}
+            {% assign item_type = 'ventures' %}
+            {% for item in people_ventures %}
             {% include main-loop-card-item.html %}
             {% endfor %}
           </div>

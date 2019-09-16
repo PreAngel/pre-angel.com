@@ -8,7 +8,7 @@ people:
   - yi-huang
 ventures:
   - preangel
-  - qiuhu-wang
+  - kaiwu-capital
 ---
 
 ![抹茶美妆](http://7sbrws.com2.z0.glb.qiniucdn.com/yunyaoinc_a9_2.jpg)
