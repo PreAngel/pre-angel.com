@@ -1,10 +1,10 @@
 ---
-name: 陆奇
+name: Qi LU (陆奇)
 site: 
 bio: CEO of Y Combinator China
 avatar: /assets/peoples/qi-lu/avatar.png
 email: qilu@ycombinator.com
-twitter: 
+twitter: https://twitter.com/qilu
 ---
 
 ![intro](/assets/peoples/qi-lu/intro.jpg)
