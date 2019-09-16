@@ -1,7 +1,7 @@
 ---
 name: Yiyang HAO (郝逸洋)
 site: 
-avatar: http://www.tid.org.cn/static/kindeditor/attached/image/20180626/3f603637c6cd706fca9261744438f061.jpg
+avatar: /assets/peoples/yiyang-hao/avatar.jpg
 bio: "硅心科技联合创始人 & CTO"
 email: 
 twitter: 

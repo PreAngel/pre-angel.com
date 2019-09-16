@@ -11,7 +11,7 @@ ventures:
   - kaiwu-capital
 ---
 
-![抹茶美妆](http://7sbrws.com2.z0.glb.qiniucdn.com/yunyaoinc_a9_2.jpg)
+![抹茶美妆](/assets/portfolios/mocha/splash.jpg)
 
 抹茶美妆是国内首款化妆品扫码导购应用，是化妆品版的“我查查”。用户可以通过抹茶美妆来扫码查询，做肤质测试，看商品点评，观“茶友”口碑，辩产品真伪，从宣传地天花乱坠地化妆品商店中选出一款真正属于自己的产品。
 
