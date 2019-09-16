@@ -29,7 +29,7 @@ aiXcoder成立于2018年初，成立之初获得伽利略资本650万天使轮�
 
 而且，aiXcoder还能在程序编写的过程中，通过智能的搜索并推荐与当前功能代码相似的程序，开阔了程序员的思维，为程序员提供了有力的参考。
 
-![智能搜索与相似代码推荐](//assets/2019/07-aixcoder-bot-unlock-programming-skill/search.jpg)
+![智能搜索与相似代码推荐](/assets/2019/07-aixcoder-bot-unlock-programming-skill/search.jpg)
 
 采访过程中，郝逸洋亲自演示了aiXcoder的使用过程，当他在编写程序时，aiXcoder自动预测并迅速给出了提示，几乎整一句代码都能通过aiXcoder的自动补全技术实现正确编写，按照这种方式，一个程序在短时间内就能轻松完成。
 
@@ -41,7 +41,7 @@ aiXcoder就像一个时刻陪伴程序员工作的“伙伴”，与程序员一
 
 aiXcoder 采用了专门应用于程序分析与生成的特定深度神经网络模型，其原理是用深度神经网络构造起一个庞大的深度神经网络体系，然后基于GitHub和Stackoverflow等优质平台上的开源代码数据集加以训练，最后针对不同的任务、对引擎大脑进行特别训练，以插件的形式整合在常用的IDE中。
 
-![IDE](//assets/2019/07-aixcoder-bot-unlock-programming-skill/ide.jpg)
+![IDE](/assets/2019/07-aixcoder-bot-unlock-programming-skill/ide.jpg)
 
 aiXcoder的原生技术来源于北京大学高可信软件技术教育部重点实验室，首席科学家李戈是北京大学信息科学技术学院软件研究所的副教授，2013年，他曾到斯坦福大学AI实验室中的吴恩达团队下，以访问学者的身份进行合作研究。
 
