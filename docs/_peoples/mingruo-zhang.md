@@ -2,7 +2,7 @@
 name: Mingruo ZHANG (张明若)
 site: http://www.sunlandlaw.com/Z/11.html
 avatar: /assets/peoples/mingruo-zhang/avatar.jpg
-bio: "尚伦律师事务所创始人，徐小平、雷军私人天使律师"
+bio: 尚伦律师事务所创始人，徐小平、雷军私人天使律师
 email: zhangmingruo@sunlandlaw.com
 twitter: 
 ---

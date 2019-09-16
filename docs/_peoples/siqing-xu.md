@@ -2,7 +2,7 @@
 name: Richard Xu (许四清)
 site: https://www.linkedin.com/in/richard-xu-2b747155/
 avatar: /assets/peoples/siqing-xu/avatar.png
-bio: "阿尔法公社创始人 & CEO，前 ChinaCache COO"
+bio: 阿尔法公社创始人 & CEO，前 ChinaCache COO
 email: rxu@alphastartups.net
 twitter: https://www.weibo.com/u/1764394067
 ---

@@ -2,7 +2,7 @@
 name: Huan (李卓桓)
 site: https://github.com/huan
 avatar: /assets/peoples/zhuohuan-li/avatar.jpg
-bio: "Hi, I am Huan, PreAngel Partner focus on ML & Conversational AI, a full of passion Chatbot fan!"
+bio: Hi, I am Huan, PreAngel Partner focus on ML & Conversational AI, a full of passion Chatbot fan!
 email: huan@pre-angel.com
 twitter: https://twitter.com/zixia
 ---

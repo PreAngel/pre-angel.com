@@ -1,7 +1,7 @@
 ---
-name: "Jian Jin (晋剑)"
+name: Jian Jin (晋剑)
 site: http://jackjin.io
-bio: "蒸汽记忆 COO"
+bio: 蒸汽记忆 COO
 avatar: /assets/peoples/jian-jin/avatar.png
 email: jack@authing.cn
 twitter:

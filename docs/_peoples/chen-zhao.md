@@ -2,7 +2,7 @@
 name: Chen ZHAO (赵晨)
 site: https://linkedin.com/in/chenzhaomba
 avatar: /assets/peoples/chen-zhao/avatar.jpg
-bio: "Plug and Play 中国管理合伙人"
+bio: Plug and Play 中国管理合伙人
 email: chen.zhao@pnpchina.com
 twitter: 
 ---
