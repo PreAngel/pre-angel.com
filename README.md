@@ -50,8 +50,9 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 ### Documentation
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
-[Explain like I’m five: Jekyll collections](https://ben.balter.com/2015/02/20/jekyll-collections/)
+- [How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+- [Explain like I’m five: Jekyll collections](https://ben.balter.com/2015/02/20/jekyll-collections/)
+- [Jekyll Variables](https://jekyllrb.com/docs/variables/)
 
 ### Live Demo
 
