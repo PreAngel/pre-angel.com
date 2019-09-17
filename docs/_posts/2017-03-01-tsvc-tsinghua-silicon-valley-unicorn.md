@@ -5,6 +5,8 @@ categories: news
 tags:
   - interview
   - silicon valley
+  - tsinghua
+  - teec
 image: assets/2017/03-tsvc/silicon-valley.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: PreAngel公开课：30秒打动投资人 - 电梯演讲篇
 author: zhuohuan-li
-categories: tutorials
+categories: tutorial
 tags:
   - home
   - itjuzi
