@@ -5,7 +5,7 @@ layout: default
 {% assign author_people = site.peoples | where: 'slug', page.author | first %}
 {% assign author_portfolio = site.portfolios | where: 'slug', page.author | first %}
 {% assign author_venture = site.ventures | where: 'slug', page.author | first %}
-{% assign author_agent = site.agents | where: 'slug', page.author | first %}
+{% assign author_agency = site.agencies | where: 'slug', page.author | first %}
 
 {% if author_people %}
   {% assign author_type = 'peoples' %}
@@ -16,9 +16,9 @@ layout: default
 {% elsif author_venture %}
   {% assign author_type = 'ventures' %}
   {% assign author = author_venture %}
-{% elsif author_agent %}
-  {% assign author_type = 'agents' %}
-  {% assign author = author_agent %}
+{% elsif author_agency %}
+  {% assign author_type = 'agencies' %}
+  {% assign author = author_agency %}
 {% endif %}
 
 <div class="container">
