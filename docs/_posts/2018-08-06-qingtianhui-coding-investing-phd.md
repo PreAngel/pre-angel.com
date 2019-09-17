@@ -1,6 +1,6 @@
 ---
 title: PreAngel合伙人李卓桓：不会写代码的投资人读不好人工智能博士
-author: preangel
+author: zhuohuan-li
 categories: news
 tags:
   - featured

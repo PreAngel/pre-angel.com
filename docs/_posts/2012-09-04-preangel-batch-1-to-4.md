@@ -1,6 +1,6 @@
 ---
 title: PreAngel Batch 1-4 Portfolio Companies
-author: lijie-wang
+author: preangel
 categories: news
 tags:
   - home
