@@ -4,6 +4,7 @@ author: zhuohuan-li
 categories: news
 tags:
   - mobile
+  - beijing
 image: assets/2012/12-mobile-apps-phone.jpg
 ---
 
