@@ -3,7 +3,7 @@ title: 我的投资定位：｛移动｝＠北京－｛电商｝∪｛游戏｝
 author: zhuohuan-li
 categories: news
 tags:
-  - home
+  - mobile
 image: assets/2012/12-mobile-apps-phone.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 2017全球人工智能人才白皮书：PreAngel与YC、真格基金并列AI顶级投资机构
+title: 全球人工智能人才白皮书：PreAngel与YC、真格基金并列AI顶级投资机构
 author: preangel
 categories: news
 tags:

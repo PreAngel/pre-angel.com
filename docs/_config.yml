@@ -1,6 +1,6 @@
 # Site
 name: PreAngel
-description: PreAngel - 300+家中美初创企业背后的天使投资机构：你的职业联合创始人服务
+description: 300+家中美初创企业背后的天使投资机构 - 你的职业联合创始人服务
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 baseurl:
@@ -61,7 +61,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 15
+paginate: 30
 paginate_path: /news/page:num/
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
