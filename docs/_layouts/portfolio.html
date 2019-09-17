@@ -36,7 +36,7 @@ comments: true
       {% endfor %}
 
       <div class="container">
-        <div class="row gap-y listrecent listrecent listauthor">
+        <div class="row gap-y listrecent listauthor">
           {% assign item_type = 'peoples' %}
           {% for item in portfolio_people %}
           {% include main-loop-card-item.html %}
@@ -60,7 +60,7 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Individual Investors of {{page.name}}</span></h4>
 
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
+          <div class="row gap-y listrecent listauthor">
             {% assign item_type = 'peoples' %}
             {% for item in portfolio_investors_person %}
             {% include main-loop-card-item.html %}
@@ -84,7 +84,7 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Venture Investors of {{page.name}}</span></h4>
 
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
+          <div class="row gap-y listrecent listauthor">
             {% assign item_type = 'ventures' %}
             {% for item in portfolio_investors_venture %}
             {% include main-loop-card-item.html %}
