@@ -4,7 +4,7 @@ author: tsvc
 categories: news
 tags:
   - interview
-  - silicon-valley
+  - silicon valley
 image: assets/2017/03-tsvc/silicon-valley.jpg
 ---
 

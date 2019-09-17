@@ -7,6 +7,7 @@ tags:
   - featured
   - sticky
   - white paper
+  - tencent
 image: assets/2017/12-tencent-ai-white-paper/white-paper-18.jpg
 ---
 
