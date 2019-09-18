@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{% assign item_type = page.type %}
-{% assign items = site[item_type] %}
+{% assign item_type = page.type       %}
+{% assign items     = site[page.type] %}
 
 <div class="container">
   {{ content }}
@@ -17,3 +17,4 @@ layout: default
 
     </div>
   </div>
+</div>
