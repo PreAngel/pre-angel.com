@@ -6,12 +6,6 @@ avatar: /assets/ventures/innoangel/icon.png
 twitter: 
 people:
   - zhu-li
-  - sen-lin
-  - huaiyu-liu
-  - xiaocheng-zhu
-  - sheng-wang
-  - xiaoli-li
-  - jun-li
 ---
 
 2013年4月，英诺天使基金由李竹、林森等清华校友联合发起创建，投资管理团队平均有10年以上的天使投资经验，已投资近400个创业项目，管理超过20亿人民币天使基金。以清华校友为起点，建立了立体的创业服务体系，同时与旗下的各地英诺创新空间配合，投资效率高、项目成长速度快。
