@@ -1,38 +1,12 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="container">
 
   <div class="row justify-content-center">
-    <div class="col-md-12">
-      <div class="row align-items-center">
-        <div class="col-md-8">
-          <h1 class="font-weight-bold">{{page.name}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ page.twitter }}">Follow</a></span></h1>
-          <p><a href="{{ page.site }}">{{ page.site }}</a></p>
-          <p class="excerpt">{{ page.bio }}</p>
-        </div>
-        <div class="col-md-4 text-right">
-          <img alt="{{ page.name }}" src="{{ page.avatar }}" class="rounded-circle" height="150" width="150">
-        </div>
-      </div>
-    </div>
 
-    <div class="container-lg pt-4 pb-4">
-      <div class="row justify-content-center">
-
-        {% include share.html %}
-
-        <div class="col-md-12 col-lg-8">
-
-        <div class="page-content">
-
-          {{ content }}
-
-        </div>
-      </div>
-    </div>
+    {% include item-content.html %}
 
     <div class="col-md-12">
       <!-- Founder Start -->
