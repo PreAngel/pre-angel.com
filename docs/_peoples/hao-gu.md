@@ -1,7 +1,7 @@
 ---
 name: Hao GU (顾浩)
 site: https://www.linkedin.com/in/浩-顾-61a59315a/
-avatar: https://file.ethercap.com/ether-public/ether-public/personImage15b976bd74578a.png
+avatar: /assets/peoples/hao-gu/avatar.jpg
 bio: 伽利略资本创始合伙人
 email: 
 twitter: 

@@ -2,7 +2,7 @@
 name: Bodhi ZHENG (郑譞)
 site: https://www.linkedin.com/in/xuanr/
 bio: 伽利略资本董事总经理
-avatar: https://media.licdn.com/dms/image/C4E03AQGLR5TSP7gfPg/profile-displayphoto-shrink_200_200/0?e=1573689600&v=beta&t=afrUTiJhffJ8z-6VB1ZlvdRvtLWmhiumDbKg923und8
+avatar: /assets/peoples/xuan-zheng/avatar.jpg
 email: zheng@xuanr.net
 twitter: 
 ---
