@@ -2,7 +2,7 @@
 name: Kaiwu Capital (开物投资)
 site: http://www.kaiwucapital.com
 bio: 开物的投资团队能提供在各行业企业发展的各阶段的不同功能上的帮助和支持。
-avatar: /assets/ventures/kaiwu-capital/logo-square.png
+avatar: /assets/ventures/kaiwu-capital/icon.png
 twitter: 
 people:
   - qiuhu-wang

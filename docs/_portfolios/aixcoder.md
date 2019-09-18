@@ -2,7 +2,7 @@
 name: AI x Coder (硅心科技)
 site: https://www.aixcoder.com
 bio: AI虚拟编程机器人研发商
-avatar: /assets/portfolios/aixcoder/logo-square.jpg
+avatar: /assets/portfolios/aixcoder/icon.jpg
 twitter: 
 people:
   - yiyang-hao

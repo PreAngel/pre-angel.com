@@ -2,7 +2,7 @@
 name: Y Combinator
 site: https://www.ycombinator.com
 bio: Y Combinator is a startup accelerator that invests in a large number of startups twice a year.
-avatar: /assets/ventures/yc/logo.png
+avatar: /assets/ventures/yc/icon.png
 twitter: https://twitter.com/ycombinator
 people:
   - eric-migicovsky

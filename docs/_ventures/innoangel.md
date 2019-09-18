@@ -2,7 +2,7 @@
 name: Inno Angel (英诺天使)
 site: http://www.innoangel.com
 bio: 英诺天使基金是一个关注互联网及移动互联网相关领域的天使投资基金，重点关注手机游戏、在线教育、O2O、互联网金融、移动健康等领域。
-avatar: /assets/ventures/innoangel/logo-square.png
+avatar: /assets/ventures/innoangel/icon.png
 twitter: 
 people:
   - zhu-li
