@@ -1,5 +1,5 @@
 ---
-name: Hain (王海良)
+name: Hain WANG (王海良)
 site: https://github.com/Samurais
 avatar: /assets/peoples/hailiang-wang/avatar.jpg
 bio: ChatOpera 联合创始人 & CEO, 微软人工智能最有价值专家
