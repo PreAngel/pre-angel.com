@@ -2,7 +2,7 @@
 name: Steamory (蒸汽记忆)
 site: https://authing.cn
 bio: 以身份为中心的云原生操作系统
-avatar: /assets/portfolios/steamory/logo-square.png
+avatar: /assets/portfolios/steamory/icon.png
 twitter: https://github.com/Authing
 people:
   - yang-xie

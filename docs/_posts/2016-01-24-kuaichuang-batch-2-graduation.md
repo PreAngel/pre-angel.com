@@ -5,7 +5,6 @@ categories: news
 tags:
   - pitch
   - bizplan
-  - pitch
 image: assets/2016/01-kuaichuang-graduation/class2.jpg
 ---
 

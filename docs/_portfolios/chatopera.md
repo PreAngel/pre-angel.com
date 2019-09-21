@@ -2,7 +2,7 @@
 name: Chat Opera (华夏春松)
 site: https://www.chatopera.com
 bio: Chatopera是企业聊天机器人应用解决方案的提供商，以创新为主，专注于企业级聊天应用，集设计、开发、部署和运维一体的高科技企业。
-avatar: /assets/portfolios/chatopera/logo-square.png
+avatar: /assets/portfolios/chatopera/icon.png
 twitter: 
 people:
   - hailiang-wang

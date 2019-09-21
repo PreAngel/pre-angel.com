@@ -1,7 +1,7 @@
 ---
-title: 60分钟入门神经网络 - 人工智能创业篇
+title: PreAngel公开课：60分钟入门神经网络 - 智能革命即将到来
 author: zhuohuan-li
-categories: tutorials
+categories: tutorial
 tags:
   - ai
   - home

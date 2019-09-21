@@ -2,7 +2,7 @@
 name: 快乐创业学院
 site: http://www.kuaitouhui.cn/
 bio: 创业者的商学院
-avatar: /assets/portfolios/kuaichuang/logo-square.jpg
+avatar: /assets/portfolios/kuaichuang/icon.jpg
 twitter: 
 people:
   - lizhi-yin

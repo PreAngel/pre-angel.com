@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% assign author_people = site.peoples | where: 'slug', page.author | first %}
-{% assign author_portfolio = site.portfolios | where: 'slug', page.author | first %}
-{% assign author_venture = site.ventures | where: 'slug', page.author | first %}
-{% assign author_agent = site.agents | where: 'slug', page.author | first %}
+{% assign author_people     = site.peoples    | where: 'slug', page.author | first %}
+{% assign author_portfolio  = site.portfolios | where: 'slug', page.author | first %}
+{% assign author_venture    = site.ventures   | where: 'slug', page.author | first %}
+{% assign author_agency     = site.agencies   | where: 'slug', page.author | first %}
 
 {% if author_people %}
   {% assign author_type = 'peoples' %}
@@ -16,9 +16,9 @@ layout: default
 {% elsif author_venture %}
   {% assign author_type = 'ventures' %}
   {% assign author = author_venture %}
-{% elsif author_agent %}
-  {% assign author_type = 'agents' %}
-  {% assign author = author_agent %}
+{% elsif author_agency %}
+  {% assign author_type = 'agencies' %}
+  {% assign author = author_agency %}
 {% endif %}
 
 <div class="container">
@@ -27,16 +27,18 @@ layout: default
 			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
 				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
 					<p class="text-uppercase font-weight-bold">
-                        <span class="catlist">
-						{% for category in page.categories %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
+            <span class="catlist">
+
+            {% for category in page.categories %}
+              <a class="sscroll text-danger" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+            {% endfor %}
+
+            </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
                         {% if author.avatar %}
-                          <a href="{{site.baseurl}}/{{ author_type }}/{{ author.slug }}">
+                          <a href="{{ site.baseurl }}/{{ author_type }}/{{ author.slug }}">
                             <img class="rounded-circle" src="{{author.avatar}}" alt="{{author.name}}" width="70"/>
                           </a>
                         {% endif %}
@@ -62,30 +64,11 @@ layout: default
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
 
-
-        <!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				<div class="text-muted">
-					Share this
-				</div>
-				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
-				</div>
-			</div>
-		</div>
-
+    {% include share.html %}
 
 		<div class="col-md-12 col-lg-8">
 
-            <!-- Article -->
+      <!-- Article -->
 			<article class="article-post">
 			{{ content }}
 			</article>

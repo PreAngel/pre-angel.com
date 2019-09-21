@@ -1,30 +1,14 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="container">
 
   <div class="row justify-content-center">
-    <div class="col-md-8">
-      <div class="row align-items-center mb-5">
-        <div class="col-md-9">
-          <h2 class="font-weight-bold">{{page.name}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ page.twitter }}">Follow</a></span></h2>
-          <p><a href="{{ page.site }}">{{ page.site }}</a></p>
-          <p class="excerpt">{{ page.bio }}</p>
-        </div>
-        <div class="col-md-3 text-right">
-          <img alt="{{ page.name }}" src="{{ page.avatar }}" class="rounded-circle" height="100" width="100">
-        </div>
-      </div>
 
-      <h3 class="font-weight-bold spanborder"><span>Bio</span></h3>
+    {% include item-content.html %}
 
-      <div class="page-content">
-        {{ content }}
-      </div>
-
-
+    <div class="col-md-12">
       <!-- Founder Start -->
       <h4 class="font-weight-bold spanborder"><span>Founder of {{page.name}}</span></h4>
 
@@ -36,7 +20,7 @@ comments: true
       {% endfor %}
 
       <div class="container">
-        <div class="row gap-y listrecent listrecent listauthor">
+        <div class="row gap-y listrecent listauthor">
           {% assign item_type = 'peoples' %}
           {% for item in portfolio_people %}
           {% include main-loop-card-item.html %}
@@ -60,7 +44,7 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Individual Investors of {{page.name}}</span></h4>
 
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
+          <div class="row gap-y listrecent listauthor">
             {% assign item_type = 'peoples' %}
             {% for item in portfolio_investors_person %}
             {% include main-loop-card-item.html %}
@@ -84,7 +68,7 @@ comments: true
         <h4 class="font-weight-bold spanborder"><span>Venture Investors of {{page.name}}</span></h4>
 
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
+          <div class="row gap-y listrecent listauthor">
             {% assign item_type = 'ventures' %}
             {% for item in portfolio_investors_venture %}
             {% include main-loop-card-item.html %}

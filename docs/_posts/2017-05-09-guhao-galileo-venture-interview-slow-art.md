@@ -1,6 +1,6 @@
 ---
 title: 伽利略资本合伙人顾浩：做天使投资，“慢”是一种更难把握的艺术
-author: galileo-venture
+author: hao-gu
 categories: news
 tags:
   - home

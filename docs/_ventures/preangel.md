@@ -2,7 +2,7 @@
 name: PreAngel
 site: https://www.pre-angel.com
 bio: 职业联合创始人服务：300+家中美初创企业背后的天使投资机构
-avatar: /assets/ventures/preangel/preangel-logo-a.png
+avatar: /assets/ventures/preangel/preangel-icon.png
 twitter: https://weibo.com/preangel
 email: bp@pre-angel.com
 people:
@@ -128,14 +128,14 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
 
 #### Logo: Square, Swing
 
-[![PreAngel Logo]({{ '/assets/ventures/preangel/preangel-logo-a.png' | absolute_url }})](https://www.pre-angel.com)
+[![PreAngel Logo]({{ '/assets/ventures/preangel/preangel-icon.png' | absolute_url }})](https://www.pre-angel.com)
 
-Download the large version (1080x1080) from [here]({{ '/assets/ventures/preangel/preangel-logo-a-large.png' | absolute_url }})
+Download the large version (1080x1080) from [here]({{ '/assets/ventures/preangel/preangel-icon-large.png' | absolute_url }})
 
 - Markdown
 
   ```md
-  [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo-a.png' | absolute_url }})](https://www.pre-angel.com)
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-icon.png' | absolute_url }})](https://www.pre-angel.com)
   ```
 
 - HTML

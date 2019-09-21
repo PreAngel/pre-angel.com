@@ -2,7 +2,7 @@
 name: 尚伦律师事务所
 site: http://www.sunlandlaw.com
 bio: 雷军与徐小平二位老师联手推荐的天使投融资法律机构
-avatar: /assets/agencies/sunlandlaw/logo-square.jpg
+avatar: /assets/agencies/sunlandlaw/icon.jpg
 twitter: 
 people:
   - mingruo-zhang

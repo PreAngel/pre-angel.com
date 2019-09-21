@@ -2,7 +2,7 @@
 name: TSVC (清谷资本)
 site: https://www.tsvcap.com
 bio: Deep technology-focused Chinese venture capital firm in Silicon Valley
-avatar: /assets/ventures/tsvc/logo.png
+avatar: /assets/ventures/tsvc/icon.png
 twitter: https://twitter.com/tsvcap
 people:
   - eugene-zhang
