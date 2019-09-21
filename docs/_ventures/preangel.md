@@ -79,7 +79,10 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
 
 <div style='background: #000'>
   <a href="https://www.pre-angel.com" target="_blank">
-    <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
+    <img
+      alt="PreAngel"
+      src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}"
+    >
   </a>
 </div>
 
@@ -95,7 +98,10 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
 
   ```html
   <a href="https://www.pre-angel.com" target="_blank">
-    <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
+    <img
+      alt="PreAngel"
+      src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}"
+    >
   </a>
   ```
 
@@ -113,7 +119,10 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
 
   ```html
   <a href="https://www.pre-angel.com" target="_blank">
-    <img src="{{ '/assets/ventures/preangel/preangel-logo-pa.png' | absolute_url }}" alt="PreAngel">
+    <img
+      alt="PreAngel"
+      src="{{ '/assets/ventures/preangel/preangel-logo-pa.png' | absolute_url }}"
+    >
   </a>
   ```
 
@@ -132,8 +141,14 @@ Download the large version (1080x1080) from [here]({{ '/assets/ventures/preangel
 - HTML
 
   ```html
-  <a href="https://www.pre-angel.com" target="_blank">
-    <img src="{{ '/assets/ventures/preangel/preangel-logo-a.png' | absolute_url }}" alt="PreAngel">
+  <a
+    href="https://www.pre-angel.com"
+    target="_blank"
+  >
+    <img
+      src="{{ '/assets/ventures/preangel/preangel-logo-a.png' | absolute_url }}"
+      alt="PreAngel"
+    >
   </a>
   ```
 
@@ -143,4 +158,7 @@ Download from [here]({{ '/assets/ventures/preangel/preangel-logo.ai' | absolute_
 
 ## Contact
 
-- [preangel qrcode]({{ 'assets/ventures/preangel/wechat-oa-qrcode.jpg' | relative_url }})
+- [PreAngel Wechat QRCode]({{ 'assets/ventures/preangel/wechat-oa-qrcode.jpg' | relative_url }})
+- [LinkedIn](https://linkedin.com/company/preangel/)
+- [CBInsights](https://www.cbinsights.com/investor/preangel)
+- [AngelList](https://angel.co/preangel)
