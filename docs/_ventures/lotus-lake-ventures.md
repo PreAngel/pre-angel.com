@@ -2,7 +2,7 @@
 name: Lotus Lake Ventures (荷塘创投)
 site: http://www.tsinghua-vc.com/
 bio: 原清华大学启迪创投
-avatar: http://nwzimg.wezhan.cn/contents/sitefiles2020/10104175/images/2196654.png
+avatar: /assets/ventures/lotus-lake-ventures/icon.png
 twitter: 
 people:
 ---

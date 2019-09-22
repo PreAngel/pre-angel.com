@@ -1,11 +1,12 @@
 ---
 title: 抹茶美妆的创业融资路
-author: yi-huang
+author: mocha
 categories: news
 tags:
   - mocha
   - sns
   - mobile
+  - financing
 image: assets/2013/09-mocha-enterpreneurship-financing/mocha.jpg
 ---
 

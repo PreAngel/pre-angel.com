@@ -1,6 +1,6 @@
 ---
-title: "PreAngel Fund 五周年"
-author: lijie-wang
+title: PreAngel Fund 五周年
+author: preangel
 categories: news
 tags:
   - home

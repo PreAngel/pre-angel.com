@@ -2,7 +2,7 @@
 name: Kerry YIN (尹立志)
 site: 
 avatar: /assets/peoples/lizhi-yin/avatar.jpg
-bio: "快创商学院创始人 & CEO"
+bio: 快创商学院创始人 & CEO
 email: 
 twitter: 
 ---

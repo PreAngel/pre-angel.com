@@ -3,7 +3,6 @@ title: 专访李卓桓：技术控“无厘头”投资靠谱项目
 author: zhuohuan-li
 categories: news
 tags:
-  - home
   - interview
 image: assets/2015/12/venture-capital-dream-works.jpg
 ---

@@ -2,7 +2,7 @@
 name: Yi HUANG (黄毅)
 site: 
 avatar: /assets/peoples/yi-huang/avatar.jpg
-bio: "抹茶美妆创始人 & CEO"
+bio: 抹茶美妆创始人 & CEO
 email: 
 twitter: 
 ---

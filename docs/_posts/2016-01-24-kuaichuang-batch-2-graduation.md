@@ -1,11 +1,10 @@
 ---
-title: 快创学院结业典礼：结业只是我们结识的开始
-author: zhuohuan-li
+title: 快乐创业学院结业典礼：结业只是我们结识的开始
+author: kuaichuang
 categories: news
 tags:
   - pitch
   - bizplan
-  - pitch
 image: assets/2016/01-kuaichuang-graduation/class2.jpg
 ---
 

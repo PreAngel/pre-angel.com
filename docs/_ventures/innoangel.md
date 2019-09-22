@@ -2,16 +2,10 @@
 name: Inno Angel (英诺天使)
 site: http://www.innoangel.com
 bio: 英诺天使基金是一个关注互联网及移动互联网相关领域的天使投资基金，重点关注手机游戏、在线教育、O2O、互联网金融、移动健康等领域。
-avatar: http://www.innoangel.com/res/images/logo_top.png?v=1225
+avatar: /assets/ventures/innoangel/icon.png
 twitter: 
 people:
   - zhu-li
-  - sen-lin
-  - huaiyu-liu
-  - xiaocheng-zhu
-  - sheng-wang
-  - xiaoli-li
-  - jun-li
 ---
 
 2013年4月，英诺天使基金由李竹、林森等清华校友联合发起创建，投资管理团队平均有10年以上的天使投资经验，已投资近400个创业项目，管理超过20亿人民币天使基金。以清华校友为起点，建立了立体的创业服务体系，同时与旗下的各地英诺创新空间配合，投资效率高、项目成长速度快。

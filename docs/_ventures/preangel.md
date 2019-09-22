@@ -1,9 +1,10 @@
 ---
-name: "PreAngel"
+name: PreAngel
 site: https://www.pre-angel.com
-bio: "职业联合创始人服务：300+家中美初创企业背后的天使投资机构"
-avatar: /assets/ventures/preangel/preangel-logo-a.png
+bio: 职业联合创始人服务：300+家中美初创企业背后的天使投资机构
+avatar: /assets/ventures/preangel/preangel-icon.png
 twitter: https://weibo.com/preangel
+email: bp@pre-angel.com
 people:
   - preangel
   - zhuohuan-li
@@ -12,7 +13,7 @@ people:
 
 ![PreAngel](/assets/ventures/preangel/preangel-logo.png)
 
-PreAngel is a fund focus on the initial financing for Artificial Intelligence(AI) startups in Beijing. It normally invests 10K to 20K USD in each deal for 2% - 10% of its equity.
+PreAngel is a fund based in Beijing focusing on initial financing for AI startups. It normally invests 10K to 20K USD in each deal for 2% - 10% of its equity.
 
 PreAngel Fund was founded in 2011 and over time has developed a 1 billion RMB (150 million USD) portfolio, comprising 300 tech startups. Guided by the investment philosophies of “tackling social challenges with market wisdom” and “thinking outside the box and rising above adversities”, PreAngel Fund has not only prospered but also evolved into an umbrella fund that encompasses 荷多资本, 喔赢资本, 十维资本, and 伽利略资本 etc.
 
@@ -48,4 +49,98 @@ LP要求：
 必须是对早期移动互联网企业创业路上有所帮助的，目光长远的；
 愿意跟着团队发展5年以上，不急功近利；
 
-* PreAngel™是上海荷多投资管理有限责任公司注册商标。
+- PreAngel™是上海荷多投资管理有限责任公司注册商标。
+
+## Marketing Guidelines
+
+### Logo
+
+[![PreAngel]({{ '/assets/ventures/preangel/preangel-logo.png' | absolute_url }})](https://www.pre-angel.com)
+
+Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel/preangel-logo-large.png' | absolute_url }})
+
+- Markdown
+
+  ```md
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo.png' | absolute_url }})](https://www.pre-angel.com)
+  ```
+
+- HTML
+
+  ```html
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo.png' | absolute_url }}" alt="PreAngel">
+  </a>
+  ```
+
+#### Logo: White
+
+<!-- markdownlint-disable MD033 -->
+
+<div style='background: #000'>
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
+  </a>
+</div>
+
+Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel/preangel-logo-white-large.png' | absolute_url }})
+
+- Markdown
+
+  ```md
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }})](https://www.pre-angel.com)
+  ```
+
+- HTML
+
+  ```html
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
+  </a>
+  ```
+
+#### Logo: Square, PA
+
+[![PreAngel]({{ '/assets/ventures/preangel/preangel-logo-pa.png' | absolute_url }})](https://www.pre-angel.com)
+
+- Markdown
+
+  ```md
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo-pa.png' | absolute_url }})](https://www.pre-angel.com)
+  ```
+
+- HTML
+
+  ```html
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo-pa.png' | absolute_url }}" alt="PreAngel">
+  </a>
+  ```
+
+#### Logo: Square, Swing
+
+[![PreAngel Logo]({{ '/assets/ventures/preangel/preangel-icon.png' | absolute_url }})](https://www.pre-angel.com)
+
+Download the large version (1080x1080) from [here]({{ '/assets/ventures/preangel/preangel-icon-large.png' | absolute_url }})
+
+- Markdown
+
+  ```md
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-icon.png' | absolute_url }})](https://www.pre-angel.com)
+  ```
+
+- HTML
+
+  ```html
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-icon.png' | absolute_url }}" alt="PreAngel">
+  </a>
+  ```
+
+#### Logo: AI
+
+Download from [here]({{ '/assets/ventures/preangel/preangel-logo.ai' | absolute_url }})
+
+## Contact
+
+- [preangel qrcode]({{ 'assets/ventures/preangel/wechat-oa-qrcode.jpg' | relative_url }})

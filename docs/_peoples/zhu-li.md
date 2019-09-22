@@ -2,7 +2,7 @@
 name: Zhu LI (李竹)
 site: https://zdb.pedaily.cn/people/show8190/
 bio: 英诺天使基金创始合伙人、清华校友TMT协会荣誉会长、中国青年天使会会长
-avatar: https://pic.pedata.cn/person/201808/cba3a23c216544d586aa903f41290fe9.png
+avatar: /assets/peoples/zhu-li/avatar.jpg
 email: 
 twitter: 
 ---

@@ -1,21 +1,30 @@
 ---
-title: "天使投融资法律文件与解析"
-author: zhuohuan-li
+title: 尚伦天使投融资法律文件与解析
+author: sunlandlaw
 categories: tutorial
 tags:
   - law
+  - template
 image: assets/2013/05-sunlandlaw-leagel-documents/sunland-leijun-xuxiaoping.jpg
 ---
 
-尚伦律师事务所于2013年5月8日，全球移动互联网大会上公开发布《天使投融资法律文件与解析》；会议论坛上，协同小米CEO雷军，真格基金管理合伙人徐小平，《创业家》杂志创始人牛文文，JP Morgan中国业务负责人李晶共同探讨中国法律环境下的契约精神。
+尚伦律师事务所于2013年5月8日，全球移动互联网大会上公开发布《天使投融资法律文件与解析》。
 
-《天使投融资法律文件与解析》是尚伦律师事务所结合自身在早期天使投融资领域内丰富的实战经验， 由资深律师团队和法学专家经过数月探讨、反复修订，最终制定的一整套符合中国法律要求的文件。 旨在于帮助早期天使投资人和创业者使用并了解这方面的法律知识。其中，天使投融资主交易文件可以作为早期天使投资人 和创业者达成协议的基础；天使投融资指导性文件可以帮助投资人和创业者清晰快捷的了解交易流程和法律文件模板的使用； 若投资人和创业者想深入了解主交易文件，或者结合自身情况，对文件做适当修改或对条款做适当的变形，可参考《投融资条款解析》。
+会议论坛上，协同小米CEO雷军，真格基金管理合伙人徐小平，《创业家》杂志创始人牛文文，JP Morgan中国业务负责人李晶共同探讨中国法律环境下的契约精神。
+
+《天使投融资法律文件与解析》是尚伦律师事务所结合自身在早期天使投融资领域内丰富的实战经验， 由资深律师团队和法学专家经过数月探讨、反复修订，最终制定的一整套符合中国法律要求的文件。 旨在于帮助早期天使投资人和创业者使用并了解这方面的法律知识。
+
+其中：
+
+1. 天使投融资主交易文件可以作为早期天使投资人和创业者达成协议的基础；
+1. 天使投融资指导性文件可以帮助投资人和创业者清晰快捷的了解交易流程和法律文件模板的使用；
+1. 若投资人和创业者想深入了解主交易文件，或者结合自身情况，对文件做适当修改或对条款做适当的变形，可参考《投融资条款解析》。
+
+![天使投资法律模板文件](/assets/2013/05-sunlandlaw-leagel-documents/chuangyejia.jpg)
 
 > 导读：尽管天使投资近年大热，但国内尚无一份通用的法律模板。尚伦律师事务所决心改变这种状况：给天使投资一个模板!  
 > 文：[i黑马网](http://www.iheima.com/article-40071.html)  
 > 记者：叶静  
-
-![天使投资法律模板文件](/assets/2013/05-sunlandlaw-leagel-documents/chuangyejia.jpg)
 
 最近两个月，尚伦律师事务所合伙人张明若组织了律所的资深律师团队，共同起草一份有关天使投资的法律文件。它不是专为某一天使项目而设，而是一份适用于大部分天使投资的法律模板，文件制作完毕后将免费对外公布。
 
@@ -71,25 +80,31 @@ image: assets/2013/05-sunlandlaw-leagel-documents/sunland-leijun-xuxiaoping.jpg
 
 主交易文件是我们就天使投资项目推荐使用的交易文件。主交易文件分别是：
 
-《条款清单》。是在双方正式签订投资协议前，就重大事项签订的意向性协议，除了保密条款、不与第三人接触条款外，该协议本身并不对协议签署方产生全面约束力。
-《增资协议》。这是核心交易文件，协议主要规定了投资人支付投资款的义务及其付款后获得的股东权利，并以此为基础规定了与投资人相对应的公司和创始人的权利义务。协议内的条款可以由投融资双方根据需要选择增减。另有《增资协议附件列表》，包括定义表，重大资产列表， 知识产权清单、关键员工名单等，可根据实际需要选用。
-《股东会决议》。股东会对增资协议予以认可的文件，由股东签署。
+1. 《条款清单》。是在双方正式签订投资协议前，就重大事项签订的意向性协议，除了保密条款、不与第三人接触条款外，该协议本身并不对协议签署方产生全面约束力。
+1. 《增资协议》。这是核心交易文件，协议主要规定了投资人支付投资款的义务及其付款后获得的股东权利，并以此为基础规定了与投资人相对应的公司和创始人的权利义务。协议内的条款可以由投融资双方根据需要选择增减。另有《增资协议附件列表》，包括定义表，重大资产列表， 知识产权清单、关键员工名单等，可根据实际需要选用。
+1. 《股东会决议》。股东会对增资协议予以认可的文件，由股东签署。
+
+文件下载：
+
+1. [条款清单 - Term Sheet](/assets/2013/05-sunlandlaw-leagel-documents/1-term-sheet.doc)
+1. [增资协议（主交易文件） - Share Purchase Agreement (SPA)](/assets/2013/05-sunlandlaw-leagel-documents/2-share-purchase-agreement.doc)
+1. [增资协议附件列表 - SPA Appendix](/assets/2013/05-sunlandlaw-leagel-documents/3-share-purchase-agreement-appendix.doc)
+1. [增资扩股股东会决议 - Shareholders Agreement (SHA)](/assets/2013/05-sunlandlaw-leagel-documents/4-shareholders-agreement.doc)
 
 #### （二） 天使投融资指导性文件
 
 《交易流程》。是对整个天使投融资阶段，双方权利义务的履行过程、步骤的解释和说明。该文件是帮助协议投融资双方了解投资事项的发生顺序，确定义务履行时间的文件。
 《增资协议使用说明》。是对增资协议重要条款的注解，其目的是为帮助投融资双方了解增资协议的重要内容，并引导双方填写和签署增资协议。
 
+文件下载：
+
+1. TODO (Huan, 14 Sep, 2019): To Be Linked.
+
 #### （三） 《投融资条款解析》
 
 《投融资条款解析》，是对投融资条款的深入讲解和分析。由于《增资协议》模板较为简捷，考虑到一些投资人或创业者希望增加合同内容，我们在对《增资协议》模板条款进行充分解析的基础上，还提供了一些常见的投融资条款，由当事人选择决定是否放入文件中。《投融资条款解析》的结构同《增资协议》模板的结构基本相同，《增资协议》模板的条款以“推荐条款”的方式放入解析之中，每一条都有对其制度背景介绍以及使用方法的说明。对于未被纳入《增资协议》模板的条款，我们以“常见条款”的方式列出并解释。对于不熟悉投融资协议的当事人，可以通过《投融资条款解析》看懂条文，并帮助其理解、使用相关条款。
 
-## 文件清单
+文件下载：
 
-- [天使投融资法律文件与解析 Part1](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part1.pdf)
-- [天使投融资法律文件与解析 Part2](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part2.pdf)
-
-1. [Term Sheet - 条款清单](/assets/2013/05-sunlandlaw-leagel-documents/1-term-sheet.doc)
-2. [Share Purchase Agreement (SPA) - 增资协议（主交易文件）](/assets/2013/05-sunlandlaw-leagel-documents/2-share-purchase-agreement.doc)
-3. [Appendix - 增资协议附件列表](/assets/2013/05-sunlandlaw-leagel-documents/3-share-purchase-agreement-appendix.doc)
-4. [Shareholders Agreement (SHA) - 增资扩股股东会决议](/assets/2013/05-sunlandlaw-leagel-documents/4-shareholders-agreement.doc )
+1. [天使投融资法律文件与解析 Part1](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part1.pdf)
+1. [天使投融资法律文件与解析 Part2](/assets/2013/05-sunlandlaw-leagel-documents/sunland-angel-investment-and-financing-legal-document-analyze-part2.pdf)

@@ -1,45 +1,51 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="container">
-
   <div class="row justify-content-center">
-    <div class="col-md-8">
-      <div class="row align-items-center mb-5">
-        <div class="col-md-9">
-          <h2 class="font-weight-bold">{{page.name}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ page.twitter }}">Follow</a></span></h2>
-          <p><a href="{{ page.site }}">{{ page.site }}</a></p>
-          <p class="excerpt">{{ page.bio }}</p>
+
+    {% include item-content.html %}
+
+    <div class="col-md-12">
+      <!-- Startup Start -->
+      {% assign people_startups = '' | split: ',' %}
+      {% for portfolio in site.portfolios %}
+        {% if portfolio.people contains page.slug %}
+          {% assign people_startups = people_startups | push: portfolio %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_startups_size = people_startups | size %}
+      {% if people_startups_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listauthor">
+            {% assign item_type = 'portfolios' %}
+            {% for item in people_startups %}
+            {% include main-loop-card-item.html %}
+            {% endfor %}
+          </div>
         </div>
-        <div class="col-md-3 text-right">
-          <img alt="{{ page.name }}" src="{{ page.avatar }}" class="rounded-circle" height="100" width="100">
-        </div>
-      </div>
-
-      <h3 class="font-weight-bold spanborder"><span>Bio</span></h3>
-
-      <div class="page-content">
-        {{ content }}
-      </div>
-
+      {% endif %}
+      <!-- Startup End -->
 
       <!-- Portfolio Start -->
       {% assign people_portfolios = '' | split: ',' %}
       {% for portfolio in site.portfolios %}
-        {% if portfolio.people contains page.slug %}
+        {% if portfolio.ventures contains page.slug %}
           {% assign people_portfolios = people_portfolios | push: portfolio %}
         {% endif %}
       {% endfor %}
 
       {% assign people_portfolios_size = people_portfolios | size %}
       {% if people_portfolios_size > 0 %}
-        <h4 class="font-weight-bold spanborder"><span>Startup of {{page.name}}</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Portfolios of {{page.name}}</span></h4>
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
-            {% for portfolio in people_portfolios %}
-            {% include main-loop-card-portfolio.html %}
+          <div class="row gap-y listrecent listauthor">
+            {% assign item_type = 'portfolios' %}
+            {% for item in people_portfolios %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
@@ -59,9 +65,10 @@ comments: true
       {% if people_ventures_size > 0 %}
         <h4 class="font-weight-bold spanborder"><span>Ventures of {{page.name}}</span></h4>
         <div class="container">
-          <div class="row gap-y listrecent listrecent listauthor">
-            {% for venture in people_ventures %}
-            {% include main-loop-card-venture.html %}
+          <div class="row gap-y listrecent listauthor">
+            {% assign item_type = 'ventures' %}
+            {% for item in people_ventures %}
+            {% include main-loop-card-item.html %}
             {% endfor %}
           </div>
         </div>
@@ -69,9 +76,30 @@ comments: true
       <!-- Ventures End -->
 
 
+      <!-- Agency Start -->
+      {% assign people_agents = '' | split: ',' %}
+      {% for agent in site.agents %}
+        {% if agent.people contains page.slug %}
+          {% assign people_agents = people_agents | push: agent %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign people_agents_size = people_agents | size %}
+      {% if people_agents_size > 0 %}
+        <h4 class="font-weight-bold spanborder"><span>Agents of {{page.name}}</span></h4>
+        <div class="container">
+          <div class="row gap-y listrecent listauthor">
+            {% assign item_type = 'agencies' %}
+            {% for item in people_agents %}
+            {% include main-loop-card-item.html %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endif %}
+      <!-- Agency End -->
+
 
       <!-- Posts Start -->
-
       {% assign posts = site.posts | where:"author", page.slug %}
       {% assign posts_size = posts | size %}
       {% if posts_size > 0 %}
@@ -81,11 +109,14 @@ comments: true
         {% endfor %}
       {% endif %}
       <!-- Posts End -->
+
+
+      <!-- Comments -->
+      {% if page.comments != false %}
+      {% include comments.html %}
+      {% endif %}
+
+
     </div>
   </div>
 </div>
-
-<!-- Comments -->
-{% if page.comments != false %}
-    {% include comments.html %}
-{% endif %}

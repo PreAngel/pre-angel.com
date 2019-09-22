@@ -1,6 +1,6 @@
 ---
 title: 做化妆品导购，“抹茶美妆”为什么放弃社区选择了短视频？
-author: yi-huang
+author: mocha
 categories: news
 tags:
   - featured
