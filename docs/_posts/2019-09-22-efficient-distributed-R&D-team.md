@@ -117,6 +117,6 @@ Authing 身份认证云的用户分布图
 
 ### **相关阅读**
 
-* [Authing 是什么以及为什么需要 Authing](https://authing.cn/blog//Authing%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Authing.html)
-* [我们为什么坚持做 ToB 的慢生意](https://authing.cn/blog//我们为什么坚持做ToB的慢生意.html)
-* [Authing 知识库](https://learn.authing.cn/authing/)
+1. [Authing 是什么以及为什么需要 Authing](https://authing.cn/blog//Authing%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Authing.html)
+2. [我们为什么坚持做 ToB 的慢生意](https://authing.cn/blog//我们为什么坚持做ToB的慢生意.html)
+3. [Authing 知识库](https://learn.authing.cn/authing/)
