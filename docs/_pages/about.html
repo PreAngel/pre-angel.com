@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: About
 layout: page-sidebar
 permalink: "/about.html"
 image: assets/2015/12-five-years/group-photo-2k.jpg
@@ -16,10 +16,10 @@ comments: true
 {% endfor %}
 
 <div class="container">
-<div class="row gap-y listrecent listrecent listauthor">
-
-  {% for person in partners %}
-  {% include main-loop-card-person.html %}
+<div class="row gap-y listrecent listauthor">
+  {% assign item_type = 'peoples' %}
+  {% for item in partners %}
+    {% include main-loop-card-item.html %}
   {% endfor %}
 
 </div>

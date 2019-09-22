@@ -1,6 +1,6 @@
 ---
 title: 抹茶美妆：草根团队如何获得数千万投资
-author: yi-huang
+author: mocha
 categories: news
 tags:
   - mocha

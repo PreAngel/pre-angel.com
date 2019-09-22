@@ -1,6 +1,6 @@
 ---
-title: "PreAngel 荷多基金成立"
-author: lijie-wang
+title: PreAngel 荷多基金成立
+author: preangel
 categories: news
 tags:
   - home

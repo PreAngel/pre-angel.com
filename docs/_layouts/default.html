@@ -4,13 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    {% if page.collection and page.collection != 'posts' %}
+      {% assign title = page.name %}
+    {% else %}
+      {% assign title = page.title %}
+    {% endif %}
+
     <title>
-      {% if page.collection and page.collection != 'posts' %}
-        {{page.name}}
-      {% else %}
-        {{page.title}}
-      {% endif %}
-      | {{site.name}}
+      {{ title }} | {{site.name}}
     </title>
 
     {% seo %}
@@ -84,7 +86,9 @@
         <div class="container">
         <div class="row align-items-center justify-content-between">
             <div>
-                <span class="navbar-brand mr-2 mb-0"><strong>PreAngel</strong></span>
+                <a href="#" class="text-muted navbar-brand mr-2 mb-0">
+                  <strong>PreAngel</strong>
+                </a>
                 <span>Copyright © <script>document.write(new Date().getFullYear())</script></span>
 
                 <!--  Github Repo Star Btn-->

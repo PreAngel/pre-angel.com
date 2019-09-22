@@ -1,6 +1,6 @@
 ---
 title: "How To Start A Startup (YC Stanford Course: CS183B)"
-author: zhuohuan-li
+author: yc
 categories: tutorial
 tags:
   - stanford
