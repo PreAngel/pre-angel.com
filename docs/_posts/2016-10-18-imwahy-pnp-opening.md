@@ -43,7 +43,7 @@ Plug and Play全球总部位于加里福尼加州桑尼韦尔市，是美国亚�
 
 ![prize](/assets/2016/10-imway-pnp-opening/prize.jpg)
 
-自1998年起，PNP累计孵化、投资超过2000家初创企业，其中更是诞生了PayPal、Google、LendingClub、Dropbox、Logitech等市值超百亿美元的明星企业。放眼全球，PNP现已在美国硅谷、中国、德国、新加坡、西班牙等三十多个国家建设合作机构或孵化中心。 
+自1998年起，PNP累计孵化、投资超过2000家初创企业，其中更是诞生了PayPal、Google、LendingClub、Dropbox、Logitech等市值超百亿美元的明星企业。放眼全球，PNP现已在美国硅谷、中国、德国、新加坡、西班牙等三十多个国家建设合作机构或孵化中心。
 
 ## PNP在中国提供的服务：
 
