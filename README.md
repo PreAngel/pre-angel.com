@@ -1,4 +1,4 @@
-# PreAngel Official Website
+# PreAngel Portfolio Directory
 
 [![Build Status](https://travis-ci.com/PreAngel/pre-angel.com.svg?branch=master)](https://travis-ci.com/PreAngel/pre-angel.com)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
