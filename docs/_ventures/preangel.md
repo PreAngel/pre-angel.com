@@ -53,6 +53,8 @@ LP要求：
 
 ## Marketing Guidelines
 
+<!-- markdownlint-disable MD033 -->
+
 ### Logo
 
 [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo.png' | absolute_url }})](https://www.pre-angel.com)
@@ -75,8 +77,6 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
 
 #### Logo: White
 
-<!-- markdownlint-disable MD033 -->
-
 <div style='background: #000'>
   <a href="https://www.pre-angel.com" target="_blank">
     <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
@@ -96,6 +96,28 @@ Download the large version (5400x1080) from [here]({{ '/assets/ventures/preangel
   ```html
   <a href="https://www.pre-angel.com" target="_blank">
     <img src="{{ '/assets/ventures/preangel/preangel-logo-white.png' | absolute_url }}" alt="PreAngel">
+  </a>
+  ```
+
+#### Logo for Slides
+
+<div style='background: #000'>
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo-slide.png' | absolute_url }}" alt="PreAngel">
+  </a>
+</div>
+
+- Markdown
+
+  ```md
+  [![PreAngel]({{ '/assets/ventures/preangel/preangel-logo-slide.png' | absolute_url }})](https://www.pre-angel.com)
+  ```
+
+- HTML
+
+  ```html
+  <a href="https://www.pre-angel.com" target="_blank">
+    <img src="{{ '/assets/ventures/preangel/preangel-logo-slide.png' | absolute_url }}" alt="PreAngel">
   </a>
   ```
 
