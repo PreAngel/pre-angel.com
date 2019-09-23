@@ -1,7 +1,7 @@
 ---
-name: Steamory (蒸汽记忆)
+name: "Steamory (蒸汽记忆)"
 site: https://authing.cn
-bio: 以身份为中心的云原生操作系统
+bio: "以身份为中心的云原生操作系统"
 avatar: /assets/portfolios/steamory/icon.png
 twitter: https://github.com/Authing
 people:
@@ -40,7 +40,7 @@ Authing 是蒸汽记忆打造「以身份为中心的云原生操作系统」的
   <iframe
     src="https://sample.authing.cn"
     width='560'
-    height='315'
+    height='515'
     allowfullscreen
     webkitallowfullscreen
     frameborder="0"
