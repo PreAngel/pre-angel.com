@@ -1,5 +1,5 @@
 ---
-title:  "如何打造一个高效的分布式研发团队"
+title: "如何打造一个高效的分布式研发团队"
 author: yang-xie
 categories: news
 tags:
@@ -7,8 +7,6 @@ tags:
   - team
 image: assets/2019/09-efficient-distributed-rd-team/20190906111119.png
 ---
-
-![banner](assets/2019/09-efficient-distributed-rd-team/20190906111119.png)
 
 开发者群体是个与其他工种不同的群体，他们热爱创造，工作是为了满足自己的创造欲，是完全自驱的；而优秀的开发者，完全不受地理位置限制。
 
@@ -69,19 +67,19 @@ image: assets/2019/09-efficient-distributed-rd-team/20190906111119.png
 
 Lark 的 Notice Bot 很有用，我们的 ChatOps 都是依赖 Lark 的 Notice Bot，我们在内部打造了一个「推送」的世界。
 
-![git](assets/2019/09-efficient-distributed-rd-team/20190906111548.png)
+![git](/assets/2019/09-efficient-distributed-rd-team/20190906111548.png)
 Git 消息推送
 
-![resp](assets/2019/09-efficient-distributed-rd-team/20190906111626.png)
+![resp](/assets/2019/09-efficient-distributed-rd-team/20190906111626.png)
 响应时间过长或服务不可用推送
 
-![users](assets/2019/09-efficient-distributed-rd-team/20190906111711.png)
+![users](/assets/2019/09-efficient-distributed-rd-team/20190906111711.png)
 用户反馈推送
 
-![wxapp](assets/2019/09-efficient-distributed-rd-team/20190906111745.png)
+![wxapp](/assets/2019/09-efficient-distributed-rd-team/20190906111745.png)
 小程序反馈推送
 
-![sdk](assets/2019/09-efficient-distributed-rd-team/20190906111828.png)
+![sdk](/assets/2019/09-efficient-distributed-rd-team/20190906111828.png)
 SDK 需求推送
 
 这些都属于一个研发团队中比较基础的操作，但当你处于一个分布式协作团队中时，因为看不到彼此在干什么，因此当所有信息即时推送、即时同步时，会让团队每个人都有安全感。我们的研发团队是一个紧密型小组，我们紧密合作，构建并交付解决方案。这种推送让分散的小组对他们正在构建的东西、什么能提高效率有清晰的认识，并具有主人翁精神，这让它非常适合于团队的分布式性质。
@@ -101,19 +99,6 @@ SDK 需求推送
 这些都是通过线上交流获得的，线下活动也是必不可少的。比如每个月邀请大家聚到一起娱乐、一起喝酒、一起打游戏、每个节日互送礼物。
 
 总之，让大家成功，让项目成功，是构建组织文化和价值观的根本目标。
-
-## 最后，请允许我介绍下我们在做的事情
-
-我们的组织名称叫「蒸汽记忆」，英文名为 Steamory，这个名字是「Steam」 + 「Memeory」的合成词。我们在开发下一代云原生操作系统，我们的计算平台以用户身份为中心，旨在让用户拥有自己的数据，控制自己的数据，同时数据可以在多个平台重复流转使用。我们计划中的三大产品线为「身份认证云」、「开放关联数据云」和配套的「开发者工具」。
-![steamory](assets/2019/09-efficient-distributed-rd-team/20190906111910.png)
-
-目前已经上线的产品为「身份认证云」，开发者遍布全球七个国家和地区，客户覆盖教育、出版社、知识图谱、聊天机器人、金融、云计算、物联网和营销自动化等多个领域。
-
-![map](assets/2019/09-efficient-distributed-rd-team/20190906111925.png)
-Authing 身份认证云的用户分布图
-
-最后的最后，如果你对我们的工作方式或者产品感兴趣，欢迎扫描下面的二维码和我们聊聊～
-![二维码](assets/2019/09-efficient-distributed-rd-team/20190906111939.png)
 
 ### 相关阅读
 

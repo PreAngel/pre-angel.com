@@ -1,6 +1,6 @@
 ---
-title:  "为什么模块化生产力软件仅仅是一个开始"
-author: yang-xie
+title: "为什么模块化生产力软件仅仅是一个开始"
+author: steamory
 categories: news
 tags:
   - steamory
@@ -22,7 +22,7 @@ image: assets/2019/05-productivity-software/20190526-01.jpg
 
 最好的类比是**「在线乐高」**。
 
-![legao](assets/2019/05-productivity-software/20190526-01.jpg)
+![legao](/assets/2019/05-productivity-software/20190526-01.jpg)
 
 乐高是模块化的，而且可以被拼装为任何东西。但是乐高的核心，仅仅是一堆转头。但是一旦这些转头被精心制作，乐高就会被创作者随意发挥。 乐高积木可以根据任何需求进行重塑，就像我们现在所说的「模块化生产力软件」一样。
 
@@ -34,11 +34,11 @@ image: assets/2019/05-productivity-software/20190526-01.jpg
 
 Notion 是模块化生产力软件的完美示例之一。 它允许你创建任意的自定义布局，添加交互式组件，从模版创建新的布局等。 Notion 每个月都会更新新的功能，以适应新老用户的需求。
 
-![users](assets/2019/05-productivity-software/20190526-02.jpg)
+![users](/assets/2019/05-productivity-software/20190526-02.jpg)
 
 另外一个非常棒的例子是 Coda，Coda 也是一个文档系统，不过它的文档像是一个超级 APP，你可以不受限制的在这个文档中做任何事，甚至制作一个应用程序。
 
-![coda](assets/2019/05-productivity-software/20190526-03.jpg)
+![coda](/assets/2019/05-productivity-software/20190526-03.jpg)
 
 在 2018 年此类应用受到很多关注，但这仅仅是「模块化生产力工具」的开始。
 
@@ -54,7 +54,7 @@ Notion 是模块化生产力软件的完美示例之一。 它允许你创建任
 
 关于模块化工具，Coda 已经用他们的新自动化块实现了这个功能。 想象一个工作空间可以自动完成小工作，例如在你正在工作的应用程序中更新其他应用程序。
 
-![module](assets/2019/05-productivity-software/20190526-04.jpg)
+![module](/assets/2019/05-productivity-software/20190526-04.jpg)
 
 Coda 自动化体验的目标，是允许用户连接到他们习惯使用的工具，这样用户可以减少管理细小琐事的时间。
 
@@ -68,7 +68,7 @@ Coda 自动化体验的目标，是允许用户连接到他们习惯使用的工
 
 下一个跃进是人工智能和机器学习。
 
-![authing](assets/2019/05-productivity-software/20190526-05.jpg)
+![authing](/assets/2019/05-productivity-software/20190526-05.jpg)
 
 一旦 Notion 这样的工具得到普及，人们在 Notion 生产了大量数据，并且掌握了自动化处理自己的工作后，计算机就会开始学习用户的使用习惯和常用语言。
 

@@ -2,14 +2,14 @@
 name: "Steamory (蒸汽记忆)"
 site: https://authing.cn
 bio: "以身份为中心的云原生操作系统"
-avatar: https://usercontents.authing.cn/client/logo@2.png
+avatar: /assets/portfolios/steamory/icon.png
 twitter: https://github.com/Authing
 people:
   - yang-xie
   - jian-jin
 ventures:
   - preangel
-  - pnp-china
+  - pnp
 ---
 
 ## 蒸汽记忆

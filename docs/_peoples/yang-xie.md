@@ -2,7 +2,7 @@
 name: "Yang Xie (谢扬)"
 site: http://ivydom.com
 bio: "蒸汽记忆创始人 & CEO，连续创业者"
-avatar: /assets/peoples/yang-xie/avatar.png
+avatar: /assets/peoples/yang-xie/avatar.jpg
 email: xieyang@authing.cn
 twitter: https://github.com/leinue
 ---
