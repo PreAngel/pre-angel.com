@@ -4,11 +4,11 @@ author: yang-xie
 categories: news
 tags:
   - steamory
-  - story
-image: https://cdn.authing.cn/blog/20190906111119.png
+  - team
+image: assets/2019/09-efficient-distributed-rd-team/20190906111119.png
 ---
 
-![banner](https://cdn.authing.cn/blog/20190906111119.png)
+![banner](assets/2019/09-efficient-distributed-rd-team/20190906111119.png)
 
 开发者群体是个与其他工种不同的群体，他们热爱创造，工作是为了满足自己的创造欲，是完全自驱的；而优秀的开发者，完全不受地理位置限制。
 
@@ -69,19 +69,19 @@ image: https://cdn.authing.cn/blog/20190906111119.png
 
 Lark 的 Notice Bot 很有用，我们的 ChatOps 都是依赖 Lark 的 Notice Bot，我们在内部打造了一个「推送」的世界。
 
-![git](https://cdn.authing.cn/blog/20190906111548.png)
+![git](assets/2019/09-efficient-distributed-rd-team/20190906111548.png)
 Git 消息推送
 
-![resp](https://cdn.authing.cn/blog/20190906111626.png)
+![resp](assets/2019/09-efficient-distributed-rd-team/20190906111626.png)
 响应时间过长或服务不可用推送
 
-![users](https://cdn.authing.cn/blog/20190906111711.png)
+![users](assets/2019/09-efficient-distributed-rd-team/20190906111711.png)
 用户反馈推送
 
-![wxapp](https://cdn.authing.cn/blog/20190906111745.png)
+![wxapp](assets/2019/09-efficient-distributed-rd-team/20190906111745.png)
 小程序反馈推送
 
-![sdk](https://cdn.authing.cn/blog/20190906111828.png)
+![sdk](assets/2019/09-efficient-distributed-rd-team/20190906111828.png)
 SDK 需求推送
 
 这些都属于一个研发团队中比较基础的操作，但当你处于一个分布式协作团队中时，因为看不到彼此在干什么，因此当所有信息即时推送、即时同步时，会让团队每个人都有安全感。我们的研发团队是一个紧密型小组，我们紧密合作，构建并交付解决方案。这种推送让分散的小组对他们正在构建的东西、什么能提高效率有清晰的认识，并具有主人翁精神，这让它非常适合于团队的分布式性质。
@@ -105,18 +105,17 @@ SDK 需求推送
 ## 最后，请允许我介绍下我们在做的事情
 
 我们的组织名称叫「蒸汽记忆」，英文名为 Steamory，这个名字是「Steam」 + 「Memeory」的合成词。我们在开发下一代云原生操作系统，我们的计算平台以用户身份为中心，旨在让用户拥有自己的数据，控制自己的数据，同时数据可以在多个平台重复流转使用。我们计划中的三大产品线为「身份认证云」、「开放关联数据云」和配套的「开发者工具」。
-![steamory](https://cdn.authing.cn/blog/20190906111910.png)
+![steamory](assets/2019/09-efficient-distributed-rd-team/20190906111910.png)
 
 目前已经上线的产品为「身份认证云」，开发者遍布全球七个国家和地区，客户覆盖教育、出版社、知识图谱、聊天机器人、金融、云计算、物联网和营销自动化等多个领域。
 
-![map](https://cdn.authing.cn/blog/20190906111925.png)
+![map](assets/2019/09-efficient-distributed-rd-team/20190906111925.png)
 Authing 身份认证云的用户分布图
 
 最后的最后，如果你对我们的工作方式或者产品感兴趣，欢迎扫描下面的二维码和我们聊聊～
-<img src="https://cdn.authing.cn/blog/20190906111939.png" alt="二维码" style="zoom:50%;" />
+<img src="assets/2019/09-efficient-distributed-rd-team/20190906111939.png" alt="二维码" style="zoom:50%;" />
 
-### **相关阅读**
+### 相关阅读
 
 1. [Authing 是什么以及为什么需要 Authing](https://authing.cn/blog//Authing%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Authing.html)
-2. [我们为什么坚持做 ToB 的慢生意](https://authing.cn/blog//我们为什么坚持做ToB的慢生意.html)
-3. [Authing 知识库](https://learn.authing.cn/authing/)
+2. [Authing 知识库](https://learn.authing.cn/authing/)

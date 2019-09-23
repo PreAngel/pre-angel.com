@@ -40,7 +40,7 @@ Authing 是蒸汽记忆打造「以身份为中心的云原生操作系统」的
   <iframe
     src="https://sample.authing.cn"
     width='560'
-    height='315'
+    height='515'
     allowfullscreen
     webkitallowfullscreen
     frameborder="0"

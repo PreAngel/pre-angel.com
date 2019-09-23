@@ -5,7 +5,7 @@ categories: news
 tags:
   - steamory
   - story
-image: assets/2018/08-juzibot-smp/0.jpg
+image: assets/2018/09-the-story-of-authing/0.jpg
 ---
 
 Authing 是一款解决身份认证的云服务，使用 Authing 可以帮助你用几行代码完成用户认证、登录 UI 集成和 OAuth 集成等功能。
@@ -66,8 +66,7 @@ Poimoe 的开发工作是成功的，但运营仍然是失败的。之后我又�
 
 还要感谢那些远在千里之外的开发者，你们让我们有动力让我们继续改善 Authing。
 
-### **相关阅读**
+### 相关阅读
 
 1. [Authing 是什么以及为什么需要 Authing](https://authing.cn/blog//Authing%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Authing.html)
-2. [我们为什么坚持做 ToB 的慢生意](https://authing.cn/blog//我们为什么坚持做ToB的慢生意.html)
-3. [Authing 知识库](https://learn.authing.cn/authing/)
+2. [Authing 知识库](https://learn.authing.cn/authing/)
