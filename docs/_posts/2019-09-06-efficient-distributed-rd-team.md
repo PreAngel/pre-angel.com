@@ -113,8 +113,7 @@ SDK 需求推送
 Authing 身份认证云的用户分布图
 
 最后的最后，如果你对我们的工作方式或者产品感兴趣，欢迎扫描下面的二维码和我们聊聊～
-
-<img src="assets/2019/09-efficient-distributed-rd-team/20190906111939.png" alt="二维码" style="zoom:50%;" />
+![二维码](assets/2019/09-efficient-distributed-rd-team/20190906111939.png)
 
 ### 相关阅读
 
