@@ -2,7 +2,7 @@
 name: Etyma.net (词根网)
 site: 
 bio: 单词不用背，阅读+词根
-avatar: /assets/portfolios/etymanet/icon.jpg
+avatar: /assets/portfolios/etymanet/icon.png
 twitter: 
 people:
   - yong-chen
