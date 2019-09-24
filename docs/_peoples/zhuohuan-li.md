@@ -1,5 +1,5 @@
 ---
-name: Huan (李卓桓)
+name: Huan LI (李卓桓)
 site: https://github.com/huan
 avatar: /assets/peoples/zhuohuan-li/avatar.jpg
 bio: Hi, I am Huan, A angel investor focus on ML & Conversational AI, full of passion Chatbot Evanglist!
@@ -11,8 +11,8 @@ PreAngel 合伙人，Plug and Play Venture Partner，Venture SPRINT 联合创始
 
 zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA，北京邮电大学 CS Ph.D (Majored in Conversational AI, Candidate)。
 
-- Google 认证机器学习开发者专家 - ML GDE (Machine Learning Google Developer Expert)
-- Microsoft 认证人工智能最具价值专家 - AI MVP (Artificial Intelligence Most Valuable Professional)
+- Google 认证机器学习开发者专家 - ML GDE _(Machine Learning Google Developer Expert)_
+- Microsoft 认证人工智能最具价值专家 - AI MVP _(Artificial Intelligence Most Valuable Professional)_
 - Github 6,000+ Stars 开源项目 Wechaty 作者
 
 15年互联网创业经验。作为LP投资了中美多支天使基金，中关村股权投资协会副会长，中国青年天使会创始理事，多家创业公司和VC机构顾问。创业邦、创业家、新浪网等媒体都对他作过创业特别报道。
@@ -21,7 +21,7 @@ zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BB
 
 2012年到2016年，投资了百余家移动互联网初创企业，如：蓝信、时光小屋、微差事、IT桔子；抹茶美妆、互动吧；蒲公英、中体飞行、蜂信、NOLO VR；座头鲸；等。
 
-2017年聚焦ChatBot/AI领域，投资了句子互动；硅心科技、积至科技、SkyLine、ChatOpera、观耘科技等多家人工智能公司。
+2017年开始，聚焦 AI / Chatbot 领域，投资了句子互动；硅心科技、积至科技、SkyLine、ChatOpera、观耘科技等多家人工智能公司。
 
 ![滑雪](/assets/peoples/zhuohuan-li/snowboard.jpg)
 
