@@ -1,5 +1,5 @@
 ---
-name: Yuan Gao (高原)
+name: Yuan GAO (高原)
 site: https://github.com/windmemory
 bio: 句子互动科技有限公司联合创始人 & CTO
 avatar: https://avatars3.githubusercontent.com/u/6801292

@@ -1,5 +1,5 @@
 ---
-name: "Yang Xie (谢扬)"
+name: "Yang XIE (谢扬)"
 site: http://ivydom.com
 bio: "蒸汽记忆创始人 & CEO，连续创业者"
 avatar: /assets/peoples/yang-xie/avatar.jpg

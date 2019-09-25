@@ -1,5 +1,5 @@
 ---
-name: Saeed Amidi
+name: Saeed AMIDI
 site: https://www.plugandplaytechcenter.com/about/our-team/saeed-amidi/
 avatar: /assets/peoples/saeed-amidi/avatar.jpg
 bio: Founder & CEO of Plug and Play
