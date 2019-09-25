@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/PreAngel/pre-angel.com.svg?branch=master)](https://travis-ci.com/PreAngel/pre-angel.com)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 
-Go to [PreAngel Official Website](https://www.pre-angel.com)
+Go to [PreAngel Portfolio Directory](https://www.pre-angel.com)
 
 ## Contribute to pre-angel.com repository
 
