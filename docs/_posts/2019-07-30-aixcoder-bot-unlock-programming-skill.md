@@ -3,6 +3,7 @@ title: aiXcoder编程机器人正确解锁“程序猿”新技能
 author: aixcoder
 categories: news
 tags:
+  - pku
   - featured
 image: assets/2019/07-aixcoder-bot-unlock-programming-skill/slide.jpg
 ---
