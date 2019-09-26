@@ -2,7 +2,7 @@
 name: Yong CHEN (陈勇)
 site: https://www.linkedin.com/in/cyong
 bio: 词根网创始人CEO，教儿子学英语的爸爸。
-avatar: /assets/peoples/yong-chen/avatar.png
+avatar: /assets/peoples/yong-chen/avatar.jpg
 email: ajeep8@gmail.com
 twitter:
 ---
