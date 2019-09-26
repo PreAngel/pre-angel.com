@@ -5,10 +5,7 @@ categories: news
 tags:
   - UAV
   - RS
-  - spectrum
-  - machinery
   - VRA
-  - Read Farm
 image: assets/2019/03-readfarm-vra/0.png
 ---
 
