@@ -1,5 +1,5 @@
 ---
-title: "中国人应该怎么学英语？"
+title: 词根网 | 陈勇：中国人应该怎么学英语？
 author: yong-chen
 categories: news
 tags:
