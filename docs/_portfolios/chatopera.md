@@ -6,6 +6,7 @@ avatar: /assets/portfolios/chatopera/icon.png
 twitter: 
 people:
   - hailiang-wang
+  - kai-zhang
 ventures:
   - preangel
   - pnp
