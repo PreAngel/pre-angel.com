@@ -5,10 +5,7 @@ categories: news
 tags:
   - UAV
   - RS
-  - spectrum
   - wildfire
-  - insurance
-  - Read Farm
 image: assets/2019/08-readfarm-insurance/0.png
 ---
 
