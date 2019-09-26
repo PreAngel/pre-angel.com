@@ -5,10 +5,7 @@ categories: news
 tags:
   - UAV
   - RS
-  - spectrum
   - palm
-  - SEA
-  - Read Farm
 image: assets/2018/09-readfarm-palm/0.png
 ---
 
