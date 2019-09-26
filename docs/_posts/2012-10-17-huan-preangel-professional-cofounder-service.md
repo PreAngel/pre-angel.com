@@ -9,7 +9,7 @@ image: assets/ventures/preangel/preangel-icon-large.png
 
 > 做基金也是创业。基金的投资人是 Limited Partner ，执行团队是 General Partner 。 GP 的创业计划书是这样写的：1、融资计划：你给我1块钱，7 年后我还你 10 块；2、执行概要：把所有 LP 的钱分成很多份，转包给其他创业者来实现增值。
 
-![PreAngel](/assets/ventures/preangel/preangel-logo.png)
+![PreAngel](/assets/ventures/preangel/logo/preangel-logo.png)
 
 2015年10月份，我募集了PreAngel第五期，开始投资。
 

@@ -28,7 +28,7 @@ defaults:
       layout: post
       comments: true
       author: preangel
-      avatar: /assets/ventures/preangel/preangel-icon.png
+      avatar: /assets/ventures/preangel/logo/preangel-icon.png
 
   # all pages
   - scope:
