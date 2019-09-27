@@ -13,7 +13,7 @@ ventures:
   - liqun-tong
 ---
 
-![intro](/assets/portfolios/readfarm/intro.jpg)
+![intro](/assets/portfolios/readfarm/readfarm-videlo-190925.webm)
 
 北京观耘科技有限公司（READFARM）是一家致力于利用大数据技术解决农业问题的科技服务公司，核心成员深耕于农业、航空、人工智能等多元化领域。
 
