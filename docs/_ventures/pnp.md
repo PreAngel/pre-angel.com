@@ -10,6 +10,7 @@ people:
   - saeed-amidi
   - rahim-amidi
   - shawn-chen
+  - yisi-gu
 ---
 
 Plug and Play 前身始于1998年，投资和孵化了谷歌等互联网巨头。2006年在硅谷由伊朗家族企业Amidi  Group创立，现已发展成为美国TOP 10的企业加速器，专注于对科技类创业企业的孵化投资，在美国硅谷、德国、俄罗斯、新加坡及西班牙等地均设有分支机构。Plug&Play创始人曾经投出过PayPal、Dropbox、LendingClub等现象级公司，谷歌、罗技也曾从他旗下的办公楼走出。
