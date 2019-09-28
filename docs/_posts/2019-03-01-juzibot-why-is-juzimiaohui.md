@@ -98,3 +98,8 @@ image: assets/2019/03-juzibot-why-is-juzimiaohui/banner.png
 
 1. 控制自己的贪婪是一件很重要的事情，只有控制住贪婪，才能剔除掉不属于你的客户，而不会被这些客户牵着鼻子开发了很多本不应该有的功能。
 2. 不忘初心，方得始终。有的时候走了太远，你会忘记为什么而出发。
+
+本文已做删减，更多相关内容详见：
+
+* [桔子互动是一家什么样的公司](https://lijiarui.github.io/thought/2019-1-19-what-is-botorange.html)
+* [一个舞娘如何用6行代码写出微信聊天机器人](https://lijiarui.github.io/chatbot/2016-11-20-wechaty-wuli-usecase.html)
