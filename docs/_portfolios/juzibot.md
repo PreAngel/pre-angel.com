@@ -1,7 +1,7 @@
 ---
 name: Juzi BOT (句子互动)
 site: https://www.juzi.bot
-bio: 在微信上提供集销售、市场、和售后服务于一体的客户沟通系统
+bio: 在微信上提供集销售、市场、和售后服务于一体的客户沟通系统，助力企业提高新客转化
 avatar: /assets/portfolios/juzibot/icon.png
 twitter: https://weibo.com/u/2175505900
 people:
