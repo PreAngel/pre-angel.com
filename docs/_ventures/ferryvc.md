@@ -1,5 +1,5 @@
 ---
-name: 源渡创投
+name: Ferry VC (源渡创投)
 site: http://www.ferryvc.com
 bio: 专注早期 培育价值
 avatar: /assets/ventures/ferryvc/icon.png

@@ -1,5 +1,5 @@
 ---
-name: 乐博资本
+name: Lebox Capital (乐博资本)
 site: http://www.leboxcap.com
 bio: 发现并帮助极具商业潜质与核心竞争力的个人和团队成长为未来之星
 avatar: /assets/ventures/leboxcap/icon.png
