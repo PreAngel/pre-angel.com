@@ -7,7 +7,7 @@
       <!-- AddToAny BEGIN -->
       <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
         <a class="a2a_button_wechat" title='Wechat'>
-          <img id="qrcode" title="Wechat" width="40" height="40"/>
+          <img id="qrcode" title="Wechat"/>
         </a>
         <a class="a2a_button_wechat" title='Wechat'></a>
         <a class="a2a_button_sina_weibo" title='Weibo'></a>
@@ -27,7 +27,7 @@
   var href = document.location.href
   var url = 'https://api.qrserver.com/v1/create-qr-code/?data='
             + href
-            + '&size=40x40'
+            + '&size=64x64'
   var img = document.getElementById('qrcode')
 
   img.src=encodeURI(url)
