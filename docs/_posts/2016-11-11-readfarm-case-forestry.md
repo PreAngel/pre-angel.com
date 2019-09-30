@@ -1,12 +1,12 @@
 ---
 title: 那不是秋天的红叶——林业有害生物监测
-author: read farm
+author: readfarm
 categories: news
 tags:
   - UAV
   - RS
   - forestry
-image: assets/2016/11-readfarm-forestry/0.png
+image: assets/2016/11-readfarm-forestry/0.jpg
 ---
 
 森林一直被誉为地球最美的外衣，是维护生态平衡的重要保障，同时具有巨大经济价值，而我国也是全球利用造林减排的最大国。在林业众多病虫害当中，松材线虫是一种破坏性极强、漫延迅速且难处置的一种虫害，是松树的一种毁灭性流行病，被列为国际、国内检疫对象，俗称松树的“癌症”。自1982年首次发现松材线虫至今，松材线虫的疫区已经扩大至15个省，致死松树达5亿多株，经济损失近千亿元。而近些年也愈演愈烈，不可等闲视之。
@@ -17,4 +17,4 @@ image: assets/2016/11-readfarm-forestry/0.png
 
 双方合作至今，针对松材线虫病害的防治方案成果显著，共同发表了多篇论文及行业期刊文章，并逐步在行业中形成监测标准。每年重点林区持续服务面积约30万亩，并在全国多地林业系统当中推广。较传统人工监测手段提高效率约300倍。
 
-![pic-1](/assets/2016/11-readfarm-forestry/1.png)
+![pic-1](/assets/2016/11-readfarm-forestry/1.jpg)

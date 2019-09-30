@@ -1,16 +1,16 @@
 ---
 title: 与智能农机深度结合——精准需要有据可依
-author: read farm
+author: readfarm
 categories: news
 tags:
   - UAV
   - RS
   - VRA
-image: assets/2019/03-readfarm-vra/0.png
+image: assets/2019/03-readfarm-vra/0.jpg
 ---
 
 观耘有别于精准农业基于机器本身和土地环境的数据集成和运用，而更侧重于种植者的效益，我们一直在探索利用数据技术指导种植者进行决策，从而带来更多收益。而数据技术的落地应用离不开农业智能化设备。
 
 年初观耘团队与北京市农林科学院以为智能化农机的变量施肥提供数据指导开展合作。团队以数据集成、农业数据地图和分析工具为智能农机提供精细化数据支撑，实现了数据成果无缝对接现代化智能农机执行变量化精准施肥作业，未来双方将努力推动农机变量施肥、施药、播种等的标准化建立。
 
-![pic-1](/assets/2019/03-readfarm-vra/1.png)
+![pic-1](/assets/2019/03-readfarm-vra/1.jpg)
