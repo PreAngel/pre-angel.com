@@ -4,7 +4,7 @@ author: hao-gu
 categories: news
 tags:
   - home
-  - features
+  - featured
   - interview
 image: assets/2017/05-guhao-slow-art/handwriting.png
 ---

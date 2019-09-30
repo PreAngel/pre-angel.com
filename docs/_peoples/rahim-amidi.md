@@ -1,5 +1,5 @@
 ---
-name: Rahim Amidi
+name: Rahim AMIDI
 site: https://amidigroup.com/rahim-amidi
 avatar: /assets/peoples/rahim-amidi/avatar.jpg
 bio: Founding General Partner of Plug and Play

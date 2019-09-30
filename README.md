@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/PreAngel/pre-angel.com.svg?branch=master)](https://travis-ci.com/PreAngel/pre-angel.com)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 
-Go to [PreAngel Official Website](https://www.pre-angel.com)
+Go to [PreAngel Portfolio Directory](https://www.pre-angel.com/portfolios/)
 
 ## Contribute to pre-angel.com repository
 
@@ -31,7 +31,7 @@ Go to [PreAngel Official Website](https://www.pre-angel.com)
 
 That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
 
-## AUTHOR
+## Author
 
 [Huan](https://github.com/huan) [(李卓桓)](https://pre-angel.com/peoples/zhuohuan-li/), [PreAngel Partner](https://pre-angel.com) \<huan@pre-angel.com\>
 

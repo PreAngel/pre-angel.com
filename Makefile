@@ -16,6 +16,10 @@ test:
 code:
 	code .
 
+.PHONY: clean
+clean:
+	rm -fr docs/_site
+
 .PHONY: serve
 serve:
 	(cd docs && bundle exec jekyll serve --incremental)

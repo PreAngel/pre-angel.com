@@ -1,5 +1,5 @@
 ---
-name: "Jian Jin (晋剑)"
+name: "Jian JIN (晋剑)"
 site: http://jackjin.io
 bio: "蒸汽记忆 COO"
 avatar: /assets/peoples/jian-jin/avatar.png
