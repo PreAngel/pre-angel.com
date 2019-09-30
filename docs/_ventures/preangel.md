@@ -8,7 +8,6 @@ email: bp@pre-angel.com
 people:
   - zhuohuan-li
   - lijie-wang
-  - jun-zhang
 ---
 
 PreAngel是一支专注于人工智能技术创业项目的天使基金，核心价值是提供“职业联合创始人”服务。它借助自身在人工智能产业领域的深刻的认识和资源积累，投资与早期创业团队并且帮助他们成长。PreAngel投资每个项目一般投资￥10万，占股权2~10%。
