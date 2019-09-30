@@ -7,7 +7,10 @@
       <!-- AddToAny BEGIN -->
       <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
         <a class="a2a_button_wechat" title='Wechat'>
-          <img id="qrcode" title="Wechat"/>
+          <img id="qrcode" title="Wechat"
+            src="/assets/ventures/preangel/logo/preangel-icon.png"
+            width="40" height="40"
+          />
         </a>
         <a class="a2a_button_wechat" title='Wechat'></a>
         <a class="a2a_button_sina_weibo" title='Weibo'></a>
@@ -27,7 +30,7 @@
   var href = document.location.href
   var url = 'https://api.qrserver.com/v1/create-qr-code/?data='
             + href
-            + '&size=64x64'
+            + '&size=80x80'
   var img = document.getElementById('qrcode')
 
   img.src=encodeURI(url)
