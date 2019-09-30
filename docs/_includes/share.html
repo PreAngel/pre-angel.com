@@ -9,7 +9,7 @@
         <a class="a2a_button_wechat" title='Wechat'>
           <img id="qrcode" title="Wechat"
             src="/assets/ventures/preangel/logo/preangel-icon.png"
-            width="40" height="40"
+            width="64" height="64"
           />
         </a>
         <a class="a2a_button_wechat" title='Wechat'></a>
@@ -30,7 +30,7 @@
   var href = document.location.href
   var url = 'https://api.qrserver.com/v1/create-qr-code/?data='
             + href
-            + '&size=80x80'
+            + '&size=512x512'
   var img = document.getElementById('qrcode')
 
   img.src=encodeURI(url)
