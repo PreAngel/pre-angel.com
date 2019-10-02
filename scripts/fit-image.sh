@@ -33,6 +33,7 @@ for FILE in "${FILE_LIST[@]}"; do
   fi
 
   WIDTH=$(identify -ping -format '%w' "$FILE")
+  # echo "$FILE WIDTH: $WIDTH"
   if [ $WIDTH -gt 1920 ]; then
     resize $FILE
     echo "Resized $FILE"

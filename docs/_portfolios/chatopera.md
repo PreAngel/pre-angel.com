@@ -2,8 +2,8 @@
 name: Chatopera
 site: https://www.chatopera.com
 bio: 智能客服系统提供商，帮助企业客户在客户服务中创造更多价值。
+twitter: https://weibo.com/u/6680792124
 avatar: /assets/portfolios/chatopera/icon.png
-twitter: 
 people:
   - hailiang-wang
   - kai-zhang
