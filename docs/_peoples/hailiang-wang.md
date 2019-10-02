@@ -1,7 +1,7 @@
 ---
 name: Hai Liang WANG (王海良)
 site: https://github.com/Samurais
-avatar: /assets/peoples/hailiang-wang/avatar.png
+avatar: /assets/peoples/hailiang-wang/avatar.jpg
 bio: Chatopera 联合创始人 & CEO
 email: hain@chatopera.com
 twitter: https://twitter.com/hain_wang
@@ -12,7 +12,7 @@ twitter: https://twitter.com/hain_wang
 <video
   controls=""
   style="width:100%;"
-  poster="/assets/peoples/hailiang-wang/video-1-cover.png"
+  poster="/assets/peoples/hailiang-wang/video-1-cover.jpg"
 >
   <source
     src="http://cdndownload.chatopera.com/video/vvfin/Chatopera%E4%BA%A7%E5%93%81.mp4"

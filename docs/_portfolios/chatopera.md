@@ -1,7 +1,7 @@
 ---
 name: Chatopera
 site: https://www.chatopera.com
-bio: 人工智能技术公司，帮助企业客户在客户服务中创造更多价值。
+bio: 智能客服系统提供商，帮助企业客户在客户服务中创造更多价值。
 avatar: /assets/portfolios/chatopera/icon.png
 twitter: 
 people:

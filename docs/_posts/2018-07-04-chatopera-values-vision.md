@@ -135,7 +135,7 @@ Chatopera产品线
 
 对我们来说，做用户喜爱的产品就意味着，用户能从我们的产品中感受到热情，效率和尽善尽美，选择我们就是选择成功。
 
-![Chatopera创始团队](/assets/2018/07-chatopera-values-vision/founding-team.png)
+![Chatopera创始团队](/assets/2018/07-chatopera-values-vision/founding-team.jpg)
 Chatopera创始团队。右起：王海良，向宇，张凯，
 
 > 源自：[Chatopera Blog](https://blog.chatopera.com/vision-and-value/)

@@ -12,7 +12,7 @@ twitter:
 <video
   controls=""
   style="width:100%;"
-  poster="/assets/peoples/kai-zhang/video-1-cover.png"
+  poster="/assets/peoples/kai-zhang/video-1-cover.jpg"
 >
   <source
     src="http://cdndownload.chatopera.com//video/vvfin/Chatopera-ZhangKai-Video.mp4"
