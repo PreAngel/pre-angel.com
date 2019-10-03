@@ -1,5 +1,5 @@
 ---
-title: Create With AI，句子互动与百度：从百度AI加速器，到联手打造 Chatbot 对话系列课程。
+title: Create With AI：句子互动从百度AI加速器，到联手百度打造 Chatbot 对话系列课程
 author: juzibot
 categories: news
 tags:
