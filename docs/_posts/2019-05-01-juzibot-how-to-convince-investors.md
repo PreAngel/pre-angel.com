@@ -1,6 +1,6 @@
 ---
 title: 资本寒冬下是如何成功融资的：从YC毕业，到TSVC和阿尔法公社的投资
-author: jiarui-li
+author: juzibot
 categories: news
 tags:
   - investors
@@ -9,6 +9,7 @@ tags:
   - alpha-startup
 image: assets/2019/05-juzibot-how-to-convince-investors/yc-w19.jpg
 ---
+
 > 今年1月到3月，句子互动参加了 Y Combinator W19 batch. 这是一段非常美好的旅程，在demo day 结束后，我们迅速拿到了TSVC(清谷资本) 和阿尔法公社的投资。非常感谢我们在 YC 的导师陆奇，Eric Migicovsky，Aaron Harris 和 Holly Liu 和所有 YC 的校友，也感谢清谷资本和阿尔法公社的信任。
 
 ![founders](/assets/2019/05-juzibot-how-to-convince-investors/founders.jpg)
@@ -114,9 +115,9 @@ Paul Graham 在[How to convince investors](http://paulgraham.com/convince.html)�
 
 ## 一些技巧
 
-1. FOMO (Fear of Missing Out) : 拉投资很多时候是一场心理战，你需要让投资人有**担心错过你的感觉**，你必须要在非常短的时间内快速的接触尽可能多的投资人。你和投资人交流的次数越多，你就能从投资人角度看到公司的更多价值，拿到 Term Sheet 的机会就会越大。而你看起来拿到 Term Sheet 的机会越大，你就能交流的机构越多。 我在 Demo Day 之后的1个月内约见了100多个投资人。
-2. 一定要尽快拿到你的第一个 Term Sheet，拿到第一个 Term Sheet 之后，后面的投资人会得到更多的信心，进而有更大的意愿给出 Term Sheet。为了快速拿到第一个 Term Sheet，可以在估值上做出适当的让步。
-3. 适可而止，最后我们融到的钱超出了我们的预期。后续很多机构我谈了第一次后就终止了，因为拉投资的目的不是为了证明自己，而是募到所需要的钱尽快回到公司的业务中。
+1. 你需要在正式启动融资后，短时间内快速接触尽可能多的投资人。你和投资人交流的次数越多，你就能从投资人角度看到公司的更多价值，拿到 Term Sheet 的机会就会越大。而你看起来拿到 Term Sheet 的机会越大，你就能交流的机构越多。我在 Demo Day 之后的1个月内约见了100多个投资人。
+2. 第一个 Term Sheet 非常重要。拿到第一个 Term Sheet 之后，后面的投资人会得到更多的信心，进而有更大的意愿给出 Term Sheet。为了拿到第一个 Term Sheet，可以在估值上做出适当的折扣来感谢投资人的首次认可。
+3. 募资额度完成后处理好与投资人的沟通。最后我们融到的钱很快就超出了我们的预期，后续还有很多机构联络，我们交流了一次之后就明确说明本轮募资已经关闭的情况，并约定保持联系继续沟通，为未来的或作奠定良好基础。因为拉投资的目的不是为了拿到更多的钱，而是募到所需要的钱，尽快投入到公司开展业务。
 
 ## 最后，请确认这是你的理想
 
