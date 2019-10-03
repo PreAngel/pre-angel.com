@@ -10,7 +10,7 @@ tags:
 image: assets/2019/05-juzibot-how-to-convince-investors/yc-w19.jpg
 ---
 
-> 今年1月到3月，句子互动参加了 Y Combinator W19 batch. 这是一段非常美好的旅程，在demo day 结束后，我们迅速拿到了TSVC(清谷资本) 和阿尔法公社的投资。非常感谢我们在 YC 的导师陆奇，Eric Migicovsky，Aaron Harris 和 Holly Liu 和所有 YC 的校友，也感谢清谷资本和阿尔法公社的信任。
+> 今年1月到3月，句子互动参加了 Y Combinator W19 batch. 这是一段非常美好的旅程，在Demo Day 结束后，我们迅速拿到了TSVC(清谷资本) 和阿尔法公社的投资。非常感谢我们在 YC 的导师陆奇，Eric Migicovsky，Aaron Harris 和 Holly Liu 和所有 YC 的校友，也感谢清谷资本和阿尔法公社的信任。
 
 ![founders](/assets/2019/05-juzibot-how-to-convince-investors/founders.jpg)
 
@@ -46,39 +46,13 @@ Demo Day 现场的演讲并不是要说服投资人立刻投你，而是一个�
 
 ## Demo Day 现场
 
-为了让投资人能记住我们，我和我的合伙人在 demo day 那天穿了我们公司的文化衫，特别耀眼的橙色并印有大大的logo。因为在 Demo Day 的场外有很多投资人，我和我的合伙人和这些投资人主动用30s介绍自己，让他们知道我们在什么时候会上台演讲，使得可能对我们感兴趣的投资人更不容易错过我们的演讲。
+为了让投资人能记住我们，我和我的合伙人在 Demo Day 那天穿了我们公司的文化衫，特别耀眼的橙色并印有大大的logo。因为在 Demo Day 的场外有很多投资人，我和我的合伙人和这些投资人主动用30s介绍自己，让他们知道我们在什么时候会上台演讲，使得可能对我们感兴趣的投资人更不容易错过我们的演讲。
 
 ![investors-outside](/assets/2019/05-juzibot-how-to-convince-investors/investors-outside.jpg)
 
 在这里，如何找到对你感兴趣的投资人，避免不必要的沟通时间，无论是对创始人还是繁忙的投资人，都是非常重要的。因为很多投资人不投中国项目，在后来与投资人首次交流的时候，我会开门见山的提问：“Will you invest in Chinese company?”，如果得到“No” 的回复，我们就会迅速的友善的握手结束对话。通过这种简单直接的方式帮我们和大量投资人解决了互相的时间。
 
 主动去和投资人 say hello 并在30秒之内勾起投资人的好奇心并给他留下深刻印象，然后留下名片，不只是在 Demo Day 当天非常重要，在未来的很多场合，我们作为创始人都应该这样去做，推广我们的公司，推广我们的产品。介绍这些的目的，仅仅只是一个开始，不是为了在30秒之内成单，而是能引发后面更深入的讨论和沟通，当然，更合适的是一对一的咖啡，而不是在人来人往的活动广场。
-
-## YC W19 Demo Day Pitch Deck
-
-<div class="zoom-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/05-juzibot-how-to-convince-investors/juzi-bot-yc-w19-demo-day.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
 
 ## Demo Day 之后约见投资人
 
@@ -129,7 +103,12 @@ Paul Graham 在[How to convince investors](http://paulgraham.com/convince.html)�
 
 > It is you to make your startup success. You only fail when you fail.
 
-### Source
+### Juzi.Bot YC W19 Demo Day Pitch Deck & Video
+
+- [Demo Day Pitch Deck](/assets/2019/05-juzibot-how-to-convince-investors/juzi-bot-yc-w19-demo-day.pdf)
+- [Demo Day Pitch Video](https://v.qq.com/x/page/l3004xi6lf7.html)
+
+### Related
 
 - [How to convince investors](http://paulgraham.com/convince.html)
 - [How to raise money](http://paulgraham.com/fr.html)
