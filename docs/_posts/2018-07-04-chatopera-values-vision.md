@@ -1,5 +1,5 @@
 ---
-title: ChatOpera：我们的价值观和愿景
+title: Chatopera：我们的价值观和愿景
 author: chatopera
 categories: news
 tags:
@@ -90,7 +90,7 @@ Gmail作为全世界最优秀的邮箱，一直长期给用户使用“测试版
 
 将聊天机器人和业务流程融合，是实现企业服务的高度智能化和自动化的一种合理方式。但是这个产品该怎么实现，是以业务人员为中心，还是以开发人员为中心？
 
-带着种种疑问，在不断的研究和尝试中，我摸索着自己的答案：利用机器学习技术辅助企业业务人员撰写聊天机器人脚本，生成聊天机器人对话逻辑导图。这种对话服务将以各种各样的应用的形式出现，在ChatOpera，我们称之为企业对话应用。
+带着种种疑问，在不断的研究和尝试中，我摸索着自己的答案：利用机器学习技术辅助企业业务人员撰写聊天机器人脚本，生成聊天机器人对话逻辑导图。这种对话服务将以各种各样的应用的形式出现，在Chatopera，我们称之为企业对话应用。
 
 与此同时，2017年Gartner发布了企业应用AI的路线图，我是非常认可Gartner的对2019年聊天机器人发展的预测的：
 
@@ -110,7 +110,7 @@ Gartner主要主要观点是：
 
 ## 我们的愿景是通过人工智能技术辅助业务人员实现智能对话服务，提升企业的智能化和自动化
 
-在ChatOpera，我们的核心价值观是：
+在Chatopera，我们的核心价值观是：
 
 1. 通过不懈的努力实现用户喜爱的产品
 1. 指导我们工作的原则是做用户喜爱的产品
@@ -138,4 +138,4 @@ Chatopera产品线
 ![Chatopera创始团队](/assets/2018/07-chatopera-values-vision/founding-team.jpg)
 Chatopera创始团队。右起：王海良，向宇，张凯，
 
-> 源自：[ChatOpera Blog](https://blog.chatopera.com/vision-and-value/)
+> 源自：[Chatopera Blog](https://blog.chatopera.com/vision-and-value/)

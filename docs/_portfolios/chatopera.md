@@ -1,12 +1,13 @@
 ---
-name: Chat Opera (华夏春松)
+name: Chatopera
 site: https://www.chatopera.com
-bio: 企业聊天机器人应用解决方案的提供商，专注于提供设计、开发、部署和运维的一站式解决方案
+bio: 智能客服系统提供商，帮助企业客户在客户服务中创造更多价值。
 twitter: https://weibo.com/u/6680792124
 avatar: /assets/portfolios/chatopera/icon.png
 people:
   - hailiang-wang
   - kai-zhang
+  - yu-xiang
 ventures:
   - preangel
   - pnp
@@ -15,7 +16,7 @@ videos:
   - http://cdndownload.chatopera.com/introduction.mp4?pid=1533520414396X1190257
 ---
 
-ChatOpera 提供企业实现聊天机器人应用的解决方案，随着移动互联网的普及和人工智能技术的不断进步，企业服务向着更智能化、更自动化的方向发展。Chatopera 利用自身在自然语言处理、机器学习、搜索引擎和业务流程引擎上的积累，为企业提供快速、低成本、稳定的落地聊天机器人服务的产品。
+Chatopera（即北京华夏春松科技有限公司）成立于2018年6月，本着诚信、创新和负责的价值观，为企业客户提供自主研发的智能客服系统，利用人工智能技术提升客户服务过程中的效率，提升客户满意度，主要产品包括春松客服和Chatopera云服务。我们的愿景是让机器从事客服工作中重复、繁琐的部分，把人从这些工作中解放出来，去做更有价值的事情。
 
 <video
   controls=""
