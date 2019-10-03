@@ -53,6 +53,32 @@ Demo Day 现场的演讲并不是要说服投资人立刻投你，而是一个�
 
 主动去和投资人 say hello 并在30秒之内勾起投资人的好奇心并给他留下深刻印象，然后留下名片，不只是在 Demo Day 当天非常重要，在未来的很多场合，我们作为创始人都应该这样去做，推广我们的公司，推广我们的产品。介绍这些的目的，仅仅只是一个开始，不是为了在30秒之内成单，而是能引发后面更深入的讨论和沟通，当然，更合适的是一对一的咖啡，而不是在人来人往的活动广场。
 
+## YC W19 Demo Day Pitch Deck
+
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/05-juzibot-how-to-convince-investors/juzi-bot-yc-w19-demo-day.pdf' | relative_url }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+
 ## Demo Day 之后约见投资人
 
 在 Demo Day 结束后，我们设计了专门的流程更高效的和投资人进行后续的沟通：
