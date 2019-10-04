@@ -4,7 +4,7 @@ author: jiarui-li
 categories: news
 tags:
   - Intercom
-image: assets/portfolios/juzibot/banner.png
+image: assets/2019/03-juzibot-why-is-juzimiaohui/banner.png
 ---
 
 我希望能像 [Intercom](https://www.intercom.com/) 那样，帮助企业高效管理用户，快速获客并提高转化。

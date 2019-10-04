@@ -1,7 +1,7 @@
 ---
 name: Juzi BOT (句子互动)
 site: https://www.juzi.bot
-bio: 一个具有开源精神的智能对话服务商
+bio: 将智能对话落地到微信等社交场景，YC China 首期入选创业公司。
 avatar: /assets/portfolios/juzibot/icon.png
 twitter: https://weibo.com/u/2175505900
 people:
