@@ -113,4 +113,4 @@ Paul Graham åœ¨[How to convince investors](http://paulgraham.com/convince.html)æ
 ### Juzi.Bot YC W19 Demo Day Pitch Deck & Video
 
 - Demo Day Pitch Deck: [pdf](/assets/2019/05-juzibot-how-to-convince-investors/juzi-bot-yc-w19-demo-day.pdf)
-- Demo Day Pitch Video: [qq video](https://v.qq.com/x/page/l3004xi6lf7.html), [youtube](https://www.youtube.com/watch?v=ePKYaGGKsWw)
+- Demo Day Pitch Video: [qq video](https://v.qq.com/x/page/l3004xi6lf7.html), [youtube](https://youtu.be/ePKYaGGKsWw)
