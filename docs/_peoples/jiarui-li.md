@@ -1,7 +1,7 @@
 ---
 name: Jiarui LI (李佳芮)
 site: https://lijiarui.github.io
-bio: 句子互动创始人 & CEO，微软人工智能最有价值专家 (AI MVP)
+bio: 句子互动创始人 & CEO，微软人工智能最具价值专家 (AI MVP)
 avatar: /assets/peoples/jiarui-li/avatar.png
 email: rui@juzi.bot
 twitter: https://weibo.com/u/2175505900
