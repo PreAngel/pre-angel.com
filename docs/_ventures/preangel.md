@@ -1,7 +1,7 @@
 ---
 name: PreAngel
 site: https://www.pre-angel.com
-bio: 职业联合创始人服务：300+家中美初创企业背后的天使投资机构
+bio: 职业联合创始人服务 | 参与创始 300+ 中美初创企业
 avatar: /assets/ventures/preangel/logo/preangel-icon.png
 twitter: https://weibo.com/preangel
 email: bp@pre-angel.com
