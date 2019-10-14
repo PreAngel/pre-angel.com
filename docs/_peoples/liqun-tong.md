@@ -5,6 +5,8 @@ bio: 蓝信创始人 & CEO
 avatar: /assets/peoples/liqun-tong/avatar.jpg
 email: tongliqun@comisys.com
 twitter: 
+tags:
+  - lp
 ---
 
 佟立群，蓝信创始人 &　CEO。中欧国际工商学院 EMBA（2000级），长春邮电学院本科（1989级）。
