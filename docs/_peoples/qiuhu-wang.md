@@ -2,7 +2,7 @@
 name: Qiuhu WANG (王秋虎)
 site:
 avatar: /assets/peoples/qiuhu-wang/avatar.jpg
-bio: 开物投资国管理合伙人
+bio: 开物投资创始合伙人，中文在线联合创始人
 email: jeff.wang@kaiwucapital.com
 twitter: 
 tags:

@@ -73,7 +73,7 @@ Follow your heart, 一生追随你所爱，并坚持到底。时间看得见，�
 ">
   <iframe
     poster="/assets/2016/04-lijiarui-wuli/aoa-skirt.jpg"
-    src="http://player.bilibili.com/player.html?aid=7419680"
+    src="https://player.bilibili.com/player.html?aid=7419680"
     width='560'
     height='315'
     allowfullscreen

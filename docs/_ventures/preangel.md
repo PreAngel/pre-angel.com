@@ -1,7 +1,7 @@
 ---
 name: PreAngel
 site: https://www.pre-angel.com
-bio: 职业联合创始人服务：300+家中美初创企业背后的天使投资机构
+bio: 职业联合创始人服务 | 参与创始 300+ 中美初创企业
 avatar: /assets/ventures/preangel/logo/preangel-icon.png
 twitter: https://weibo.com/preangel
 email: bp@pre-angel.com
@@ -41,5 +41,6 @@ PreAngel Fund was founded in 2011 and over time has developed a 1 billion RMB (1
 - [LinkedIn](https://linkedin.com/company/preangel/)
 - [CBInsights](https://www.cbinsights.com/investor/preangel)
 - [AngelList](https://angel.co/preangel)
+- [CrunchBase](https://www.crunchbase.com/organization/preangel)
 
 > “PreAngel” 是上海荷多投资管理有限责任公司注册商标。
