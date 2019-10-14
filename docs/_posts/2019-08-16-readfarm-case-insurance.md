@@ -17,4 +17,4 @@ image: assets/2019/08-readfarm-insurance/0.jpg
 
 ![pic-1](/assets/2019/08-readfarm-insurance/2.jpg)
 
-![pic-1](/assets/2019/08-readfarm-insurance/1.jpg)
+![pic-2](/assets/2019/08-readfarm-insurance/1.jpg)
