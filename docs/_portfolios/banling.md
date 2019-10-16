@@ -1,5 +1,5 @@
 ---
-name: Ban Ling (斑羚在线)
+name: Banling (斑羚在线)
 site: http://www.banling.com
 bio: 零食盒子：大学生里的 O2O Shopify 服务商
 avatar: /assets/portfolios/banling/icon.png
