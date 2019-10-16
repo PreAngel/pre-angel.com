@@ -5,6 +5,9 @@ avatar: /assets/peoples/lijie-wang/avatar.jpg
 bio: PA天使基金创始合伙人。使命驱动，帮助创业者成功，成就自己。
 email: leo@preangelfund.com
 twitter: https://twitter.com/betashow
+tags:
+  - lp
+  - pa5
 ---
 
 王利杰，PA天使基金创始人、Fission Capital Token Fund（裂变资本）合伙人、上海帷迦母基金的管理合伙人、中国青年天使会华东分会会长、上海海天会执行委员、中国天使投资联席会成员、中关村天使投资协会副会长。
