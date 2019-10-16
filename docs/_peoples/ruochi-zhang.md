@@ -1,7 +1,7 @@
 ---
 name: Ruochi ZHANG (张若驰)
 site: https://www.linkedin.com/in/zhangruochi/
-bio: 斑羚在线联合创始人 & CTO，Adobe 官方推荐开发者
+bio: 斑羚在线联合创始人 & CTO，Adobe 认证开发者
 avatar: /assets/peoples/ruochi-zhang/avatar.jpg
 email: 
 twitter: https://www.zhihu.com/people/zhangruochi/
