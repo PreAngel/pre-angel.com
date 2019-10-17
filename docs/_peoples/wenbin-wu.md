@@ -1,7 +1,7 @@
 ---
 name: Wenbin WU (武文斌)
 site: 
-bio: SIGAI 联合创始人 & CTO
+bio: SIGAI 联合创始人 & CTO，清华大学硕士。
 avatar: /assets/peoples/wenbin-wu/avatar.jpg
 email: 
 twitter: 

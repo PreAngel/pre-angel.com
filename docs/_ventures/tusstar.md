@@ -6,6 +6,7 @@ avatar: /assets/ventures/tusstar/icon.png
 twitter: https://www.linkedin.com/company/%E5%90%AF%E8%BF%AA%E4%B9%8B%E6%98%9F/
 people:
   - yongrui-wang
+  - jinsheng-zhang
 ---
 
 启迪之星孵化器成立于1999年，是科技部火炬中心认定的首批国家级孵化器。

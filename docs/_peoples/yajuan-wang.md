@@ -1,7 +1,7 @@
 ---
 name: Yajuan WANG (王娅娟)
 site: 
-bio: SIGAI 技术合伙人，第一个分布式 Caffe 版本作者
+bio: SIGAI 技术合伙人，第一个分布式 Caffe 版本作者。
 avatar: /assets/peoples/yajuan-wang/avatar.jpg
 email: 
 twitter: 
