@@ -1,7 +1,7 @@
 ---
 name: Di CHENG (程棣)
 site: 
-bio: 斑羚在线联合创始人 & CEO，前雅虎中国无线互联网技术总监，前奇虎360无线互联网技术总监。
+bio: 斑羚在线联合创始人 & CEO
 avatar: /assets/peoples/di-cheng/avatar.jpg
 email: 
 twitter: 
