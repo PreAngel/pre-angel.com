@@ -1,7 +1,7 @@
 ---
 name: Yuanyuan FANG (房圆圆)
 site: 
-bio: SIGAI联合创始人 & CMO
+bio: SIGAI联合创始人 & CMO，前 Video++ 首席营销官。
 avatar: /assets/peoples/yuanyuan-fang/avatar.jpg
 email: 
 twitter: 

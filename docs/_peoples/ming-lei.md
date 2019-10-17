@@ -1,7 +1,7 @@
 ---
 name: Ming LEI (雷明)
 site: https://me.csdn.net/SIGAI_CSDN
-bio: SIGAI CEO & 创始人，《机器学习——原理、算法与应用》作者，人工智能和机器学习领域资深专家
+bio: SIGAI CEO & 创始人，清华大学硕士，《机器学习——原理、算法与应用》作者，人工智能和机器学习领域资深专家
 avatar: /assets/peoples/ming-lei/avatar.jpg
 email: leiming@sigai.cn
 twitter: 
