@@ -5,6 +5,7 @@ avatar: /assets/peoples/zhuohuan-li/avatar.jpg
 bio: Hi, I am Huan, A angel investor focus on ML & Conversational AI, full of passion Chatbot Evanglist!
 email: huan@pre-angel.com
 twitter: https://twitter.com/zixia
+itjuzi: https://www.itjuzi.com/person/40849
 ---
 
 李卓桓，PreAngel 合伙人，Plug and Play Venture Partner，Venture SPRINT 联合创始人。
