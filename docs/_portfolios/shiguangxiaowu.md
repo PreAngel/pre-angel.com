@@ -1,5 +1,5 @@
 ---
-name: Shiguang Xiaowu (时光小屋)
+name: Peekaboo Moments (时光小屋)
 site: http://shiguangxiaowu.cn
 bio: 记录儿童成长的家人版 Facebook
 avatar: /assets/portfolios/shiguangxiaowu/icon.png
