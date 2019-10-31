@@ -17,7 +17,7 @@ So why is less VC money flowing into Ethereum? Perhaps it is more risky, and per
 
 Using this new model, entrepreneurs create blockchain-based tokens that represent ownership in the network they are building, and also act as fuel for their network. For an investor, there are not shares of a company available, only the blockchain-based token. As the blockchain space expands, disproportionate returns will go to holders of the actual tokens, not traditional venture investors betting on a shares of a company. These tokens are application specific — they are not meant to be general-purpose units of value like bitcoin. For example, tokens built on Ethereum like REP and GNT power a decentralized prediction market and a peer-to-peer market for renting computation, respectively.
 
-## Imagine being able to actually make money when you contribute on social media.
+## Imagine being able to actually make money when you contribute on social media
 
 These application-specific tokens, or app-tokens, are built on top of existing general-purpose blockchains like Bitcoin and Ethereum. For the first time, open-source project creators can directly monetize their open-source network. Historically, successful open-source projects like the torrent protocol or the Tor network were not directly monetized at the protocol level. Now, the founder of a decentralized file storage network can issue blockchain-based tokens that represent ownership in the network.
 
