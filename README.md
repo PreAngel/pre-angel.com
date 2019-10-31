@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.com/PreAngel/pre-angel.com.svg?branch=master)](https://travis-ci.com/PreAngel/pre-angel.com)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 
-Go to [PreAngel Portfolio Directory](https://www.pre-angel.com/portfolios/)
+- Go to [PreAngel Portfolio Directory](https://www.pre-angel.com/portfolios/)
+- Go to [PreAngel Portfolio Directory Onboarding Instructions](https://docs.google.com/presentation/d/1ZZnfK75alSBlYF4Zs22X0KCLwYiYR_7apXFv6a9LV3E/edit?usp=sharing)
 
 ## Contribute to pre-angel.com repository
 
