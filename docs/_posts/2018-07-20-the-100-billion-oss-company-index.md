@@ -28,7 +28,7 @@ Here is my definition of what constitutes a COSS company:
 
 > If a given company heavily relies on and/or builds upon/extends an OSS project as the fundamental building block justifying its existence, it is definitionally a COSS company.
 
-## Examples:
+## Examples
 
 - GitHub would not exist without Git. Yes, they may not contribute back to Git as much as some other companies (Google, others) and yes their product may mostly be closed source (open core.. future posts will elaborate on this), but they fundamentally rely on Git — an OSS project.
 - Fastly would not exist without Varnish. Sure, they could build their own proprietary version of Varnish, but they are fundamentally reliant on Varnish as the core software ingredient of their product and business.
@@ -63,7 +63,7 @@ Here is some commentary on the data tracked in COSSI:
 - OSS License (what is the OSS license of the core OSS project the company relies on? if many projects, what is the primary/dominant license?)
 - Foundation-Based (is the core project in a foundation or not?)
 
-## Data sources:
+## Data sources
 
 - LinkedIn for employee count (very accurate)
 - Talking with VCs and founders for revenue and valuation #s (when I can’t/don’t engage these sources, I have a heuristic that is quite accurate)
@@ -96,6 +96,6 @@ Here are some topics I’ll cover in future bite-size weekly posts (no particula
 - Commercial OSS and Decentralized Networks for Coordinating Resources and Value (aka Blockchains)
 - Commercial OSS and the Question of Sustainability
 - Highest growth COSSI companies and what sets them apart
-- + many many more!
+- and many many more!
 
 > Source: [Medium](https://medium.com/open-consensus/1-the-100b-commercial-oss-company-index-cossci-f808ae3a16ab)

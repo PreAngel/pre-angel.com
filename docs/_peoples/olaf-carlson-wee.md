@@ -8,5 +8,4 @@ twitter:
 tags:
 ---
 
-I run Polychain - we manage the world's premier cryptocurrency investment funds 
-
+I run Polychain - we manage the world's premier cryptocurrency investment funds.
