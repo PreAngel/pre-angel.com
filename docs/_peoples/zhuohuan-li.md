@@ -8,7 +8,7 @@ twitter: https://twitter.com/huan_us
 itjuzi: https://www.itjuzi.com/person/40849
 ---
 
-李卓桓，PreAngel 合伙人，Plug and Play China Venture Partner，Venture SPRINT 联合创始人。
+李卓桓，PreAngel 合伙人，Plug and Play Venture Partner，Venture SPRINT 联合创始人。
 
 zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA，北京邮电大学 CS Ph.D (Majored in Conversational AI, Candidate)。
 
