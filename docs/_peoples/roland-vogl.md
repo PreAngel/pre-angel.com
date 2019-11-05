@@ -1,7 +1,8 @@
 ---
 name: Roland Vogl
 site: 
-bio: 
+bio: 斯坦福大学CodeX中心执行主任。SIPX、Vator.tv联合创始人。
+
 avatar: /assets/peoples/roland-vogl/avatar.jpg
 email: 
 twitter: 
