@@ -1,7 +1,7 @@
 ---
 name: Merico (逸码科技)
 site: https://meri.co/
-bio: Page Rank for Source Codes
+bio: Deep Code Repository Analytics 程序代码库深度分析，助力企业软件工程能力提升和开发团队人才发展
 avatar: /assets/portfolios/merico/icon.png
 twitter: 
 people:
@@ -15,14 +15,18 @@ ventures:
 
 Merico develops an AI + big data solution for analyzing code repositories, the most valuable asset of software companies. Our solution objectively measures developer contributions, talent strength and weakness, and software engineering practices and qualities. The new dimensions of measurement serve global enterprise engineering and HR managers to foster their team efficiency and project health.
 
-Merico逸码科技是一家面向程序代码库的智能大数据分析公司，研发产品用于测量企业内部程序员对项目开发活动的贡献，致力于服务全球企业的软件工程管理、人力资源管理和信息资源管理。创始人来自微软亚洲研究院、加州大学伯克利分校（UC Berkeley）和斯坦福大学（Stanford University），团队遍布中美欧多个国家，拥有先进的代码分析技术。
+Merico逸码科技是一家面向程序代码库的智能大数据分析公司，研发产品用于测量企业内部程序员对项目开发活动的贡献，以及致力于服务全球企业的软件工程管理、人力资源管理和信息资源管理。创始人来自微软亚洲研究院、加州大学伯克利分校（UC Berkeley）和斯坦福大学（Stanford University），团队遍布中美欧多个国家，拥有全球领先的代码分析技术。
 
-25
-2019 Mar
-SaaS产品上线
+在软件开发渗透到各行各业的今天，我们的解决方案帮助企业解决如下痛点：
 
-软件开发者通过代码创造的价值没有充分回馈到开发者手中。很多开源项目面临财务危机；公司的价值分配效率低、不灵活、不公平。为此，我们研发了基于程序语义的深层代码分析算法，评定开发者的贡献值，论文发表在顶级国际学术会议FSE18上。
-内容展示: 从产生巨大影响的Heartbleed，到PulseAudio、Octave等著名项目的财务危机，再到最近Redis模块修改协议的争议事件，大量实例都揭示了开源软件价值回馈缺失带来的严重影响；在公司的治理结构下，Paycheck的离职原因调查显示，“工资太低”占69.44%，“缺少认可和回报”占45.24%.
+* 程序员薪资高，但绩效管理难：传统自评/互评/领导评主观性强；评审耗时费力，反馈不及时。
+* 软件工程实践和代码质量落实难：缺乏系统的测量手段，难以激励程序员作出改进，导致技术负债堆积。
+* 难以充分激发组织与人才潜能：程序员选用育留缺乏数据支撑，仅依靠主观印象。
+
+2019年产品在中国和美国同时推向市场，并成为字节跳动、滴滴、长亭科技、Uber、怡安翰威特等众多知名企业的共同选择。
+
+**商业计划书**：<https://docsend.com/view/ykje7p2>
+**Pitch deck**: <https://docsend.com/view/rysr8mv>
 
 <div class="zoom-container" style="
     position: relative;
