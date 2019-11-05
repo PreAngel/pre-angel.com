@@ -25,8 +25,8 @@ Merico逸码科技是一家面向程序代码库的智能大数据分析公司�
 
 2019年产品在中国和美国同时推向市场，并成为字节跳动、滴滴、长亭科技、Uber、怡安翰威特等众多知名企业的共同选择。
 
-**商业计划书**：https://docsend.com/view/ykje7p2
-**Pitch deck**: https://docsend.com/view/rysr8mv
+**商业计划书**：<https://docsend.com/view/ykje7p2>
+**Pitch deck**: <https://docsend.com/view/rysr8mv>
 
 <div class="zoom-container" style="
     position: relative;
