@@ -2,7 +2,7 @@
 name: Huan LI (李卓桓)
 site: https://github.com/huan
 avatar: /assets/peoples/zhuohuan-li/avatar.jpg
-bio: Hi, I am Huan, A angel investor focus on ML & Conversational AI, full of passion Chatbot Evanglist!
+bio: Hi, I am Huan, an Angel investor focusing on Machine Learning & Conversational AI, as well as a passionate Chatbot Evangelist!
 email: huan@pre-angel.com
 twitter: https://twitter.com/huan_us
 itjuzi: https://www.itjuzi.com/person/40849
