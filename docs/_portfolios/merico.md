@@ -23,7 +23,9 @@ Merico逸码科技是一家面向程序代码库的智能大数据分析公司�
 * 软件工程实践和代码质量落实难：缺乏系统的测量手段，难以激励程序员作出改进，导致技术负债堆积。
 * 难以充分激发组织与人才潜能：程序员选用育留缺乏数据支撑，仅依靠主观印象。
 
-2019年产品在中国和美国同时推向市场，并成为字节跳动、滴滴、长亭科技、Uber、怡安翰威特等众多知名企业的共同选择。
+2018年核心技术论文发表在软件工程领域顶级国际学术会议FSE’18上，在Linux内核社区的测评实验（调研35位顶尖开发者，收集700多数据点）显示，我们核心算法的评价准确性已经达到人工测评准确性的97%！
+
+2019年产品在中国和美国同时推向市场，并成为**字节跳动、滴滴、长亭科技、Uber、怡安翰威特**等众多知名企业的共同选择。
 
 **商业计划书**：<https://docsend.com/view/ykje7p2>
 **Pitch deck**: <https://docsend.com/view/rysr8mv>
@@ -36,7 +38,7 @@ Merico逸码科技是一家面向程序代码库的智能大数据分析公司�
     overflow:hidden;
 ">
   <iframe
-    src="https://player.vimeo.com/video/351903125"
+    src="http://player.youku.com/embed/XNDQyNjMwMDAyMA=="
     width='640'
     height='360'
     allowfullscreen
