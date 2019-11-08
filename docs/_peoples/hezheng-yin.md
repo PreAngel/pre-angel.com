@@ -1,7 +1,7 @@
 ---
 name: Hezheng YIN (殷和政)
 site: 
-bio: 
+bio: 本科就读于清华大学“姚班”。加州大学伯克利分校机器学习方向博士生。读博士期间辞职创业，成为Merico的联合创始人。
 avatar: /assets/peoples/hezheng-yin/avatar.jpg
 email: 
 twitter: 
