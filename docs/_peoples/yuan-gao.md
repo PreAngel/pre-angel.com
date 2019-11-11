@@ -17,8 +17,8 @@ twitter: https://www.weibo.com/u/2166731327
 
 Chair in the forest
 
-![chair-in-the-forest](/assets/peoples/yuan-gao/sky.jpg)
+![chair-in-the-forest](/assets/peoples/yuan-gao/chair-in-the-forest.jpg)
 
 Seattle night
 
-![seattle-night](/assets/proples/yuan-gao/seattle-night.jpg)
+![seattle-night](/assets/peoples/yuan-gao/seattle-night.jpg)
