@@ -99,8 +99,3 @@ SDK 需求推送
 这些都是通过线上交流获得的，线下活动也是必不可少的。比如每个月邀请大家聚到一起娱乐、一起喝酒、一起打游戏、每个节日互送礼物。
 
 总之，让大家成功，让项目成功，是构建组织文化和价值观的根本目标。
-
-### 相关阅读
-
-1. [Authing 是什么以及为什么需要 Authing](https://authing.cn/blog//Authing%E6%98%AF%E4%BB%80%E4%B9%88%E4%BB%A5%E5%8F%8A%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81Authing.html)
-2. [Authing 知识库](https://learn.authing.cn/authing/)
