@@ -4,7 +4,7 @@ author: yong-chen
 categories: news
 tags:
   - english
-# image: assets/2018/10-how-chinese-learn-english/advanced-sex-education.jpg
+image: assets/2018/10-how-chinese-learn-english/chinese-english.webp
 ---
 
 先想象初生的婴儿是怎么学会说话的？
