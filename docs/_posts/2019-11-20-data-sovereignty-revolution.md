@@ -14,16 +14,17 @@ image: assets/2019/11-data-sovereignty-revolution/freedom.png
 <!-- more -->
 
 > 本文整理自蒸汽记忆创始人谢扬在 2019 年 11 月 16 日在成都 Web 全栈大会上的演讲，内容有删改。
+
 > 完整PPT 可从 Github 上查看：https://leinue.github.io/webfullstack-2019/index.html
 
-![](../assets/2019/11-data-sovereignty-revolution/freedom.png)
+![freedom](../assets/2019/11-data-sovereignty-revolution/freedom.png)
 
 那么在开始之前呢，我先按照惯例自我介绍下。我目前在创业，我们公司的名字叫做蒸汽记忆，取自工业革命的开始，我们想做提高社会的生产力的事情，并将全球的公开信息变成知识图谱。我们的使命是在一个身份下互联全人类的文化基因，构建全球互联的生产力平台。同时，我是 SoLiD 中文网的发起人，SoLiD 就是今天要讲的主题。在职业经历上，我是一名 Web 全栈开发者，其次也是知识图谱研究者。在创业之前，我曾经任职好东西传送门的 CTO，当时主要负责知识推荐和舆情分析等工作。在字节跳动时主要负责一款日活过亿的 Serverless 产品的研发和产品设计工作。
 
 
 最后，我还是一名共产主义者。
 
-![](../assets/2019/11-data-sovereignty-revolution/about-me.png)
+![about-me](../assets/2019/11-data-sovereignty-revolution/about-me.png)
 
 
 那么下面，我们就开始进入 SoLiD 和数据主权革命的主题了。
@@ -34,11 +35,11 @@ image: assets/2019/11-data-sovereignty-revolution/freedom.png
 
 好，这是对 Tim 的一个介绍。
 
-![](../assets/2019/11-data-sovereignty-revolution/this-is-for-everyone.png)
+![this-is-for-everyone](../assets/2019/11-data-sovereignty-revolution/this-is-for-everyone.png)
 
 这句话是 2012 年伦敦奥运会的时候 Tim 发的一个 Twitter，This is for Everyone。这个意思呢，就是说，Web 作为一个有统一规范的生态，是对每个人都开放的，每个人都能从中平等的获取信息，这也是 Web 被创建的一个初衷。
 
-![](../assets/2019/11-data-sovereignty-revolution/web-we-have-to-save.png)
+![web-we-have-to-save](../assets/2019/11-data-sovereignty-revolution/web-we-have-to-save.png)
 
 那么再看这张图，主要就是现在的互联网巨头们。大家可以看到图片中间是一个人，在聚光灯下，无论是 Youtube 还是 Googkle 都在围着他转，上面还有摄像头，这个人的所有信息都在这些互联网巨头手里一览无余。这就是我们目前 Web 的一个现状 —— 巨头控制几乎所有的东西。
 
@@ -48,7 +49,7 @@ image: assets/2019/11-data-sovereignty-revolution/freedom.png
 
 在十年前，是一个个人站长的黄金年代。我们当时做个人博客，个人博客里面链接了其他更多的个人博客，每个人都可以在不同的网站里面发表不同的评论，每个人都不需要作出任何妥协就可以发表自己的声音。Web 最重要的一个发明，超链接技术，现在已经被各大 APP 进行了无限度的分割。这里我一定要吐槽一下微信公众号不能插入超链接，腾讯这种吃相难看的绥靖政策，严重背离了 Web 的初衷，他们不是历史的推手，而是历史的倒退者。
 
-![](../assets/2019/11-data-sovereignty-revolution/web-common.png)
+![web-common](../assets/2019/11-data-sovereignty-revolution/web-common.png)
 
 Web 给予了每个人建立自己博客和网站的自由，每个人都可以在自己的网站或其他人的网站内分享他们的知识、见解和故事。Web 就相当于一个人的精神世界，Web 是从生活中来的，但是却高于生活。
 
@@ -60,19 +61,19 @@ Web 给予了每个人建立自己博客和网站的自由，每个人都可以�
 
 小程序把本来一种开放的生态，变成了一种围墙，这是历史的倒退。
 
-![](../assets/2019/11-data-sovereignty-revolution/web-creative.png)
+![web-creative](../assets/2019/11-data-sovereignty-revolution/web-creative.png)
 
 Web 的无门槛进入带来了大量创新，比如亚马逊、Twitter 等，这些大家都很清楚了。
 
 诚然，这些大型企业给予了普通用户非常多的便利，但是我们的数据却都掌握在巨头手中。以前很多人写博客，现在很多人只写微博、发朋友圈。不错，我们拥有了很好的用户体验，但是我们丧失了对数据的控制权。我举个例子来说明我们为什么需要数据的控制权，假如你有一个知乎账号，有几十万粉丝，某一天因为某些事情被知乎封掉了账号，此时你所有的粉丝关系都因为知乎的单方面封禁而丢失了，粉丝其实是你生产的数据，但是却不被你掌控。最好的处理方式是，知乎只是被我授权了我的粉丝关系的一个应用，他封禁的只是我对他平台的使用权，但是我的粉丝关系其实还存在我这边，我还可以授权给微博、微信等。说到粉丝关系，就会有另外一个概念，粉丝是为了什么？是为了推送，因此 SoLiD 也有一个 websocket 推送规范，这些推送可以推送给你的好友列表，不依赖任何应用程序。
 
-![](../assets/2019/11-data-sovereignty-revolution/data-center.png)
+![data-center](../assets/2019/11-data-sovereignty-revolution/data-center.png)
 
 另外一个问题就是隐私泄漏问题，2018 年 Facebook 剑桥分析事件泄漏了 5000 万用户数据，最近 Facebook 又泄漏了 7000 页的用户数据使用条款，该条款说明了 Facebook 如何挟持用户数据杀死竞争对手。在今年年初，杭州一家爬虫公司被封，该爬虫公司爬取了中国八亿人的简历，每年获利上亿。我自己也有亲身经历，最近有猎头找到我，我问她怎么找到我的，她说在某网站上看到我的简历，但是我从未用过那个网站。
 
 尤其是各种各样的小程序，我们认为这严重损害了 Web 的通用性，主要在于他们在商业载体下的封闭性。
 
-![](../assets/2019/11-data-sovereignty-revolution/walled-gardens.jpg)
+![walled-gardens](../assets/2019/11-data-sovereignty-revolution/walled-gardens.jpg)
 
 大家也可以看看这张图，图里面各大社交公司筑起了自己的高墙，在不同的社交网络中切换时极其复杂。而上面西装革履的大公司资本力量，淡然的看着这一切，这就是我们 Web 的现状。
 
@@ -82,7 +83,7 @@ Web 的无门槛进入带来了大量创新，比如亚马逊、Twitter 等，�
 
 我拒绝开发小程序应用，因为他太封闭了。
 
-![](../assets/2019/11-data-sovereignty-revolution/cen-hurt.png)
+![cen-hurt](../assets/2019/11-data-sovereignty-revolution/cen-hurt.png)
 
 下面我们来详细讲一下基于 SoLiD 的开发范式转变以及 SoLiD 如何重塑互联网用户和互联网数据之间的关系。
 
@@ -94,7 +95,7 @@ SoLiD 的核心可以归纳为三点，第一点：你拥有你的数据。你�
 
 以上三点就是 SoLiD 的核心价值。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-core.png)
+![solid-core](../assets/2019/11-data-sovereignty-revolution/solid-core.png)
 
 如果要更好的理解 SoLiD，还需要理解四个核心概念。
 
@@ -108,45 +109,45 @@ SoLiD 的核心可以归纳为三点，第一点：你拥有你的数据。你�
 
 WebID 也是一个规范，这里就不展开了，展开的话就没完没了，大家可以简单把他理解为一个唯一性 ID。
 
-![](../assets/2019/11-data-sovereignty-revolution/what-is-pod.png)
+![what-is-pod](../assets/2019/11-data-sovereignty-revolution/what-is-pod.png)
 
 那么第二个需要理解的，就是本体。前面我也简单的介绍了一下。这里我再稍微提一点。大家看上面的图，首先看我们这个蝙蝠侠，他有头罩，有披风，还有腰带、鞋子等等。那么这些名词，都叫做本体，本体定义了头罩只能叫头罩，而不能叫帽子。再看海绵宝宝，他有皮肤，有眼珠有裤子有斑点，大家还可以看到斑点在皮肤上，那么在这种关系也叫做本体。除了在这种关系，还有像拥有啦，上面啦等等。最右边的呢，是达尔文 core，他是一个植物的本体，植物的本体是有限的一个集合，所以很多人拿它来做研究。
 
-![](../assets/2019/11-data-sovereignty-revolution/what-is-ontology.png)
+![what-is-ontology](../assets/2019/11-data-sovereignty-revolution/what-is-ontology.png)
 
 第三个，就是 SoLiD 全称中的 Social 的含义。我们都知道，微信的用户是没有办法和 QQ 的通讯录统一的，你需要重复添加，那么 SoLiD 就定义了一种开放的社交关系图谱，叫做 FOAF，全称是 Friend of a friend，也就是朋友的朋友。比如我认识 A，A 认识 B，那么我就有可能会认识 B。这也是一种三元组的关系集合。大家经常用的企查查其实就是一种 FOAF。SoLiD 是一个以用户和个体为中心的一个生态，所以其必不可少的描述了一种社交关系。FOAF 也是 W3C 的一个标准，他描述了社交关系里的所有本体，SoLiD 直接拿来用了。
 
-![](../assets/2019/11-data-sovereignty-revolution/what-is-social.png)
+![what-is-social](../assets/2019/11-data-sovereignty-revolution/what-is-social.png)
 
 了解完社交之后，我们再看最后一个点，Linked Data。大家这么来看 Linked Data 就很好理解。刚才说的 FOAF 是用来描述人的，那么人背后需要的数据，就是通过 Linked Data 来描述的。Linked Data 是语义网技术的一个集合，所谓 RDF、OWL 等一系列变体。
 
-![](../assets/2019/11-data-sovereignty-revolution/what-is-linked-data.png)
+![what-is-linked-data](../assets/2019/11-data-sovereignty-revolution/what-is-linked-data.png)
 
 SoLiD 带来的东西除了刚才讲的核心价值之外，还有有开发范式的变化。在以前，我们开发一个应用需要自己搭数据库，运维服务器，然后做用户系统，再将用户 ID 与数据关联。有了 SoLiD 之后，这些全都不用做了，SoLiD 会变成互联网上缺失的身份层和数据传输存储层。
 
-![](../assets/2019/11-data-sovereignty-revolution/what-is-linked-data.png)
+![what-is-linked-data](../assets/2019/11-data-sovereignty-revolution/what-is-linked-data.png)
 
 首先第一点，就是数据存储方式的变化。大家可以看到右边的这张图，这张图是假设一个人在阅读一篇文章，那么在阅读这篇文章的时候，这篇文章的标题、作者、头像以及内容，不是从一个中心化服务器中读取的，而是从这个作者的 PoD 中读取的。同时，当我喜欢这篇文章，并且点了个赞的时候，这个点赞的记录是存在我自己的 POD 里面的，这就是与传统软件开发最根本的区别。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-bring-three-revolutions.png)
+![solid-bring-three-revolutions](../assets/2019/11-data-sovereignty-revolution/solid-bring-three-revolutions.png)
 
 讲完数据写入之后，我们来看一下数据读取。还是看这张图，左边是 Facebook、Linkedin 这种数据和应用紧耦合的关系，右边是 SoLiD 架构下的结构图，大家可以清晰的看到，不管是图片管理软件，还是社交应用的 feed 流，还是日程管理软件，都是从用户自己的 PoD 中去读取的。
 
-![](../assets/2019/11-data-sovereignty-revolution/user-authorize.png)
+![user-authorize](../assets/2019/11-data-sovereignty-revolution/user-authorize.png)
 
 这就是 SoLiD 带来的，数据读取和写入的这样一个变化。
 
-![](../assets/2019/11-data-sovereignty-revolution/user-determin-data.png)
+![user-determin-data](../assets/2019/11-data-sovereignty-revolution/user-determin-data.png)
 
 那么最后一个范式的变化就是创新者入局的变化。因为 SoLiD 带来的数据确权，使数据可以重复利用，在 A 应用上生产的数据，在 B 应用上也可以使用，应用间可以无缝互联，这让数据不再是创新壁垒，壁垒在于谁能够提供更好的服务以及谁能够取得用户的信任。
 
 任何一家初创公司都可以快速重复利用现有非隐私数据时，我相信市场的创新活力会有更大的激发。
 
-![](../assets/2019/11-data-sovereignty-revolution/data-split-creative.png)
+![data-split-creative](../assets/2019/11-data-sovereignty-revolution/data-split-creative.png)
 
 SoLiD 给我们带来的，不仅是一个开源软件，也不仅仅是一个在此开源软件上进行商业化的公司，而是一个通用的生态，生态里的应用都遵循着同样的范式。同时也是一场革命，这场革命不仅带来了全新的应用开发范式，还将从根本上解决用户数据的所有权问题。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-is-an-revolution.png)
+![solid-is-an-revolution](../assets/2019/11-data-sovereignty-revolution/solid-is-an-revolution.png)
 
 搭建 SoLiD 的服务器非常容易，SoLiD 的服务器主要承担着 SoLiD Pod 的托管作用和一个 HTTP Server 的作用，此 HTTP Server 基于 RESTful 对外提供服务。大家可以把 SoLiD 服务器想象成一个能聚合全球计算能力的 Linux 计算机，这台计算机的计算能力由浏览器承担，数据库能力由整个 Web 承担，聚合查询的时候使用 SPARQL 或 GraphQL 进行查询。如果想要写入文件等非结构化数据，只需要使用符合 RESTful 规范的 POST、PUT、GET 等请求方式进行请求就可以执行创建文件夹、增加文件、删除文件、修改文件等操作。
 
@@ -154,15 +155,15 @@ SoLiD 给我们带来的，不仅是一个开源软件，也不仅仅是一个�
 
 基于 SoLiD 的应用，不是说数据在硬件层面被用户所控制，而是从逻辑角度来看，是由用户控制的。这个意思就是说，SoLiD 服务器不是一定要放到用户自己家里，他可能还在云上，或者其他免费的社区版本。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-server-as-pod-and-guard.png)
+![solid-server-as-pod-and-guard](../assets/2019/11-data-sovereignty-revolution/solid-server-as-pod-and-guard.png)
 
 下面再谈一谈 SoLiD 的设计原则，主要就是五个原则：Open、Transparent、Accountable、Sovereign 和 User Centric。SoLiD 是开源的，其不受任何政府、组织控制；SoLiD 整个研发流程是透明的，每个人都可以 Reivew 所有的 Pull Request 和代码；SoLiD 是负责任的，其平台设计的目的就是让用户拥有自己的数据，平台本身并不拥有；SoLiD 是为了主权所设计的，赋能用户的优先级永远是最高的；SoLiD 也是以用户为中心的，它的整个生态从开始设计时就是以隐私为核心。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-pricinples.png)
+![solid-pricinples](../assets/2019/11-data-sovereignty-revolution/solid-pricinples.png)
 
 聊完了 SoLiD 的一些基础后，我们再从开发者角度看看 SoLiD 整个项目的易用性。使用 SoLiD 开发后，应用从只有一个后端变成拥有多个后端。
 
-![](../assets/2019/11-data-sovereignty-revolution/solid-has-mul-backends.png)
+![solid-has-mul-backends](../assets/2019/11-data-sovereignty-revolution/solid-has-mul-backends.png)
 
 在传统的中心化模型中，App 有一个后端，从一个后端中读取多个数据。但在 SoLiD 这种去中心化的模型中，应用 X 和应用 Y 从不同的 Data Pod 中读写数据，每一个 Pod 中都存着不同人的数据，同时 Pod 与 Pod 之间还可以做很多交互。
 
@@ -170,11 +171,11 @@ SoLiD 给我们带来的，不仅是一个开源软件，也不仅仅是一个�
 
 SoLiD 使用 JSON-LD 来对不同的数据片段进行互联。
 
-![](../assets/2019/11-data-sovereignty-revolution/json-ld.png)
+![json-ld](../assets/2019/11-data-sovereignty-revolution/json-ld.png)
 
 JSON-LD 是一种简化的 RDF 表示语言，以下是 JSON-LD 和 Turtle 的区别：
 
-![](../assets/2019/11-data-sovereignty-revolution/from-turtle-to-jsonld.png)
+![from-turtle-to-jsonld](../assets/2019/11-data-sovereignty-revolution/from-turtle-to-jsonld.png)
 
 可以看到，JSON-LD 比 Turtle 简单易懂的多。
 
@@ -182,7 +183,7 @@ JSON-LD 是一种简化的 RDF 表示语言，以下是 JSON-LD 和 Turtle 的�
 
 聊完开发者体验，我们再来看一看数据民主之路的必然趋势。我们认为互联网是人类社会发展的一个缩影，数据民主是必由之路。我们先看人类社会的一个发展，从一开始的采集社会，人类产生了各个部族群落，此时相对于个人博客和网站的开垦期；再到农业革命，产生了帝国番邦，对应了如今美国的 FLAG、中国的 BATTMD；后来，人类发生了工业革命，这是一场影响深远的革命，不仅改善了人类的生活条件，还产生了一些其他政治上的影响。而如今，互联网的生产力还远远未得到释放，云计算、AI 和区块链都还处于一个很早期的阶段，如果到了某一天，AI 的机器智能大幅提高，能够辅助人类做决策之时，就是互联网数据主权革命将要开始的时候。因为那时，你的数据就是你的思想，就是你的生命，你自然是不想让任何人来控制你身体的某一部分。
 
-![](../assets/2019/11-data-sovereignty-revolution/data-democracy-road.png)
+![data-democracy-road](../assets/2019/11-data-sovereignty-revolution/data-democracy-road.png)
 
 最后，我们聊一聊 SoLiD 可能带来的几个大的商业机会。
 
