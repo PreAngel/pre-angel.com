@@ -14,7 +14,7 @@ image: assets/2019/11-data-sovereignty-revolution/freedom.png
 <!-- more -->
 
 > 本文整理自蒸汽记忆创始人谢扬在 2019 年 11 月 16 日在成都 Web 全栈大会上的演讲，内容有删改。
-> 完整 PPT 可从 Github 上查看：(webfullstack-2019)[https://leinue.github.io/webfullstack-2019/index.html]
+> 完整 PPT 可从 Github 上查看：[webfullstack-2019](https://leinue.github.io/webfullstack-2019/index.html)
 
 ![freedom](../assets/2019/11-data-sovereignty-revolution/freedom.png)
 
@@ -202,7 +202,7 @@ JSON-LD 是一种简化的 RDF 表示语言，以下是 JSON-LD 和 Turtle 的�
 
 我们能想到的一些 Marketing 策略就是首先针对三大运营商的高端人群，同时对隐私十分关注的一群人，卖下一代黑莓手机，这些资源是我们目前能接触到的资源。有了这种下一代黑莓手机，那么无论是像 Maskbook 这种应用还是其他的区块链类隐私应用，才有推向市场的可能性。
 
-![](../assets/2019/11-data-sovereignty-revolution/web-we-have-to-save.jpg)
+![web-we-have-to-save](../assets/2019/11-data-sovereignty-revolution/web-we-have-to-save.jpg)
 
 > 本文整理自蒸汽记忆创始人谢扬在 2019 年 11 月 16 日在成都 Web 全栈大会上的演讲，内容有删改。
-> 完整 PPT 可从 Github 上查看：(webfullstack-2019)[https://leinue.github.io/webfullstack-2019/index.html]
+> 完整 PPT 可从 Github 上查看：[webfullstack-2019](https://leinue.github.io/webfullstack-2019/index.html)
