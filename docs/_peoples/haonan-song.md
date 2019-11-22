@@ -2,7 +2,7 @@
 name: Haonan SONG (宋浩南)
 site: 
 bio: 观耘科技创始人 & CEO
-avatar: /assets/peoples/haonan-song/avatar.png
+avatar: /assets/peoples/haonan-song/avatar.jpg
 email: 
 twitter: 
 ---
