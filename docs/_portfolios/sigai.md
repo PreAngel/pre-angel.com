@@ -2,7 +2,7 @@
 name: SIGAI (张量无限)
 site: https://www.sigai.cn
 bio: 为时代打上AI的印记：让AI所见即所得，广泛落地运用于传统行业
-avatar: /assets/portfolios/sigai/icon.jpg
+avatar: /assets/portfolios/sigai/icon.png
 twitter: 
 people:
   - ming-lei
