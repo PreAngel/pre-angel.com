@@ -1,7 +1,7 @@
 ---
 name: Banling (斑羚在线)
 site: http://www.banling.com
-bio: 零食盒子：大学生里的 O2O Shopify 服务商
+bio: 零食盒子：基于微信平台的大学校园版云集
 avatar: /assets/portfolios/banling/icon.png
 twitter: 
 people:
