@@ -17,7 +17,7 @@ Venture Sprint创新冲刺（以下简称“创新冲刺”）是一套来源于
 ![卓桓](/assets/2019/03-vsprint-innovation-path/2-huanli.jpg)  
 Google Sprint Master   李卓桓导师
 
-![瑞军](/assets/2019/03-vsprint-innovation-path/3-thomas yao.jpg)   
+![瑞军](/assets/2019/03-vsprint-innovation-path/3-thomasyao.jpg)   
 Venture Sprint创始人&创新教练   姚瑞军
 
 立足本土创业环境  因才施教Sprint创新模式
@@ -31,7 +31,7 @@ Venture Sprint创始人&创新教练   姚瑞军
 清创孵化器分为清创空间和创业咖啡两部分，为创业者提供休闲会谈、商务谈判及交流空间。清创孵化器自创建以来，接收了大批从种子期到新三板上市期间各阶段的优秀企业入驻，并为其提供免费的孵化服务、融资服务以及丰富的导师资源，辅导入孵企业快速成长。
 此次参加Venture Sprint硅谷创新冲刺的两家公司——骑享科技、北京锋巢信息技术有限公司，分别带着各自的不同创新冲刺目标参与了集训课程。近20位创业人士齐聚清创空间，Venture Sprint利用5天时间，分五个阶段的内容，有针对性的帮助创业团队集中解决重大挑战，验证意欲衍生的产品和战略模式，完美的控制风险和投入，从而让投资回报最大化。
 
-![lightningtalks](/assets/2019/03-vsprint-innovation-path/5-lightning talks.jpg)  
+![lightningtalks](/assets/2019/03-vsprint-innovation-path/5-lightningtalks.jpg)  
 
 运筹帷幄是创新冲刺的核心要旨
 近两年，中国企业与国际巨头几乎站在了同一起跑线上，作为一家专业致力于为初创团队、成长期创业公司和成熟公司中的创新业务提供基于Google Design Sprint创新教练服务的机构，未来，Venture Sprint会带领参加活动的团队，通过五天时间来完成问题的分析、定义、解决方案、产品原型和用户测试等闭环流程，通过最终用户的真实反馈，达到对项目进行快速评估的目标，进而对战略方向进行及时反馈和调整，避免把有限而宝贵的创业时间浪费在错误的方向上，从而缩短中国企业与国际巨头之间在产品创新方面的差距。因此，从这一角度而言，硅谷创新冲刺工作坊更加注重的是教会创业团队如何对于创新产品正确立项分析与战略的运筹帷幄。
