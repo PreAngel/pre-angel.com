@@ -6,7 +6,7 @@ tags:
   - sprint
   - venture
   - innovation
-image: assets/2019/03-vsprint-innovation-path/0- Logo.jpg
+image: assets/2019/03-vsprint-innovation-path/0-logo.jpg
 ---
 9月22日，第十期Venture Sprint创新设计冲刺集训工作坊完美落幕，来自毛豆网、至真互联、社区众创的决策者、技术专家、产品经理、设计师等20余位学员齐聚中关村东升科技园伽信孵化器，进行了为期4天的冲刺训练。
 
