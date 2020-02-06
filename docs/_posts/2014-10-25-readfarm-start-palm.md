@@ -1,5 +1,5 @@
 ---
-title: “黄金作物”——开启遥感大数据全新应用场景
+title: “黄金作物”——开启低空遥感大数据全新应用场景
 author: readfarm
 categories: news
 tags:
