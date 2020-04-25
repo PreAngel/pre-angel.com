@@ -1,6 +1,6 @@
 ---
 title: AI与人，“替代”还是 “共生”
-author: lijiarui
+author: jiarui-li
 categories: news
 tags:
   - chatbot
