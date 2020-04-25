@@ -6,7 +6,6 @@ tags:
   - steamory
   - story
   - featured
-  - sticky
 image: assets/2018/09-the-story-of-authing/0.jpg
 ---
 

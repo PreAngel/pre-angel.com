@@ -96,4 +96,4 @@ image: assets/2020/04-lijiarui-chatbot-0-1/teaser.jpg
 
 ![pic-2](/assets/2020/04-lijiarui-chatbot-0-1/chatbot-0-1.jpg)
 
-欢迎有兴趣的人点击购买：[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)
+[《Chatbot从0到1：对话式交互设计实践指南》购买链接](https://item.jd.com/12630213.html)

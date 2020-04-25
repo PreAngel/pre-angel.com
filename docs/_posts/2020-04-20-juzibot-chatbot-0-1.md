@@ -6,9 +6,9 @@ tags:
   - chatbot
   - juzibot
   - luqi
-image: assets/2020/04-juzibot-chatbot-0-1/teaser.jpg
+  - sticky
+image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 ---
-![pic-1](/assets/2020/04-juzibot-chatbot-0-1/luqi.png)
 
 > 由奇绩创坛创始人、前百度总裁、前微软全球执行副总裁陆奇博士作序，句子互动创始人李佳芮、聊天对话领域资深投资人李卓桓、资深互联网从业者李云军合著的的[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)付梓出版。
 
