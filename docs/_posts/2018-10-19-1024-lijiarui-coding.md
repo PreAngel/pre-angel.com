@@ -5,7 +5,6 @@ categories: news
 tags:
   - chatbot
   - juzibot
-  - sticky
   - featured
 image: assets/2018/10-1024-lijiarui-coding/1024-coder-startup.jpg
 ---
