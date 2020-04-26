@@ -10,7 +10,7 @@ tags:
 image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 ---
 
-> 由奇绩创坛创始人、前百度总裁、前微软全球执行副总裁陆奇博士作序，句子互动创始人李佳芮、聊天对话领域资深投资人李卓桓、资深互联网从业者李云军合著的的[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)付梓出版。
+> 由奇绩创坛创始人、前百度总裁、前微软全球执行副总裁陆奇博士作序，句子互动创始人[李佳芮](https://pre-angel.com/peoples/jiarui-li/)、聊天对话领域资深投资人[李卓桓](https://pre-angel.com/peoples/zhuohuan-li/)、资深互联网从业者李云军合著的的[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)付梓出版。
 
 在序言中，陆奇博士以资深对话式交互专家和投资人的视角，以面向未来的视野，展望了聊天机器人（Chatbot）行业和技术的发展。
 
@@ -62,4 +62,19 @@ image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 
 ## 5. Chatbot 从 0 到 1 介绍
 
+### 5.1 本书摘要：
+
+[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)内容共5部分:
+
+- 第1部分从人工智能的发展带动对话式交互引出Chatbot的应用场景及其分类；
+- 第2部分和第3部分从需求分析、流程设计、数据处理、对话脚本撰写、系统搭建、对话任务测评、平台渠道集成、运营反馈等方面，对Chatbot的整个生命周期进行了详细分析和介绍；
+- 第4部分通过案例分析，对Chatbot进行了实践；
+- 第5部分总结了目前对话式交互的局限性，并展望了基于人工智能发展Chatbot的机会。
+
+### 5.2 目标读者：
+
+[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)适合希望从事Chatbot行业的读者阅读，尤其是正在考虑将业务切入 Chatbot领域的决策者，即将或正在从事Chatbot专业工作的产品经理和项目经理，以及希望了解Chatbot领域工作流程的开发人员。
+
 ![pic-3](/assets/2020/04-juzibot-chatbot-0-1/chatbot-0-1.jpg)
+
+[《Chatbot从0到1：对话式交互设计实践指南》购买链接](https://item.jd.com/12630213.html)
