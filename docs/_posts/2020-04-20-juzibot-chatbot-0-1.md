@@ -64,7 +64,7 @@ image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 
 ### 5.1 本书摘要：
 
-《Chatbot从0到1：对话式交互设计实践指南》内容共5部分:
+[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)内容共5部分:
 
 - 第1部分从人工智能的发展带动对话式交互引出Chatbot的应用场景及其分类；
 - 第2部分和第3部分从需求分析、流程设计、数据处理、对话脚本撰写、系统搭建、对话任务测评、平台渠道集成、运营反馈等方面，对Chatbot的整个生命周期进行了详细分析和介绍；
@@ -73,7 +73,7 @@ image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 
 ### 5.2 目标读者：
 
-[《Chatbot从0到1：对话式交互设计实践指南》]((https://item.jd.com/12630213.html))适合希望从事Chatbot行业的读者阅读，尤其是正在考虑将业务切入 Chatbot领域的决策者，即将或正在从事Chatbot专业工作的产品经理和项目经理，以及希望了解Chatbot领域工作流程的开发人员。
+[《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html)适合希望从事Chatbot行业的读者阅读，尤其是正在考虑将业务切入 Chatbot领域的决策者，即将或正在从事Chatbot专业工作的产品经理和项目经理，以及希望了解Chatbot领域工作流程的开发人员。
 
 ![pic-3](/assets/2020/04-juzibot-chatbot-0-1/chatbot-0-1.jpg)
 
