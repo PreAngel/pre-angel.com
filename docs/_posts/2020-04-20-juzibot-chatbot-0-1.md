@@ -76,3 +76,5 @@ image: assets/2020/04-juzibot-chatbot-0-1/luqi.jpg
 [《Chatbot从0到1：对话式交互设计实践指南》]((https://item.jd.com/12630213.html))适合希望从事Chatbot行业的读者阅读，尤其是正在考虑将业务切入 Chatbot领域的决策者，即将或正在从事Chatbot专业工作的产品经理和项目经理，以及希望了解Chatbot领域工作流程的开发人员。
 
 ![pic-3](/assets/2020/04-juzibot-chatbot-0-1/chatbot-0-1.jpg)
+
+[《Chatbot从0到1：对话式交互设计实践指南》购买链接](https://item.jd.com/12630213.html)
