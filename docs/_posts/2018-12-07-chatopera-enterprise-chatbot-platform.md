@@ -25,7 +25,7 @@ image: assets/2018/12-chatopera-chatbot-platform/phone.jpg
 
 不过，如果把企业聊天机器人市场看成红海，王海良是不同意的，他觉得从现在的时机来说，无论是技术成熟度还是市场的成熟度都是快速发展阶段，这其中有大量机会。
 
-## ChatOpera 成立
+## Chatopera 成立
 
 2018 年 6 月，Chatopera 成立了。Chatopera 是企业聊天机器人应用解决方案的提供商，专注于企业级聊天应用，集设计、开发、部署和运维一体。
 

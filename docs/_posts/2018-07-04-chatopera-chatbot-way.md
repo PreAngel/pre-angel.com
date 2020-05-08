@@ -130,4 +130,3 @@ Chatopera产品线
 ![Chatopera创始团队](/assets/2018/07-chatopera-values-vision/founding-team.jpg)
 Chatopera创始团队。右起：王海良，向宇，张凯，
 
-> 源自：[Chatopera Blog](https://blog.chatopera.com/vision-and-value/)
