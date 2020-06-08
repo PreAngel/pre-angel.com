@@ -6,7 +6,7 @@ tags:
   - juzibot
   - talk
   - wechat-work
-image: /assets/2020/06-lijiarui-siyuliuliang/teaser.jpg
+image: assets/2020/06-lijiarui-siyuliuliang/teaser.png
 ---
 > 上周的云分享我们有幸邀请到句子互动的创始人李佳芮做客，跟我们聊了聊在微信生态圈如何有效得构建私域流量，以及作为tech公司创始人的创业心得。
 
@@ -50,6 +50,8 @@ image: /assets/2020/06-lijiarui-siyuliuliang/teaser.jpg
 
 交流中，李佳芮还谈到私域流量运营的个中环节如何环环相扣；企业应该关注哪些关键数据从而评估私域流量的运营；以及在创业管理层面创业者应该如何注重现金流。
 
-详细视频稍后放出。
+视频需要加入职图充电付费才能观看，我和职图申请了句子互动的特别通道，需要的小伙伴添加下面的小伙伴微信，回复【句子互动】，获取免费的课程。
+
+![get-vedio](/assets/2020/06-lijiarui-siyuliuliang/get-vedio.jpg)
 
 文章转载自 [职图充电-个人微信频繁封号，品牌要如何稳定搭建私域流量？](https://mp.weixin.qq.com/s/EDKx0R43tGUMv4IKf488Fw)
