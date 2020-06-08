@@ -6,7 +6,7 @@ tags:
   - juzibot
   - talk
   - wechat-work
-image: /assets/2020/06-lijiarui-siyuliuliang/teaser.jpg
+image: assets/2020/06-lijiarui-siyuliuliang/teaser.png
 ---
 > 上周的云分享我们有幸邀请到句子互动的创始人李佳芮做客，跟我们聊了聊在微信生态圈如何有效得构建私域流量，以及作为tech公司创始人的创业心得。
 
