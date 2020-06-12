@@ -5,7 +5,6 @@ categories: news
 tags:
   - chatopera
   - culture
-  - sticky
 image: assets/2019/04-chatopera-ceo-letter/cover.jpg
 excerpt: 理解Chatopera的企业文化：诚信、创新和负责。
 ---
