@@ -6,7 +6,7 @@ tags:
   - juzibot
   - talk
   - interview
-image: assets/2020/06-lijiarui-interview/teaser.jpg
+image: assets/2020/06-interview/teaser.jpg
 ---
 > 作为一个90后连续创业者，李佳芮始终坚持去做一件长期有价值的事情，并且相信，只要长期有价值就要果断去做，然后慢慢在后面等着收果。
 
