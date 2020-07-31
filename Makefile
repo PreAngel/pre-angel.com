@@ -8,6 +8,10 @@ all: serve
 install:
 	(cd docs && bundle install && bundle update)
 
+.PHONY: build
+build:
+	(cd docs && bundle build)
+
 .PHONY: test
 test:
 	npm run test
