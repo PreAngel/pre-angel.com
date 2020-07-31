@@ -10,7 +10,7 @@ install:
 
 .PHONY: build
 build:
-	(cd docs && bundle build)
+	(cd docs && bundle exec jekyll build)
 
 .PHONY: test
 test:
