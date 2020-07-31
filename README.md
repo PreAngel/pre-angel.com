@@ -1,5 +1,6 @@
 # PreAngel Portfolio Directory
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/304021fd-62e4-4ffb-beb8-48d0a6138f64/deploy-status)](https://app.netlify.com/sites/pre-angel/deploys)
 [![Build Status](https://travis-ci.com/PreAngel/pre-angel.com.svg?branch=master)](https://travis-ci.com/PreAngel/pre-angel.com)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 
