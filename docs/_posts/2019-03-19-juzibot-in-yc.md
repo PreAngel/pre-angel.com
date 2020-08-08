@@ -5,6 +5,7 @@ categories: news
 tags:
   - yc
   - interview
+  - juzibot
 image: assets/2019/03-juzibot-in-yc/banner.jpg
 ---
 
