@@ -4,7 +4,7 @@ author: jiarui-li
 categories: news
 tags:
   - Intercom
-image: assets/2019/03-juzibot-why-is-juzimiaohui/banner.png
+image: assets/2019/03-juzibot-why-is-jukebao/banner.png
 ---
 
 我希望能像 [Intercom](https://www.intercom.com/) 那样，帮助企业高效管理用户，快速获客并提高转化。
@@ -98,7 +98,11 @@ image: assets/2019/03-juzibot-why-is-juzimiaohui/banner.png
 
 在我看来，**随着企业微信生态的逐渐开放，私域流量的下一个黄金十年，在企业微信。**
 
-![WechatWork](/assets/2019/03-juzibot-why-is-juzimiaohui/wechat-work.jpg)
+![WechatWork](/assets/2019/03-juzibot-why-is-jukebao/wechat-work.jpg)
+
+因此有今天的句客宝：
+
+![Jukebao](/assets/2019/03-juzibot-why-is-jukebao/jukebao.png)
 
 ### 对未来智能客服中机器的展望
 
