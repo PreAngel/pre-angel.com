@@ -1,9 +1,9 @@
 ---
 name: Xi CHEN (陈曦)
-site: https://aeroxi.xyz
+site: http://aeroxi.xyz
 bio: Mist GPU 创始人 & CEO
 avatar: /assets/peoples/xi-chen/avatar.jpg
-email: admin@mistgpu.com
+email: chenxi@mistgpu.com
 twitter: https://github.com/AeroXi
 ---
 
