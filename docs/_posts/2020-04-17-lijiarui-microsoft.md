@@ -16,7 +16,7 @@ image: assets/2020/04-lijiarui-microsoft/teaser.png
 2. 一款智能对话机器人从0到1的搭建历程
 3. 全球人工智能技术的实践落地情况
 
-![intro](/assets/2018/08-luqi-yc-china/intro.jpg)
+![intro](/assets/2018/04-lijiarui-microsoft/intro.jpg)
 
 ## 内容
 
@@ -114,6 +114,6 @@ Chatbot 的智能程度取决于它能够给理解的意图和实体的数量和
 
 下面是在后台和微软中国 CTO 韦青老师的合影，为我的新书 [《Chatbot从0到1：对话式交互设计实践指南》](https://item.jd.com/12630213.html) 打call~
 
-![weiqing](/assets/2018/08-luqi-yc-china/weiqing.jpg)
+![weiqing](/assets/2018/04-lijiarui-microsoft/weiqing.jpg)
 
 > 原文链接： <https://wechaty.github.io/microsoft-tech-forum-rui-interview/>
