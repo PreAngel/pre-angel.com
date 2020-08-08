@@ -187,7 +187,7 @@ image: assets/2019/03-juzibot-in-yc/banner.jpg
 
 还记得2016年的时候，因为有126个项目入选，YC的CEO Sam Altman还开玩笑说，这是“太多倍的增长了”。一共有超过200个项目亮相，比去年的132个项目相比，涨幅超过了50%。不知道这一届的YC毕业生中，是不是可以飞出下一只独角兽呢？
 
-![chuangmei](/assets/2019/03-juzibot-in-yc/chuangmei.jpg)
+![chuangmei](/assets/2019/03-juzibot-in-yc/chuangmei.png)
 
 > 原文链接： <https://mp.weixin.qq.com/s/4It5dD0b2mokOJzLNZ8Iag>
 > 桔子互动为句子互动曾用名
