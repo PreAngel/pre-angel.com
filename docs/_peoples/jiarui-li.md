@@ -1,6 +1,6 @@
 ---
 name: Jiarui LI (李佳芮)
-site: https://lijiarui.github.io
+site: https://rui.juzi.bot
 bio: 句子互动创始人 & CEO，微软人工智能最具价值专家 (AI MVP)
 avatar: /assets/peoples/jiarui-li/avatar.png
 email: rui@juzi.bot
@@ -26,4 +26,4 @@ GitHub 6,000+ Stars 开源项目 Wechaty 联合作者，创建并管理覆盖全
 - Github: <https://github.com/lijiarui>
 - 微信: ruirui_0914
 - 邮箱：rui@juzi.bot
-- 个人博客: <http://lijiarui.github.io>
+- 个人博客: <http://rui.juzi.bot>
