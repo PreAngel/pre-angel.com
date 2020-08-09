@@ -26,4 +26,4 @@ GitHub 6,000+ Stars 开源项目 Wechaty 联合作者，创建并管理覆盖全
 - Github: <https://github.com/lijiarui>
 - 微信: ruirui_0914
 - 邮箱：rui@juzi.bot
-- 个人博客: <http://rui.juzi.bot>
+- 个人博客: <https://rui.juzi.bot>
