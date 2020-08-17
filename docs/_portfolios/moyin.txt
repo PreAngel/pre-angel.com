@@ -3,7 +3,7 @@ name: Moyin (魔音助手)
 site: https://moyin-inc.com
 bio: 智能会议记录、课程笔记工具
 avatar: /assets/portfolios/moyin/icon.png
-twitter: 
+twitter:
 people:
   - kai-yang
   - yaxin-liu
@@ -17,6 +17,8 @@ tags:
 <!-- Demo: <http://test.magic.rnhapp.com/#/?id=103974758726635520> -->
 
 Will publish on Sep.
+
+---
 
 Stay tuned!
 
