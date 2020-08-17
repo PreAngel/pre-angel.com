@@ -12,4 +12,3 @@ twitter: http://weibo.com/u/5747791065
 在创立魔音助手之前，杨凯还曾创立和运营过社交软件濡沫和火聚两个产品。
 
 Kai Yang, serial entrepreneur, former executive director of Huixiaoer, the largest conference space booking platform in China. He led company’s digital marketing strategy and product development of the business intelligence system. Formerly worked as an analyst at a US-based hedge fund called DCIM, responsible for automatic equity long/short trading strategy research. Kai holds a Bachelor’s degree in math from University of Toronto, and a Master’s degree in statistics from Harvard University.
-
