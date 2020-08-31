@@ -4,7 +4,7 @@ author: sigai
 categories: news
 tags:
   - sticky
-image: assets/2020/07-sigai-fund-raising/simple-ai.jpg
+image: /assets/2020/07-sigai-fund-raising/simple-ai.jpg
 ---
 
 国内AI应用层算法框架研发商「SIGAI」已于近日完成千万元级别Pre-A轮融资，本轮融资由创势资本领投，产业投资人跟投，由创投异类担任投资顾问。
