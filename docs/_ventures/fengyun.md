@@ -1,5 +1,5 @@
 ---
-name: 风云资本
+name: FengYun (风云资本)
 site: http://www.fengyun.vc/
 bio: 梦想照进现实的桥梁：超越现实，与梦想同行，发现最有激情的创业者
 avatar: /assets/ventures/fengyun/icon.png
