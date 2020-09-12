@@ -90,7 +90,7 @@ description: PreAngel Latest News.
                   {% if third_post.image %}
                   <div class="col-md-4">
                   <a href="{{site.baseurl}}{{third_post.url}}">
-                   <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                   <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{ third_post.image | absolute_url }}{% endif %}" alt="{{ third_post.title }}">
                   </a>
                   </div>
                   {% endif %}
@@ -117,7 +117,7 @@ description: PreAngel Latest News.
                   {% if fourth_post.image %}
                   <div class="col-md-4">
                   <a href="{{site.baseurl}}{{fourth_post.url}}">
-                  <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                  <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{ fourth_post.image | absolute_url }}{% endif %}" alt="{{ fourth_post.title }}">
                   </a>
                   </div>
                   {% endif %}
