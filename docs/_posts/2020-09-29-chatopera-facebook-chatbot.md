@@ -16,7 +16,7 @@ excerpt: 看九九互动如何解决游戏业务中客户服务痛点，享受 F
 
 过去三年间，中国出海移动游戏持续增长，2020年上半年，游戏使用时长和用户支出增长率高于其它地区发行商。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/26171172_1541843725853025_4788258918535628531_o.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/26171172-1541843725853025-4788258918535628531-o.jpg)
 图：2020年中国出海移动游戏增长趋势
 
 从用户支出看，中国出海移动游戏发行商在海外市场份额持续上升与美日韩共同形成第一梯队。
@@ -25,7 +25,7 @@ excerpt: 看九九互动如何解决游戏业务中客户服务痛点，享受 F
 
 用户在不同阶段，收到的“通知”如下：
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21_19-38-36.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21-19-38-36.jpg)
 图：常见的用户生命周期
 
 比如，让玩家关注到游戏，然后通知游戏各种新玩法、更新，请用户参与互动、告知用户服务上线，这个通道要非常简捷有趣，而且容易分享，形成社交效应，让玩家成为推广的一个媒介，尤其是 KOL 玩家，带动整体活跃度。
@@ -38,15 +38,15 @@ excerpt: 看九九互动如何解决游戏业务中客户服务痛点，享受 F
 
 首先，Facebook 作为全球最大最活跃社交网络，2019年Facebook全家桶服务数据表明其月活跃用户30亿，日活跃用户23亿。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21_16-8-22.jpg)
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21_16-13-35.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21-16-8-22.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21-16-13-35.jpg)
 图：2017年 世界范围内即时通信工具分布情况
 
 其次，Facebook 在努力推动企业服务，在 Facebook 全家桶服务包括 Facebook，Messenger，WhatsApp，Instagram 上为消费者和商家建立更好的沟通桥梁：从日常互动到非凡的用户体验。Facebook 作为平台，营造良好的商务服务环境：市场监督、规范营销和保护隐私等。Facebook 也应用其领先的人工智能、AR等技术，更多的帮助商家提升用户体验。在这其中，Messenger 中的即时通信功能就是玩家和游戏厂商之间互相发送即时消息的重要形式：一种基于对话的沟通形式。
 
 联想我们之前分析的游戏运营中的痛点，Facebook Messenger 可谓是“无死角”覆盖。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21_16-27-12.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-21-16-27-12.jpg)
 图：Facebook Messenger 支持不同用户生命周期
 
 九九互动日前在一款游戏的 Facebook 粉丝页，接入了 Messenger 聊天控件，在 Messager App 或 Facebook 网站内都可以一键开始对话，结合粉丝页和 Facebook 群组功能，玩家从入门到关系维护，都变得简单和直接。随着游戏出品发行，Facebook 粉丝页关注人数逐渐增多，一个语言的一个地区的粉丝在短时间内就增长到数十万，这个时候，玩家会遇到各种问题，以往这种情况下，运营成本线性增长，运营人员工作压力大。九九互动深知能否解决这个问题，才是长期维护玩家关系的关键，而解决这个问题依靠的就是持续跟进Facebook新产品，享受技术红利。
@@ -57,12 +57,12 @@ Facebook Messenger 是一个即时通信工具，也是一个以聊天机器人�
 
 Chatopera 是 Facebook 建立的中国大陆首个加速营的入选企业，专注帮助企业上线聊天机器人，尤其是智能客服，这次九九互动选择 Chatopera 帮助其定制 Facebook 智能客服机器人，在上线开始前，面临着不熟悉：一、Facebook Messenger 开发者 API；二、历史数据积累少，不好建立知识库，这两个问题。前者，通过 Facebook 文档中心和大中华区开发者生态部门的指导，Chatopera 注册了 Facebook 供应商管理账号，才有权限为在 Facebook 生态系统上的企业提供服务，国内企业比较熟悉微信公众号的后台：微信公众平台和微信开放平台。这个关系可以类比，但是二者的区别非常大，此处知识小编将专门撰文介绍。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_20-56-53.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-20-56-53.jpg)
 图：Facebook 服务商体系
 
 开通商务服务账号以后，熟悉 Facebook 开发者 API 相对较为容易，而 Facebook API 的设定，尤其是 Facebook Messenger API 对使用 Chatopera 机器人服务来说非常友好，Facebook 上对开发者的支持的小细节做的特别多，在学习使用阶段是非常愉悦的。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_21-3-48.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-21-3-48.jpg)
 图： Messenger 支持丰富的消息展现形式
 
 Messenger 的开发者 API 覆盖了粉丝页聊天控件、粉丝页推文评价、OTN 通知，增强了企业与消费者互动的空间，丰富的消息形式提高了表达能力，消息推送的限制提升了发送内容的质量。在此不进行赘述，可参考 Facebook 官方文档中心。
@@ -77,11 +77,11 @@ Messenger 的开发者 API 覆盖了粉丝页聊天控件、粉丝页推文评�
 
 系统集成，就是上文说到等问题一，已经解决了。设定机器人对话内容，相对整理好文本，利用 Chatopera 机器人控制台，创建问答对和设定机器人画像就可以了，此步骤是自助式的非常简单。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_21-33-7.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-21-33-7.jpg)
 
 上线前使用对话测试工具，完成测试。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_21-34-28.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-21-34-28.jpg)
 
 那么 OTN 是什么呢？举一个易懂的例子，比如一个超市做一个活动，通过 Facebook  给粉丝发消息：下周一店内新到一批水果，水果到店后给大家发通知，先打开通知的得到100元代金券，希望得到通知的粉丝点击关注。这个消息就有一个关注按钮，粉丝如果点击，那么未来超市推送水果到达的消息，粉丝就可以先知道了，抢代金券。这个流程就是需要使用 OTN。那么 Facebook 为什么要这么做呢？很大程度是克制。克制给粉丝滥发消息的冲动，营造更好的社交氛围，规范企业端和消费者端的体验。
 
@@ -93,10 +93,10 @@ Messenger 的开发者 API 覆盖了粉丝页聊天控件、粉丝页推文评�
 
 上线是另外一个开始，真正的开始，服务开始按照周进行迭代，九九互动和 Chatopera 团队都关注玩家使用机器人客服的情况，分别是**机器人对话请求总量，独立玩家访问数，机器人回答命中率和用户反馈有无帮助的比例**。对机器人客服与玩家的对话按照时间段进行聚类分析，将回答不好的、错误回复、沉寂回复补充到机器人知识库，优化机器人话术，对机器人回复的文本使用更 Native 的方式表达等。这个过程，就是不断升级聊天机器人的智能化，如果停止迭代就是退步，现在粉丝页已经有数十万关注者，每天会推文多次，产生大量玩家咨询。
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_22-22-7.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-22-22-7.jpg)
 图：上线后四周 机器人回答命中率情况
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_21-57-52.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-21-57-52.jpg)
 图：上线一个月使用量节节攀升
 
 如上图可见，自上线开始，请求数量和独立访客在增长的过程中，加速度也在增长，标志着玩家对该服务的欢迎，在 Faceboook Messegner 中，每次咨询，反馈机器人有帮助或没有帮助的选项不是必须提交的，提交总人数大约占独立用户数的三分之一，这些玩家在分享时间段内，表示有帮助的占六成，如果考虑到开始机器人智能化程度不高，那么之后这个数据是更好的。
@@ -107,7 +107,7 @@ Messenger 的开发者 API 覆盖了粉丝页聊天控件、粉丝页推文评�
 
 智能客服的上线，帮助九九互动走出去的步伐迈的更大，现在九九互动很忙，为游戏进入更多国家而努力，Chatopera 非常荣幸为九九互动服务，也得到了九九互动运营主管 Renee 的肯定评价:积极的沟通，开发速度很快，服务支持到位。有这样的成绩一方面是 Chatopera 对聊天机器人的专注，另外一方面也是 Facebook 大力投入在人工智能、开发者生态建设和构建积极健康的社交平台的努力。Chatopera 将持续不断的优化聊天机器人平台，更好的为九九互动服务。对了，还有 OTN，上线后使用效果显著，Facebook 粉丝页关注用户的增长速度是以往的好几倍，我们下回再介绍。最后，大力推荐关注 Facebook 开发者服务公众号，一起出海！
 
-![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23_22-17-30.jpg)
+![pic](/assets/2020/09-chatopera-facebook-chatbot/image2020-9-23-22-17-30.jpg)
 
 相关链接：
 
