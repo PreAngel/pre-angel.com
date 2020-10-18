@@ -17,7 +17,7 @@ excerpt: 现在企业大量使用客服机器人、外呼机器人和内部智�
 
 我查找了最近一些调研的结果，比如[《促进疫后增长必不可少的 8 个直接面对消费者 DTC 策略》](https://runwise.co/dtc/47061.html)也将企业应用聊天机器人作为重点投资方向，但是其给出数据如下：
 
-![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12_14-47-18.jpg)
+![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12-14-47-18.jpg)
 
 以下简称 A1 - A4：
 
@@ -32,7 +32,7 @@ excerpt: 现在企业大量使用客服机器人、外呼机器人和内部智�
 
 Chatopera 在为客户实现聊天机器人的案例表明，聊天机器人不但是将以前服务好的客户保持住，而且是**服务以前触及不到的客户**，比如在游戏行业，游戏发行后玩家关注高达 100 多万，人工坐席排队时间长，很多时候都是在高峰时间段咨询，用户体验不好，很多玩家就放弃咨询了，直接导致玩家粘性不足，所以客服机器人是降本和增效的，要分成两方面分析。
 
-![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12_14-49-1.jpg)
+![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12-14-49-1.jpg)
 
 Chatopera 认为，聊天机器人的投资回报率至少是过去人工坐席的 10 倍，是支持裂变的十倍速增长必需的基础，不能单纯从节省开支角度分析；**在节省开支角度，客服机器人的单次投入成本和维护成本等同于企业培训人工坐席的成本，并且更新方便，节省客服成本可以达到 70% ～ 60%，远高于 30%。**
 
@@ -86,7 +86,7 @@ AI训练师
 
 那么，Chatopera 为什么做聊天机器人平台？为了规模化！
 
-![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12_14-52-44.jpg)
+![pic](/assets/2020/10-chatopera-chatbot-customer-service/image2020-10-12-14-52-44.jpg)
 
 在互联网时代，不能脱离规模化谈商业模式，因为互联网时代是长尾的，一个行业里容得下几家头部公司，其他小公司都是勉强维持，这时候，聊天机器人就是杀手锏：规模化！Fast to Repeat, Easy to Scale.
 
