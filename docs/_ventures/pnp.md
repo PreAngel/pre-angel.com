@@ -25,3 +25,27 @@ Plug and Play 前身始于1998年，投资和孵化了谷歌等互联网巨头�
 ![PNP 中国总部大堂](/assets/ventures/pnp/hall.jpg)
 
 作为全球无与伦比的创新生态平台，Plug and Play 中国致力于连接大企业与优质的创新项目，让硅谷的资源惠及全世界各个角落，让创新无处不在。
+
+<div style="
+    position: relative;
+    padding-bottom: {{ ratio }};
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='https://docs.google.com/presentation/d/e/2PACX-1vTevQBJ9-vscpuHYH7aQtANi9JG00DkOlm-D1CDYv3GuaP-1qLcrmWwOPtR6volcuZmkox3Z5DuCum0/embed?start=false&loop=true&delayms=3000'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  >
+  </iframe>
+
+</div>
