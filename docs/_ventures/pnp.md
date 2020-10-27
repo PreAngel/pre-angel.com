@@ -28,7 +28,7 @@ Plug and Play 前身始于1998年，投资和孵化了谷歌等互联网巨头�
 
 <div style="
     position: relative;
-    padding-bottom: {{ ratio }};
+    padding-bottom: 56.25%;
     padding-top:30px;
     height:0;
     overflow:hidden;
