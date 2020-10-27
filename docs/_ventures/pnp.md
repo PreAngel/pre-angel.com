@@ -36,7 +36,7 @@ Plug and Play 前身始于1998年，投资和孵化了谷歌等互联网巨头�
   <iframe
     src='https://docs.google.com/presentation/d/e/2PACX-1vTevQBJ9-vscpuHYH7aQtANi9JG00DkOlm-D1CDYv3GuaP-1qLcrmWwOPtR6volcuZmkox3Z5DuCum0/embed?start=false&loop=true&delayms=3000'
     width="960"
-    height="569" 
+    height="569"
     allowfullscreen
     webkitallowfullscreen
     frameborder="0"
