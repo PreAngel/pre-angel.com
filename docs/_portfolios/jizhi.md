@@ -31,37 +31,38 @@ tags:
 {% include iframe.html src="https://www.youtube.com/watch?v=eIIQSl4MyCg" %}
 
 ### 产品主界面截图
-![开发宝-01](/assets/portfolios/jizhi/kfb_01.png)
-![开发宝-02](/assets/portfolios/jizhi/kfb_02.png)
 
+![开发宝-01](/assets/portfolios/jizhi/kfb-01.png)
+![开发宝-02](/assets/portfolios/jizhi/kfb-02.png)
 
 ## 秒应
 
 秒应是一款免费的群沟通工具。主要用于家校群，工作群中的群接龙，群投票等。目前已服务近千万家长和老师，完成近2亿次的信息统计。
 
-
 ### 产品链接
 
 微信小程序：
-![开发宝-01](/assets/portfolios/jizhi/miaoying_weixin.jpg)
+![开发宝-01](/assets/portfolios/jizhi/miaoying-weixin.jpg)
 QQ小程序：
-![开发宝-01](/assets/portfolios/jizhi/miaoying_qq.jpg)
+![开发宝-01](/assets/portfolios/jizhi/miaoying-qq.jpg)
 
 服务号H5版本：<a href="http://my.hui51.cn/">点此了解更多</a>
 
-
 ## FindMyFace
+
 FindMyFace是一个通过人工智能技术（人脸识别+AI抠图及修图+智能合成及排版），助力摄影机构（ToB）为客户(ToC)提供更加便捷丰富的影像产品制作，分发以及销售的平台。
 
 ### 产品部分截图
+
 用户以脸搜索照片
-![fmf-client](/assets/portfolios/jizhi/fmf_client_match.png)
+![fmf-client](/assets/portfolios/jizhi/fmf-client-match.png)
 
 用户预览及编辑合成个性化相册(系统自动匹配照片生成)
- ![fmf-client](/assets/portfolios/jizhi/fmf_client_book.png)
+ ![fmf-client](/assets/portfolios/jizhi/fmf-client-book.png)
 
 机构端设计模板
- ![fmf-client](/assets/portfolios/jizhi/fmf_org_tpl.png)
+ ![fmf-client](/assets/portfolios/jizhi/fmf-org-tpl.png)
 
 ### 现状
+
 系统已成功为数百家幼儿园提供毕业册制作服务以及为多家儿童场景馆提供照片销售服务
