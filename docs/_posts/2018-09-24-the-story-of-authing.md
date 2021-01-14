@@ -7,6 +7,7 @@ tags:
   - story
   - featured
 image: assets/2018/09-the-story-of-authing/0.jpg
+published: false
 ---
 
 我从 13 岁开始从事计算机编程相关的工作，9 年来，我保持着每年至少一款软件的步调追逐我的梦想。
