@@ -36,6 +36,3 @@ videos:
 ## 企业发展
 
 [更多有关 Chatopera 的创业历程...](https://www.youtube.com/watch?v=qqhiK9GxvXo&list=PLh_KT9y7mpqb7aPXEQYw8-C3eoDCgI1Jh)
-
-
-
