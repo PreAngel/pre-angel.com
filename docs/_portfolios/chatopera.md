@@ -20,7 +20,6 @@ videos:
 
 华夏春松研发团队在业务流程引擎、自然语言处理和云计算等方面有深厚的积累，在成立之初获得PreAngel Fund和Plug and Play(中国)的种子投资，目前已通过国家高新技术企业认定（2020）和中关村高新技术企业认定（2019）。
 
-
 <video
   controls preload="none" autobuffer="false"
   style="width:100%;"
