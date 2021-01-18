@@ -2,7 +2,7 @@
 name: Yu XIANG (向宇)
 site: https://github.com/mukaiu
 avatar: /assets/peoples/yu-xiang/avatar.jpg
-bio: Chatopera 联合创始人 & CTO
+bio: Chatopera 联合创始人 & 技术副总监
 email: yu@chatopera.com
 twitter: 
 ---
