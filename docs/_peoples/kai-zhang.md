@@ -1,7 +1,7 @@
 ---
 name: Kai ZHANG (张凯)
 site: 
-bio: Chatopera 联合创始人 & 总经理，在市场需求、产品销售上有着丰富的积累，做事认真，信守承诺。
+bio: Chatopera 联合创始人 & 总经理，在市场需求、产品销售上有着丰富的积累，做事认真，信守承诺
 avatar: /assets/peoples/kai-zhang/avatar.jpg
 email: kai@chatopera.com
 facebook: https://www.facebook.com/kai.zhang.8
