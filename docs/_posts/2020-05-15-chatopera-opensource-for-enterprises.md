@@ -58,7 +58,16 @@ image: assets/2020/05-chatopera-opensource/1.jpg
 
 我参加的第一个开源项目是 OpenStack，从中我了解到开源项目的重要运作方式、原来开源的技术是这么先进创新，而且是与不同公司的工程师一起合作，更不可思议的是这些公司中间是相互竞争的。开源社区是一个聚集人气的地方，有人的地方才有江湖，才能做出好产品。产品市场足够大，竞争对手也可以成为亲密合作伙伴。2015 年，我着手运营 Node.js 北京社区，举办了二十二次线下分享沙龙，同时也协助其它主办方开展开源活动。从只关注自己的技能的开发者变成了组织者，帮助很多人提升他们的技能，帮助他们认识更多社区朋友，包括像微软开源、开源社等。BJ NodeJS Club 成为了一个学习和交流氛围浓厚的圈子，深入的交流让我更了解不同人的所思所想，给了我更多勇气去直面自己的理想。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mYFK6jSWBsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video
+  controls preload="none" autobuffer="false"
+  style="width:100%;"
+  poster="/assets/2020/05-chatopera-opensource/nodeparty-2015-2017.jpg"
+>
+  <source
+    src="https://gitee.com/chatopera/cskefu/attach_files/621140/download/nodeparty-2015-2017.webm"
+    type="video/webm"
+  >
+</video>
 
 那么开源的意义几何？为何开源会成为大公司争先恐后投资的方向？我的回答是：**开源帮助软件开发者以最低成本、最快方式研发出用户喜爱的产品**。
 
