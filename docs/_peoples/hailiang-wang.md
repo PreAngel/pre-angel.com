@@ -1,6 +1,6 @@
 ---
 name: Hai Liang WANG (王海良)
-site: https://github.com/Samurais
+site: https://github.com/hailiang-wang
 avatar: /assets/peoples/hailiang-wang/avatar.jpg
 bio: Chatopera 联合创始人 & CEO，《智能问答与深度学习》作者，人工智能自然语言对话领域资深专家
 email: hain@chatopera.com
@@ -16,7 +16,7 @@ poster="/assets/peoples/hailiang-wang/video-1-cover.jpg"
 >
 
   <source
-    src="https://github.com/chatopera/docs/releases/download/1.0.0/Chatopera_products_2019.webm"
+    src="https://gitee.com/chatopera/cskefu/attach_files/621137/download/Chatopera_products_2019.webm"
     type="video/webm"
   >
 </video>

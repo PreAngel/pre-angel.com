@@ -15,7 +15,7 @@ style="width:100%;"
 poster="/assets/peoples/kai-zhang/video-1-cover.jpg"
 >
   <source
-    src="https://github.com/chatopera/docs/releases/download/1.0.0/Chatopera_zk_personal_intro_2019.webm"
+    src="https://gitee.com/chatopera/cskefu/attach_files/621145/download/Chatopera_zk_personal_intro_2019.webm"
     type="video/webm"
   >
 </video>
