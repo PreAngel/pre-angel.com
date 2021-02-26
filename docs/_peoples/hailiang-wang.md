@@ -16,7 +16,7 @@ poster="/assets/peoples/hailiang-wang/video-1-cover.jpg"
 >
 
   <source
-    src="https://github.com/chatopera/docs/releases/download/1.0.0/Chatopera_products_2019.webm"
+    src="https://gitee.com/chatopera/cskefu/attach_files/621137/download/Chatopera_products_2019.webm"
     type="video/webm"
   >
 </video>
