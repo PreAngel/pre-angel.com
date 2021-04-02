@@ -6,7 +6,6 @@ avatar: /assets/portfolios/steamory/icon.png
 twitter: https://github.com/Authing
 people:
   - yang-xie
-  - jian-jin
 ventures:
   - preangel
   - pnp
