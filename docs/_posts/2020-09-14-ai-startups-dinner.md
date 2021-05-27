@@ -29,3 +29,5 @@ PreAngel自2011年创办以来，一直作为中国天使投资品牌的佼佼�
 ![social](/assets/2020/09-ai-startups-dinner/social.webp)
 
 此次活动举行非常圆满，PreAngel汇聚的都是中国顶尖的AI初创企业创始人天使投资人，之后还会举行更多活动，力求为更多优秀的创业团队们找钱、找人、找主意，助力中国新一代的创业浪潮。
+
+> Source: [PreAngel创始人晚会圆满举行，@尼古拉斯](https://mp.weixin.qq.com/s/-w4K2KSwZOxk8dOl38ccVQ)
