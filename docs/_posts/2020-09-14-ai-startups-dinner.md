@@ -7,14 +7,14 @@ tags:
   - ai
   - dinner
   - event
-image: /assets/2020/09-ai-starts-dinner/group-photo.webp
+image: /assets/2020/09-ai-startups-dinner/group-photo.webp
 ---
 
 回望过往，2020中国创新创业者们即将走完这不平凡的一年。中国市场经历了数年高速发展之后，从规模化扩张，转变为平稳发展，逐渐走向成熟。
 
 传统的经营开发模式与思维在通往未来的路上被远远抛下，新格局、新浪潮正席卷而来。创业者们站在浪潮前端，开疆拓土鏖战起，只求高歌猛进得胜还，而天使投资人们，就是他们的后盾。
 
-![authing series a](/assets/2020/09-ai-starts-dinner/authing-sign.webp)
+![authing series a](/assets/2020/09-ai-startups-dinner/authing-sign.webp)
 
 > 用市场化的手段解决社会巨大问题的项目
 &mdash; 李卓桓
@@ -27,6 +27,6 @@ PreAngel自2011年创办以来，一直作为中国天使投资品牌的佼佼�
 
 活动准时开始，先由李卓桓先生致辞，介绍PA情况，并且介绍活动主旨。致辞完毕后，由尹立志先生介绍本次香港科大百万AI创业大赛，以及企业服务与业务资源。之后与会创始人之间互相自我介绍，并开始自由交流。活动期间，中孵快创全程为与会创始人提供帮助，如帮助创始人对接潜在合作伙伴或合作渠道，甚至帮助企业寻找适合的、高性价比的办公空间。
 
-![social](/assets/2020/09-ai-starts-dinner/social.webp)
+![social](/assets/2020/09-ai-startups-dinner/social.webp)
 
-此次活动举行非常圆满，PreAngel汇聚的都是中国顶尖的天使投资人，之后还会举行更多活动，力求为更多优秀的创业团队们找钱、找人、找主意，助力中国新一代的创业浪潮。
+此次活动举行非常圆满，PreAngel汇聚的都是中国顶尖的AI初创企业创始人天使投资人，之后还会举行更多活动，力求为更多优秀的创业团队们找钱、找人、找主意，助力中国新一代的创业浪潮。
