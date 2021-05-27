@@ -16,7 +16,7 @@ image: /assets/2020/09-ai-starts-dinner/group-photo.webp
 ![authing series a](/assets/2020/09-ai-starts-dinner/authing-sign.webp)
 
 > 用市场化的手段解决社会巨大问题的项目
-  &mdash; 李卓桓
+&mdash; 李卓桓
 
 ## 在逆境中悄悄生长
 
