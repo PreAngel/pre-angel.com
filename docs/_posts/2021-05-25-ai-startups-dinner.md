@@ -3,10 +3,11 @@ title: PreAngel 创始人 AI 晚餐会圆满举行
 author: huan
 categories: news
 tags:
+  - home
   - ai
   - dinner
   - event
-image: /assets/2021/05-ai-starts-dinner/group-photo.webp
+image: /assets/2021/05-ai-starts-dinner/dinner.webp
 ---
 
 回望过往，2021中国创新创业者们即将走完这不平凡的一年。AI行业经历了数年高速发展之后，从规模化扩张，转变为平稳发展，逐渐走向成熟。
@@ -15,7 +16,7 @@ image: /assets/2021/05-ai-starts-dinner/group-photo.webp
 
 PreAngel自2011年创办以来，一直作为中国天使投资品牌的佼佼者，投资了近300多个科技初创企业。为了加深PreAngel创始人间的了解和认识、同步AI及企业发展情况和同步企业问题与对接需求，由香港科技大学赞助的《PA AI创始人主题晚餐会》于五月25日晚六点三十分，在宴铭园（北京市海淀区中关村东路一号院二号楼紫光大楼一楼）VIP210房间圆满完成。
 
-![dinner](/assets/2020/09-ai-starts-dinner/dinner.webp)
+![dinner](/assets/2021/09-ai-starts-dinner/group-photo.webp)
 
 本次活动正式开始之前，所有与会人员进行自由交流。活动准时开始，先由李卓桓先生致辞，介绍PA情况，并且介绍活动主旨。致辞完毕后，由香港科技大学内地首席代表袁冶女士介绍本次港科大百万AI创业大赛，以及创投服务与香港科技大学EMBA。之后由智源人工智能研究院基金总经理李军介绍了智源人工智能研究院及项目孵化合作方式。接下来大家开始自由交流。
 
