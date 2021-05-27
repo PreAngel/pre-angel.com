@@ -3,6 +3,7 @@ title: PreAngel创始人晚餐会圆满举行
 author: kuaichuang
 categories: news
 tags:
+  - home
   - ai
   - dinner
   - event
