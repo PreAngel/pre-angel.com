@@ -46,3 +46,7 @@ PreAngel自2011年创办以来，一直作为中国天使投资品牌的佼佼�
 1. [程棣](https://pre-angel.com/peoples/di-cheng/), [斑羚在线](https://pre-angel.com/portfolios/banling/)联合创始人&CEO
 
 此次活动举行非常圆满，PreAngel汇聚的都是中国优秀的人工智能初创企业创始人，之后还会举行更多活动，力求为更多优秀的AI创业团队们找钱、找人、找主意，助力中国新一代的创业浪潮。
+
+## PreAngel 投资理念
+
+As an AI Professional & ML Expert, Huan is focusing on helping Artifical Intelligence Startups to use the State-Of-The-Art Machine Learning Algorithms to solve the Real-world Problem.
