@@ -1,6 +1,6 @@
 ---
 title: PreAngel 创始人 AI 晚餐会圆满举行
-author: huan
+author: zhuohuan-li
 categories: news
 tags:
   - home
