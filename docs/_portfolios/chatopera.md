@@ -1,7 +1,7 @@
 ---
 name: Chatopera
 site: https://www.chatopera.com
-bio: 为企业提供聊天机器人的定制和运营服务，降本增效。
+bio: 为企业交付智能客服系统和智能对话机器人
 twitter: https://weibo.com/u/6680792124
 avatar: /assets/portfolios/chatopera/icon.png
 people:
@@ -12,19 +12,21 @@ ventures:
   - preangel
   - pnp
 videos:
-  - https://youtu.be/WYc7W76O_qM
-  - https://www.chatopera.com/files/introduction.mp4
+  - https://www.bilibili.com/video/BV1cU4y1h7X2/
+  - https://www.youtube.com/watch?v=XkQwqMLEEcA
 ---
 
-Chatopera（北京华夏春松科技有限公司）成立于2018年6月，本着诚信、创新和负责的价值观，为企业客户提供自主研发的智能客服系统，利用人工智能技术提升客户服务过程中的效率，提升客户满意度，主要产品包括春松客服和Chatopera云服务。我们的愿景是让聊天机器人从事工作中重复、繁琐的部分，把人从这些工作中解放出来，去做更有价值的事情。
+[Chatopera](https://www.chatopera.com): Deliver chatbots for enterprises / 让每一个企业都应用智能对话机器人！
+
+北京华夏春松科技有限公司，成立于 2018 年 6 月，本着诚信、创新和负责的价值观，为企业客户提供智能对话机器人平台，智能客服系统。 华夏春松研发团队在业务流程引擎、自然语言处理和云计算等方面有深厚的积累，在成立之初获得 PreAngel Fund 和 Plug and Play(中国) 的种子投资，目前已通过国家高新技术企业认定（2020）和中关村高新技术企业认定（2019）。
 
 <video
-  controls=""
+  controls preload="none" autobuffer="false"
   style="width:100%;"
   poster="/assets/portfolios/chatopera/video-cover.png"
 >
   <source
-    src="https://www.chatopera.com/files/introduction.mp4"
-    type="video/mp4;codecs=&quot;avc1.42E01E, mp4a.40.2&quot;"
+    src="https://gitee.com/chatopera/cskefu/attach_files/655978/download/facebook_chatopera_video_2021.webm"
+    type="video/webm"
   >
 </video>

@@ -10,7 +10,7 @@ itjuzi: https://www.itjuzi.com/person/40849
 
 李卓桓，PreAngel 合伙人，Plug and Play Venture Partner，Venture SPRINT 联合创始人。
 
-zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA，北京邮电大学 CS Ph.D (Majored in Conversational AI, Candidate)。
+zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA。
 
 15年互联网创业经验。作为LP投资了中美多支天使基金。中关村股权投资协会副会长，中国天使联合会创始理事，清华企业家协会（TEEC）人工智能委员会主任委员，多家创业公司和 VC 机构顾问。创业邦、创业家、新浪网等媒体都对他作过创业特别报道。
 

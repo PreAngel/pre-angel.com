@@ -16,3 +16,5 @@ Gospel 是一个网站、App在线开发、部署、运维一站式云服务平�
 ![Gospel](/assets/portfolios/gospel/banner.jpg)
 
 Gospel团队成立于2016.6.6，以解放开发者生产力为核心使命，Gospel团队未来希望通过人工智能实现计算机自编程。
+
+{% include iframe.html src="https://youtu.be/VL2VV02edkI" %}

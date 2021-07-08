@@ -2,7 +2,7 @@
 name: Yuan GAO (高原)
 site: https://github.com/windmemory
 bio: 句子互动科技有限公司联合创始人 & CTO, Ex-Amazon（北京）, Ex-Expedia（西雅图） 
-avatar: https://avatars3.githubusercontent.com/u/6801292
+avatar: /assets/peoples/yuan-gao/avatar.jpg
 email: gaoyuan@juzi.bot
 twitter: https://www.weibo.com/u/2166731327
 ---
