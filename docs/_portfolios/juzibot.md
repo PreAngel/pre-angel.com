@@ -30,3 +30,29 @@ ventures:
 - 2020 年入选 Facebook 加速器
 
 公司文化中拥有浓厚的开源精神，相信通过互联网开放式协作可以构建更美好的世界。是 Github 上 7,000+ Stars 知名开源 Chatbot 项目 Wechaty 的黄金赞助伙伴，基于开源项目 Wechaty 运营了一个覆盖全球最具影响力的微信机器人开发者社区，覆盖上万名开发者，其中很多来自于 Microsoft、Google、腾讯等百余家巨头高科技企业，地区分布在美国、欧洲、中国、加拿大、澳大利亚、英国、中国香港、中国台湾国家和地区。
+
+## English Version
+
+### 1. [Juzibot](https://www.juzibot.com/) Introduction
+
+JuziBot is a startup that provides smart marketing and sales services for customers on WeChat and WeCom platforms, the company helps companies build secure and stable [Private Traffic](https://daxueconsulting.com/private-traffic-in-china/), as well as helps corporate clients with customer acquisition and sales conversion. JuziBot currently serves customers in education, consumer, healthcare, and a few other industries, some of the clients include Meituan Dianping, JingDong, L'Oréal, etc., and 80% of these existing customers have been acquired through word of mouth. JuziBot's products have been known to improve the sales experience for one million sales professionals on a daily basis.
+
+The company was accepted by the highly competitive Baidu AI accelerator in 2018, and it has also been invested by a number of leading VCs including PreAngel, Plug and Play, Y Combinator, TSVC, and Alpha Startups. JuziBot received the CCFA Retail Technology Rising Enterprise Award in 2018. In 2018 and 2019, respectively, the company won 1st place in both the task-based human-machine dialogue response naturalness and the chat-type human-machine dialogue assessment in the SMP Chinese Human-Machine Dialogue Technology Evaluation held by the Chinese Information Processing Society of China (CIPSC).
+
+### 2. Business problem we solved
+
+You can find our 2 minutes speech in [YC Demo Day](https://www.youtube.com/watch?v=ePKYaGGKsWw) show our business on top of Wechaty in 2019. (We changed our name from BotOrange to Juzibot, but all of the two brands belong to us.)
+
+We are Intercom for WeChat, we help companies to acquire, engage and retain customers via WeChat. In China, WeChat IS the internet. Most Chinese people, they even never open a web browser, they only use WeChat.   But WeChat offers no tools for companies to manage their customers.  There is no Google Analytics, there is no salesforce, there is no intercom. There is nothing. But they need a tool.
+
+We built a customer management tool for WeChat based on WeCom. It is very similar to Intercom. It provides a customer support ticket, includes a chatbot, and provides analytics to the business.
+
+We give Chinese companies the ability to communicate with their customers where they live their life - on WeChat.
+
+### 3. Reference articles about the business I wrote before
+
+- [Intercom for WeChat, Why I create Juzibot](https://pre-angel.com/juzibot-why-is-jukebao/)
+- [How can brands build private traffic to own their customer traffic](https://pre-angel.com/lijiarui-siyuliuliang/)
+- [Juzibot provide chatbot and martech tools to help you get customer better based on WeChat](https://pre-angel.com/juzibot-36kr/)
+- [What is Juzibot](https://rui.juzi.bot/thought/2019-1-19-what-is-botorange.html)
+- [Microsoft MVP Blog: Six Lines Of Code. Two MVPs. One Chatbot.](https://wechaty.js.org/2020/11/10/six-lines-code-two-ai-mvps-one-chatbot/)
