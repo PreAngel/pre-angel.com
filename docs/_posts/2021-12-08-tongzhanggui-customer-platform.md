@@ -3,10 +3,10 @@ title: 死不掉也活不好，谁能改变中国100万快消二批的命运？
 author: liqun-tong
 categories: news
 tags:
-image: 
+  - retail
+image: assets/2021/12-08-tongzhanggui-customer-platform/30e734e697951085645690f24aaf72c0.jpg
 ---
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/46d4b0230deffe6a686efef8daa60089.gif)
 
 作者：陈思廷
 
@@ -146,7 +146,7 @@ image:
 
 “佟掌柜”系统于2021年9月15日正式在郑州市金水区试点运行，该网格内小店数量在一个月内完成了800多家app下载，单日订单金额也从几百元增长到2万多元，单日订单数量平均在50多个。
 
-![img](/assets/2021/12-08-tongzhanggui-customer-platform/30e734e697951085645690f24aaf72c0.jpg)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/30e734e697951085645690f24aaf72c0.jpg)
 
 这意味着， **“佟掌柜”刚运营一个多月，就为合作的这名二批带来了年销售额600多万的增长。而这名合作二批原有的生意，一年也不到500万元。**
 
@@ -203,7 +203,5 @@ image:
 **4. 二批对品牌商的价值是巨大的，值得产业重新审视、重新评估。距离终端客户最近的一个服务环节，没有理由不得到品牌商足够的重视。**
 
 从移动互联网领域杀入快消领域的佟立群，从跨越行业的视角，发现了二批群体长期被误解、被忽视的重要价值。他发动的这场二批变革如果成功，不但改变了中国100万二批的命运，也将某种程度上重写品牌商市场运营的渠道规则。
-
-
 
 源自：[搜狐:https://www.sohu.com/a/506335874_99890220]
