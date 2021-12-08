@@ -1,6 +1,6 @@
 ---
 title: 死不掉也活不好，谁能改变中国100万快消二批的命运？
-author: 陈思廷
+author: liqun-tong
 categories: news
 tags:
 image: 
@@ -10,7 +10,7 @@ image:
 
 作者：陈思廷
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/aab533d22346508474a1b7c956cd35c4.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/aab533d22346508474a1b7c956cd35c4.jpg)
 
 ## 二批，快消厂家无不欲扁平之而后快
 
@@ -20,7 +20,7 @@ image:
 
 二批服务半径一般在一两公里内，送货主要用电动三轮车。但很多中心城市禁止三轮车送货，二批送货就变成了小厢货。
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/7c84212adb01880a9cc59703ac2f4ba6.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/7c84212adb01880a9cc59703ac2f4ba6.jpg)
 
 在经销商眼里，二批这个客户时好时坏。好处在于，当需要完成厂家的压货任务时，只有二批能一下吃进几百箱的货；坏处在于，二批没有任何忠诚度，只认价格和政策，到处找窜货。
 
@@ -36,7 +36,7 @@ image:
 
 事实上，我们也没有办法将经销商和二批彻底区隔开，很多直营终端的经销商本身，除了代理的品牌之外，也会做一些其他产品的分销，以补全自己的产品结构。
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/229432b8e67fccadab05ef214e7cea30.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/229432b8e67fccadab05ef214e7cea30.jpg)
 
 ## 二批，是快消业里打不死的小强
 
@@ -68,7 +68,7 @@ image:
 
 二批的主体往往是“批发部”、“经营部”形式存在的个体工商户，老板就是员工，自己给自己打工，没日没夜地做，没有加班，也没有五险一金的负担，税负也低。
 
-![img](/assets/2021/12-08-tongzhanggui-customer-platform/ac8ad1eda5c65ca020265b215831d9fa.png)
+![img](/assets/2021/12-08-tongzhanggui-customer-platform/ac8ad1eda5c65ca020265b215831d9fa.jpg)
 
 ## 死不掉也活不好，谁来改变二批命运*
 
@@ -98,7 +98,7 @@ image:
 
 ### 佟立群认为，二批环节是快消行业目前唯一价值被严重低估了的流通环节。
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/ef5bca43d253ab352eec119ecd7957f3.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/ef5bca43d253ab352eec119ecd7957f3.jpg)
 
 第一，终端离顾客最近，二批离终端小店最近，终端小店的80%以上的商品都是二批供应的，难道这个价值还不够大吗？
 
@@ -108,7 +108,7 @@ image:
 
 2020年，佟立群创立了互联网平台“佟掌柜”；2021年8月，经过五次迭代，以二批为商业模式核心的“佟掌柜”系统成功上线；2021年9月，“佟掌柜”在郑州市金水区正式开始试点。
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/3a0c68bbe9c62d8e61a32c9dc36731ab.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/3a0c68bbe9c62d8e61a32c9dc36731ab.jpg)
 
 ## 以二批为核心的商业模式，能改变二批命运吗？
 
@@ -146,7 +146,7 @@ image:
 
 “佟掌柜”系统于2021年9月15日正式在郑州市金水区试点运行，该网格内小店数量在一个月内完成了800多家app下载，单日订单金额也从几百元增长到2万多元，单日订单数量平均在50多个。
 
-![img](/assets/2021/12-08-tongzhanggui-customer-platform/30e734e697951085645690f24aaf72c0.png)
+![img](/assets/2021/12-08-tongzhanggui-customer-platform/30e734e697951085645690f24aaf72c0.jpg)
 
 这意味着， **“佟掌柜”刚运营一个多月，就为合作的这名二批带来了年销售额600多万的增长。而这名合作二批原有的生意，一年也不到500万元。**
 
@@ -160,7 +160,7 @@ image:
 
 这是一个规模超过6万亿的市场，是一个比梦想还要宽、还要长的赛道。
 
-![pic](/assets/2021/12-08-tongzhanggui-customer-platform/d09540642f89918f22ac21a3a43cb3fa.png)
+![pic](/assets/2021/12-08-tongzhanggui-customer-platform/d09540642f89918f22ac21a3a43cb3fa.jpg)
 
 ## 更大的想象空间，二批能否成为“最后一公里”的基础设施？
 
