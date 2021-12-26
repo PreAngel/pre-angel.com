@@ -5,6 +5,7 @@ categories: news
 tags:
   - thanksgiving
   - juzibot
+  - news
   - event
 image: /assets/2021/11-juzibot-thanksgiving/pour-wine.jpeg
 ---
