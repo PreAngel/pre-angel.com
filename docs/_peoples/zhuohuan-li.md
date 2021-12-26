@@ -8,17 +8,15 @@ twitter: https://twitter.com/huan_us
 itjuzi: https://www.itjuzi.com/person/40849
 ---
 
-李卓桓，PreAngel 合伙人，Plug and Play Venture Partner，Venture SPRINT 联合创始人。
+李卓桓，PreAngel 合伙人，[硅谷知名孵化器 Plug and Play China](https://www.pnpchina.com/) Venture Partner，创业导师。专注人工智能领域技术创新，尤其是Chatbot自然语言对话方向的颠覆性机会。
 
 zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA。
 
-15年互联网创业经验。作为LP投资了中美多支天使基金。中关村股权投资协会副会长，中国天使联合会创始理事，清华企业家协会（TEEC）人工智能委员会主任委员，多家创业公司和 VC 机构顾问。创业邦、创业家、新浪网等媒体都对他作过创业特别报道。
+15年互联网创业经验。作为LP投资了中美多支天使基金。中国天使联合会创始理事，清华企业家协会（TEEC）人工智能委员会主任委员，多家创业公司和 VC 机构顾问。创业邦、创业家、新浪网等媒体都对他作过创业特别报道。
 
-25年编程经验，曾任 ChinaRen 系统工程师。著有《Linux网络编程》、《反垃圾邮件完全手册》、《智能对话与深度学习》等技术作品。Microsoft Regional Director，Google 认证机器学习开发者专家(_ML GDE, Machine Learning Google Developer Expert_)，腾讯认证聊天机器人专家（_Chatbot TVP, Tencent Valuable Professional,_）。活跃在 Open Source 社区，创立发布的 Chatbot SDK 开源项目 Wechaty 已在 Github 上拥有近万 Stars 数。
+20余年编程经验，曾任 ChinaRen 系统工程师。著有《Linux网络编程》、《反垃圾邮件完全手册》、[《智能对话与深度学习》](https://item.jd.com/12479014.html)、[《Chatbot从0到1》](https://item.jd.com/12630213.html)、[《简明的TensorFlow 2》](https://item.jd.com/12980534.html)等技术图书。[Microsoft Regional Director](https://rd.microsoft.com/en-us/huan-li)，[Google 认证机器学习开发者专家(_ML GDE, Machine Learning Google Developer Expert_)](https://developers.google.com/community/experts/directory/profile/profile-huan-li)，[腾讯认证聊天机器人专家（_Chatbot TVP, Tencent Valuable Professional,_）](https://cloud.tencent.com/tvp/138)。活跃在 Open Source 社区，创立发布的 [Chatbot SDK 开源项目 Wechaty](https://github.com/wechaty/wechaty) 已在 Github 上拥有近万 Stars 数。
 
-2012 年到 2016 年，投资了百余家移动互联网初创企业，如：蓝信、时光小屋、微差事、IT桔子；抹茶美妆、互动吧；蒲公英、中体飞行、蜂信、NOLO VR；座头鲸；等。
-
-2017 年开始，聚焦 AI / Chatbot 领域，投资了句子互动；硅心科技、积至科技、SkyLine、ChatOpera、观耘科技等多家人工智能公司。
+投资企业包括：蓝信、时光小屋、IT桔子、互动吧、七八点、蒲公英、菠萝格斗、中体飞行、中羽联、VoCore、凌宇智控、省心办、领签、句子互动、硅心科技、联络易、微印、ChatOpera、SIGAI、Authing、创新冲刺、MistGPU、魔音助手、里云智造、深度对话等。
 
 ![滑雪](/assets/peoples/zhuohuan-li/snowboard.jpg)
 

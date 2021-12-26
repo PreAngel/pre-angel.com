@@ -128,5 +128,5 @@ image: assets/2019/03-juzibot-why-is-jukebao/banner.png
 
 本文已做删减，更多相关内容详见：
 
-* [桔子互动是一家什么样的公司](https://rui.juzi.bot/thought/2019-1-19-what-is-botorange.html)
+* [桔子互动是一家什么样的公司](http://rui.juzi.bot/thought/2019-1-19-what-is-botorange.html)
 * [一个舞娘如何用6行代码写出微信聊天机器人](https://rui.juzi.bot/chatbot/2016-11-20-wechaty-wuli-usecase.html)
