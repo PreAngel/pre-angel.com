@@ -6,10 +6,10 @@ tags:
   - juzibot
   - news
   - event
-image: /assets/2022/01-juzibot-starup-list/teaser.jpeg
+image: /assets/2022/01-juzibot-startup-list/teaser.jpeg
 ---
 
-![teaser](/assets/2022/01-juzibot-starup-list/teaser.jpeg)
+![teaser](/assets/2022/01-juzibot-startup-list/teaser.jpeg)
 
 十年TO C，十年TO B，中国高科技企业迎来 “数字中国的黄金十年”。  
 
@@ -27,19 +27,19 @@ image: /assets/2022/01-juzibot-starup-list/teaser.jpeg
 
 综合榜由“2021年高科技高成长独角兽企业TOP50、2021年中国高科技高成长瞪羚企业TOP50、2021年高科技高成长新锐企业TOP50”三个榜单组成，**句子互动上榜新锐企业 TOP50** ：  
 
-![young-enterprise](/assets/2022/01-juzibot-starup-list/young-enterprise.jpeg)
+![young-enterprise](/assets/2022/01-juzibot-startup-list/young-enterprise.jpeg)
 
 ## 垂直行业科技榜
 
 垂直行业科技榜由“2021年中国消费与零售科技高成长企业TOP30、2021年中国汽车科技高成长企业TOP30、2021年中国金融科技高成长企业TOP30”三个榜单组成，**句子互动上榜消费与零售科技 TOP30** ：  
 
-![consumer-and-retail](/assets/2022/01-juzibot-starup-list/consumer-and-retail.jpeg)
+![consumer-and-retail](/assets/2022/01-juzibot-startup-list/consumer-and-retail.jpeg)
 
 ## 通用行业科技榜
 
 通用行业科技榜由“2021年云原生领域高成长企业榜、2021年Martech领域高成长企业榜、2021年SCRM领域高成长企业榜、2021年协同办公领域高成长企业榜、2021年BI领域高成长企业榜”等十个榜单组成，**句子互动上榜SCRM领域高成长企业榜**：  
 
-![scrm](/assets/2022/01-juzibot-starup-list/scrm.jpeg)
+![scrm](/assets/2022/01-juzibot-startup-list/scrm.jpeg)
 
 过去一年，句子互动与众多头部品牌一起深耕私域，共同打造了多个行业的典范：
 
@@ -47,4 +47,4 @@ image: /assets/2022/01-juzibot-starup-list/teaser.jpeg
 - 教育行业我们服务了猿辅导、一起作业、网易有道和亿学教育；
 - 线上服务行业我们帮助58同城、啄木鸟科技、元保保险等团队提升了运营效率。
 
-![juzibot](/assets/2022/01-juzibot-starup-list/juzibot.jpeg)
+![juzibot](/assets/2022/01-juzibot-startup-list/juzibot.jpeg)
