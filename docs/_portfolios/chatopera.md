@@ -2,6 +2,7 @@
 name: Chatopera
 site: https://www.chatopera.com
 bio: 通过聊天机器人传递服务
+company: 北京华夏春松科技有限公司
 twitter: https://weibo.com/u/6680792124
 avatar: /assets/portfolios/chatopera/icon.png
 people:
