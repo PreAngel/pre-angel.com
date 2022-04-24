@@ -6,7 +6,7 @@ avatar: /assets/portfolios/youdong/icon.png
 twitter: 
 people:
   - yang-lei
-  - wenhui-huang
+  # - wenhui-huang
 ventures:
   - preangel
 tags:

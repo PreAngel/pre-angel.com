@@ -14,3 +14,7 @@ twitter: https://github.com/AeroXi
 关注技术的商业化落地，曾在各类商赛和互联网+创业大赛获得过省级奖项
 
 擅长 Growth Hack，为产品撰写的推广文章在知乎获得单篇千赞和十万阅读量
+
+## Videos
+
+- [MistGPU快速入门教程 ｜使用云GPU在线跑深度学习](https://www.bilibili.com/video/BV11f4y177UW)
