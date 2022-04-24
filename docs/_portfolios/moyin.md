@@ -10,6 +10,8 @@ people:
   - li-zhang
 ventures:
   - preangel
+  - miracleplus
+  - emventures
 tags:
   - pa9
 ---
