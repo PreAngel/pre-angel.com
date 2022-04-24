@@ -27,5 +27,4 @@ image: assets/2020/11-moyin-video-audio-meeting-editor/stt.webp
 
 面对线上会议的市场热度，魔音助手表示自己是一个开放式软件，愿意与在线办公、在线学习平台成为合作伙伴。
 
-
 > Source: [36Kr](https://36kr.com/p/982359611116934)
