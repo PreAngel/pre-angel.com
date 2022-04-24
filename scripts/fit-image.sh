@@ -48,3 +48,6 @@ echo Done.
 
 popd
 
+# get the top square from the image
+# magick -background white -gravity north image.webp  -extent "%[fx:h<w?h:w]x%[fx:h<w?h:w]"  corpped.ppm
+# convert corpped.ppm corpped.webp

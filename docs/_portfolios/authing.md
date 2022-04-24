@@ -10,6 +10,7 @@ ventures:
   - preangel
   - pnp
   - miracleplus
+  - chinagrowthcapital
 ---
 
 ## 蒸汽记忆
