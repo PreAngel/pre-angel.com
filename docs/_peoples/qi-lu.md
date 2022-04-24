@@ -1,11 +1,13 @@
 ---
 name: Qi LU (陆奇)
 site: 
-bio: CEO of Y Combinator China
-avatar: /assets/peoples/qi-lu/avatar.png
-email: qilu@ycombinator.com
+bio: 奇迹创坛创始人
+avatar: /assets/peoples/qi-lu/avatar.webp
+email: qilu@miracleplus.com
 twitter: https://twitter.com/qilu
 ---
+
+![奇迹创坛：陆奇](/assets/peoples/qi-lu/miracleplus-luqi.webp)
 
 陆奇，毕业于复旦大学，获计算机科学学士、硕士学位，1987年毕业后留校执教。此后就读于卡耐基梅隆大学，获计算机科学博士学位。陆奇博士除了在学术界发表过一系列高质量的研究论文，还持有40多项美国专利。
 
