@@ -1,5 +1,6 @@
 ---
 name: MistGPU (深雾科技)
+company: 广州深雾科技有限公司
 site: https://mistgpu.com/
 bio: 人工智能算力领域的 Airbnb - 连接开发者和 GPU 的共享AI计算平台
 avatar: /assets/portfolios/mistgpu/icon.png

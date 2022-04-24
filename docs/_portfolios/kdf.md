@@ -1,5 +1,6 @@
 ---
 name: KDF (商业信息终端)
+company: 北海知未智能科技有限公司
 site: https://kdf.ai
 bio: Knowledge Driven Future - 知识驱动未来
 avatar: /assets/portfolios/kdf/icon.png

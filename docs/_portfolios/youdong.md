@@ -1,5 +1,6 @@
 ---
 name: 优栋科技
+company: 北京优栋科技有限公司
 site: 
 bio: AI+AR的交互式内容生产工具及社区
 avatar: /assets/portfolios/youdong/icon.png

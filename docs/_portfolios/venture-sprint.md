@@ -1,5 +1,6 @@
 ---
 name: Venture SPRINT (创新冲刺)
+company: 冲刺教育科技（北京）有限公司
 site: https://www.venture-sprint.com
 bio: 为 Venture Capital 提供 Design Partner 服务的 Google Design Sprint 运营机构
 avatar: /assets/portfolios/venture-sprint/icon.jpg

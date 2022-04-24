@@ -2,6 +2,7 @@
 name: Moyin (魔音助手)
 site: https://www.moyincloud.com
 bio: 智能会议记录、课程笔记工具
+company: 北京魔音云智能科技有限公司
 avatar: /assets/portfolios/moyin/icon.png
 twitter:
 people:

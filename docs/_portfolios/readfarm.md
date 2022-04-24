@@ -1,5 +1,6 @@
 ---
 name: Read Farm (观耘科技)
+company: 北京观耘科技有限公司
 site: 
 bio: 通过融合人工智能、大数据、云计算、航空航天等科学技术，为农业从业者提供智慧化数据解决方案
 avatar: /assets/portfolios/readfarm/icon.png

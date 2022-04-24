@@ -1,5 +1,6 @@
 ---
-name: "Steamory (蒸汽记忆)"
+name: Authing
+company: 北京蒸汽记忆科技有限公司
 site: https://authing.cn
 bio: "以身份为中心的云原生操作系统"
 avatar: /assets/portfolios/steamory/icon.png
