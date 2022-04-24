@@ -2,7 +2,7 @@
 name: Yaxin LIU (柳亚鑫)
 site: 
 bio: 魔音助手联合创始人
-avatar: /assets/peoples/yaxin-liu/avatar.jpg
+avatar: /assets/peoples/yaxin-liu/avatar.webp
 email: 
 twitter: 
 ---

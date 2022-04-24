@@ -6,8 +6,8 @@ avatar: /assets/portfolios/moyin/icon.png
 twitter:
 people:
   - kai-yang
-  - yaxin-liu
-  - li-zhang
+  # - yaxin-liu
+  # - li-zhang
 ventures:
   - preangel
   - miracleplus
