@@ -1,5 +1,5 @@
 ---
-name: Leo WANG (王利杰)
+name: Leo WANG
 site: https://linkedin.com/in/betashow
 avatar: /assets/peoples/lijie-wang/avatar.jpg
 bio: PA天使基金创始合伙人。使命驱动，帮助创业者成功，成就自己。
