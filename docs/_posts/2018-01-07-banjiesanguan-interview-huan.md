@@ -22,7 +22,7 @@ image: assets/2018/01/banjiesanguan-huan.jpg
     overflow:hidden;
 ">
   <iframe
-    src="https://v.qq.com/txp/iframe/player.html?vid=k05280qs9sv"
+    src="https://www.youtube.com/embed/8zkQpk7a7sM"
     width='560'
     height='315'
     allowfullscreen
@@ -38,7 +38,7 @@ image: assets/2018/01/banjiesanguan-huan.jpg
   ></iframe>
 </div>
 
-> "不要掏心掏肺的给年轻人讲道理。只告诉他正确答案，是没有任何意义的。” - Huan ([YouTube](https://www.youtube.com/watch?v=8zkQpk7a7sM))  
+> "不要掏心掏肺的给年轻人讲道理。只告诉他正确答案，是没有任何意义的。” - Huan ([QQ Video](https://v.qq.com/x/page/k05280qs9sv.html))
 
 ## 投资圈的另类：只投十万
 
