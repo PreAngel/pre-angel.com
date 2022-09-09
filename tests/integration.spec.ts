@@ -37,6 +37,7 @@ test('image size should not more than 1MB', async t => {
   const SKIP_REG = [
     /docs\/assets\/ventures\/preangel\//,
     /docs\/assets\/2015\/12-five-years\//,
+    /docs\/assets\/peoples\/zhuohuan-li\//,
   ]
 
   const fileList = await glob('docs/assets/**/*.{jpg,jpeg,png}')
