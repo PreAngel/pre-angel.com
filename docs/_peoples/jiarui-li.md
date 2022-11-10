@@ -19,9 +19,9 @@ twitter: https://weibo.com/u/2175505900
 
 旗下产品帮助企业 10 倍提升私域运营效率，助力企业解决获客、转化、复购全流程问题。客户覆盖电商，线下门店，互联网平台等，包括欧莱雅，babycare，宝洁，元气森林，泡泡玛特、美团点评、腾讯广告、薇娅等，其中80%客户来自口碑传播。
 
-同年入选百度AI加速器，次年和百度联手打造[《从0到1搭建聊天机器人》系列课程](https://ai.baidu.com/support/video)。Facebook 中国大陆首期加速器成员企业，公司先后获得 PreAngel、Plug and Play、Y Combination、TSVC（清谷资本）和阿尔法公社、真成投资等多家中美机构天使投资。
+Facebook 中国大陆首期加速器成员企业，百度 AI 加速器首期成员企业，并百度联手打造[《从0到1搭建聊天机器人》系列课程](https://ai.baidu.com/support/video)。公司先后获得 PreAngel、Plug and Play、Y Combination、TSVC（清谷资本）和阿尔法公社、真成投资等多家中美机构投资。
 
-2021 年上线基于 WhatsApp、Facebook Messenger、Instagram 等 IM 的一站式自动化营销工具，将国内的私域自动化运营方法论复制到海外，通过对话营销为海外商家赋能创收。
+2022 年上线基于 WhatsApp、Facebook Messenger、Instagram 等 IM 的一站式自动化对话式营销工具，将国内的私域自动化运营方法论复制到海外，通过对话营销为海外商家赋能创收。
 
 李佳芮是一个资深产品技术专家，热爱开源和技术，坚信 IM/Chap Apps 已经逐渐代替传统的电话短信成为新一代的运营商，过去所有电话短信的业务都值得在新的 IM （微信、WhatsApp、Messenger）上重做一遍，对话式营销是未来营销的新趋势，因此创建并管理覆盖全球基于 IM/Chat Apps 的聊天机器人开发者社区，多次应邀在 Google、Microsoft 大会中做 Chatbot 行业技术分享。
 
@@ -59,6 +59,7 @@ twitter: https://weibo.com/u/2175505900
 - [人人都是项目经理：如何做好一个项目](https://juzihudong.feishu.cn/docs/doccn29OD2Wog5uJhfHInTHT2kg)
 - [年薪翻倍的工作习惯](https://meta.feishu.cn/file/boxcnNvKryRyJngEqxdOl58Zjye)
 - [很多事情不是难，他只是很复杂：如何开展一项复杂的工作](https://m.igetget.com/share/note/detail/bEKVpvj7xB6LYGq3wo6Qm89gZOz6Nw)
+- [如何正确做计划](https://juzihudong.feishu.cn/docx/MkRhdpeUJoxSMax8qphcXAdDnVh)
 
 ## 联系我
 
