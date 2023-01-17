@@ -1,6 +1,6 @@
 ---
 name: Rahim AMIDI
-site: https://amidigroup.com/rahim-amidi
+site: http://amidigroup.wpengine.com/about-amidi-group/
 avatar: /assets/peoples/rahim-amidi/avatar.jpg
 bio: Founding General Partner of Plug and Play
 email: 
