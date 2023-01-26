@@ -13,7 +13,7 @@ twitter: https://weibo.com/u/2175505900
 - **热爱一切运动**，比如马拉松、瑜伽、舞蹈、攀岩、游泳、泰拳、滑雪。任何我没尝试过的运动，都有兴趣去尝试。
 - 个人博客地址：<http://rui.juzi.bot>
 
-![无边游泳池](/assets/peoples/jiarui-li/wechat-oa-account.png)
+![公众号二维码-佳芮的创业笔记](/assets/peoples/jiarui-li/wechat-oa-account.png)
 
 2017 年创立句子互动，专注基于微信生态提供智能营销服务，句子互动基于微信、企业微信提供营销自动化的 SaaS 工具，致力于打造下一代对话式营销云。
 
