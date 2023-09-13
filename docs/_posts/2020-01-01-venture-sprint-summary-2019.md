@@ -6,7 +6,6 @@ tags:
   - featured
   - interview
   - home
-  - sticky
 image: assets/2020/01-venture-sprint-summary-2019/21.jpg
 ---
 

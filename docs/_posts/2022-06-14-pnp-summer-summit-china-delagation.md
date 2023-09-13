@@ -7,7 +7,8 @@ tags:
   - pnp
   - home
   - event
-image: /assets/2022/06-pnp-summer-summit-china-delegation/sketch.webp
+  - sticky
+image: assets/2022/06-pnp-summer-summit-china-delegation/sketch.webp
 ---
 
 > This picture shows the communication with Plug and Play founder. This man from Iran has made PNP the most open and prestigious incubator in Silicon Valley through 16 years of hard work and spread all over the world. He said that he did not understand technology, but he believed in technology and more in people. Perhaps because he is from Iran, he understands the importance of openness and tolerance. I think that more Chinese entrepreneurs will develop by leaps and bounds on this open platform.  
