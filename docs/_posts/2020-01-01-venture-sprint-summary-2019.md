@@ -7,7 +7,7 @@ tags:
   - interview
   - home
   - sticky
-image: /assets/2020/01-venture-sprint-summary-2019/21.jpg
+image: assets/2020/01-venture-sprint-summary-2019/21.jpg
 ---
 
 低眉回首间，辗转又添年轮。掐指一算，Venture Sprint又走了一年。这一年，12期、36个公司团队、300余位学员进行了一次又一次激情碰撞。这一年，企业家们在一次又一次的“头脑风暴”中，重新定义了发展导向、产品落地方案。

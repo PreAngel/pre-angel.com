@@ -7,7 +7,7 @@ tags:
   - sticky
   - home
   - event
-image: /assets/2023/08-chinese-tech-network/chinese-tech-network-event-room.webp
+image: assets/2023/08-chinese-tech-network/chinese-tech-network-event-room.webp
 ---
 
 > _Chinese Tech Network_ aims to foster networking, collaboration, and professional growth within the Chinese community, particularly in entrepreneurship, technology, and innovation. It's a monthly event on the 4th Thursday of each month.
