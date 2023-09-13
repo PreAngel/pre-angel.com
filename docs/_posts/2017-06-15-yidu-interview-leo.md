@@ -1,6 +1,6 @@
 ---
 title: 专访王利杰：天使投资的三大赌局，赌时机、赌人、赌对手
-author: lijie-wang
+author: leo-wang
 categories: news
 tags:
   - home
