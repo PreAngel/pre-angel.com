@@ -87,4 +87,3 @@ We have outlined specific objectives, strategies, and activities to achieve our 
 The [Chinese Tech Network](https://chinesetechnetwork.com) was planned as a sibling event of [Persian Tech Network](https://persiantechnetwork.com/) by [Rahim Amidi](https://pre-angel.com/peoples/rahim-amidi/), the co-founder of Plug and Play, and sponsored by [Plug and Play Tech Center](https://pnptc.com).
 
 It is a monthly event in the evening on the 4nd Thursday (in general) of each month.
-
