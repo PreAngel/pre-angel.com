@@ -1,6 +1,6 @@
 ---
 title: 创业应该遵循的10条戒律
-author: zhuohuan-li
+author: huan-li
 categories: rules
 tags:
   - tips

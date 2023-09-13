@@ -1,6 +1,6 @@
 ---
 title: 德国文化中心歌德学院 | 人工智能大咖空降798，展望人类未来
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - forum

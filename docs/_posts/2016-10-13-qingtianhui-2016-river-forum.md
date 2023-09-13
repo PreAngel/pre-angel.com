@@ -455,7 +455,7 @@ image: assets/2016/10-qingtianhui-river-forum/splash.jpg
     </tr>
     <tr>
       <td>
-        <a href="{{ '/peoples/zhuohuan-li/' | absolute_url }}">李卓桓</a>
+        <a href="{{ '/peoples/huan-li/' | absolute_url }}">李卓桓</a>
       </td>
       <td>
         <a href="{{ '/ventures/preangel/' | absolute_url }}">PreAngel</a>

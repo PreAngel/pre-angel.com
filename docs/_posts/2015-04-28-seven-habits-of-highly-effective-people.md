@@ -1,6 +1,6 @@
 ---
 title: 高效能人士的七个习惯
-author: zhuohuan-li
+author: huan-li
 categories: rules
 tags:
   - tips

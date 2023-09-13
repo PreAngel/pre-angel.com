@@ -1,6 +1,6 @@
 ---
 title: PreAngel 创始人 AI 晚餐会圆满举行
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - home
@@ -24,7 +24,7 @@ PreAngel自2011年创办以来，一直作为中国天使投资品牌的佼佼�
 
 {% include iframe.html src="https://youtu.be/orB0GDFsQbA" %}
 
-1. [00:00](https://www.youtube.com/watch?v=orB0GDFsQbA&t=0s) [PreAngel](https://pre-angel.com/about.html) 合伙人[李卓桓](https://pre-angel.com/peoples/zhuohuan-li/)开场
+1. [00:00](https://www.youtube.com/watch?v=orB0GDFsQbA&t=0s) [PreAngel](https://pre-angel.com/about.html) 合伙人[李卓桓](https://pre-angel.com/peoples/huan-li/)开场
 1. [00:25](https://www.youtube.com/watch?v=orB0GDFsQbA&t=25s) [袁冶](https://www.linkedin.com/in/%E5%86%B6-%E8%A2%81-003b79aa/)，[香港科技大学](http://hkustemba.ust.hk/)内地首席代表
 1. [08:00](https://www.youtube.com/watch?v=orB0GDFsQbA&t=480s) 李军，[智源研究院](https://www.baai.ac.cn/)创业投资基金总经理
 1. [09:40](https://www.youtube.com/watch?v=orB0GDFsQbA&t=580s) [王玉丹](https://wechaty.js.org/contributors/valerieeeee/)，BotBay 创始人&CEO

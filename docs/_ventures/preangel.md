@@ -6,7 +6,7 @@ avatar: /assets/ventures/preangel/logo/preangel-icon.png
 twitter: https://weibo.com/preangel
 email: bp@pre-angel.com
 people:
-  - zhuohuan-li
+  - huan-li
   - lijie-wang
   - chuck-ng
 ---

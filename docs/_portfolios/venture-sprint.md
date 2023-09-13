@@ -7,7 +7,7 @@ avatar: /assets/portfolios/venture-sprint/icon.jpg
 twitter: 
 people:
   - ruijun-yao
-  - zhuohuan-li
+  - huan-li
 ventures:
   - preangel
 ---

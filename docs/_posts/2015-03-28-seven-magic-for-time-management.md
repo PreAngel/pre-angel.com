@@ -1,6 +1,6 @@
 ---
 title: 时间管理的七条魔法
-author: zhuohuan-li
+author: huan-li
 categories: rules
 tags:
   - tips

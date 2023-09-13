@@ -1,6 +1,6 @@
 ---
 title: 清华X-Lab驻校天使李卓桓“关键一分钟”培训
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - tsinghua

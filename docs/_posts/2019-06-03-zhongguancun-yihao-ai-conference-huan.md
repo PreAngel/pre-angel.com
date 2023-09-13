@@ -1,6 +1,6 @@
 ---
 title: 中关村人工智能产业应用与发展论坛
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - home

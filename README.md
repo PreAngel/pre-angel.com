@@ -35,7 +35,7 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 
 ## Author
 
-[Huan](https://github.com/huan) [(李卓桓)](https://pre-angel.com/peoples/zhuohuan-li/), [PreAngel Partner](https://pre-angel.com) \<huan@pre-angel.com\>
+[Huan](https://github.com/huan) [(李卓桓)](https://pre-angel.com/peoples/huan-li/), [PreAngel Partner](https://pre-angel.com) \<huan@pre-angel.com\>
 
 [![Profile of Huan LI (李卓桓) on StackOverflow](https://stackexchange.com/users/flair/265499.png)](https://stackexchange.com/users/265499)
 

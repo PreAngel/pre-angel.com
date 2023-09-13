@@ -1,6 +1,6 @@
 ---
 title: PreAngel 合伙人李卓桓当选中关村股权投资协会副会长
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - home

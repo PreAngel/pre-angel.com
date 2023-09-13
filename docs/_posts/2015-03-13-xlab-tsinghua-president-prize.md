@@ -1,6 +1,6 @@
 ---
 title: 清华大学“校长杯”赛前培训——如何介绍自己的项目
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - tsinghua

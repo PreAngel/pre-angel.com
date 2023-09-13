@@ -6,7 +6,7 @@ avatar: /assets/ventures/angelcrunch/icon.jpg
 twitter: https://weibo.com/angelcrunch
 people:
   - ningyu-lan
-  - zhuohuan-li
+  - huan-li
 ---
 
 天使汇(angelcrunch.com)是中国起步最早、规模最大、融资最快的天使投资和股权众筹平台，是助力天使投资人迅速发现优质初创项目、助力初创企业迅速找到天使投资人的融资平台。

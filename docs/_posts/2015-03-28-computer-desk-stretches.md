@@ -1,6 +1,6 @@
 ---
 title: 电脑办公者三分钟伸展操
-author: zhuohuan-li
+author: huan-li
 categories: health
 tags:
   - workout

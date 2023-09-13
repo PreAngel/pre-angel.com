@@ -50,7 +50,7 @@ image: assets/2016/11-preangel-china-angel-funds-top15/stage.jpg
 
 ## PreAngel Fund
 
-PreAngel Fund由[王利杰](/peoples/lijie-wang/)于 2011年创办，已经连续成立了6支子基金，共管理6亿人民币，所有项目主要分布在中美两地，覆盖移动互联网、智能硬件、医疗健康、分享经济、金融保险、垂直电商、消费升级、女性消费、体育文化等天使阶段的初创企业，合伙人包括[顾浩](/peoples/hao-gu/)、孙真臻、张军、[李卓桓](/peoples/zhuohuan-li/)、胡炜（杭州）、吴泽强（旧金山）、庄严（圣地亚哥）。
+PreAngel Fund由[王利杰](/peoples/lijie-wang/)于 2011年创办，已经连续成立了6支子基金，共管理6亿人民币，所有项目主要分布在中美两地，覆盖移动互联网、智能硬件、医疗健康、分享经济、金融保险、垂直电商、消费升级、女性消费、体育文化等天使阶段的初创企业，合伙人包括[顾浩](/peoples/hao-gu/)、孙真臻、张军、[李卓桓](/peoples/huan-li/)、胡炜（杭州）、吴泽强（旧金山）、庄严（圣地亚哥）。
 
 ![荷多资本投资项目]({{ 'assets/2016/heduo-fund-portfolios.jpg' | relative_url }})
 

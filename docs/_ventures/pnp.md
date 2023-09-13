@@ -5,7 +5,7 @@ bio: 美国TOP 10的企业加速器，专注于对科技类创业企业的孵化
 avatar: /assets/ventures/pnp/icon.png
 twitter: https://twitter.com/PlugandPlayTC
 people:
-  - zhuohuan-li
+  - huan-li
   - chen-zhao
   - saeed-amidi
   - rahim-amidi

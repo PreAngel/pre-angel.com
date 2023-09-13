@@ -3,7 +3,6 @@ title: 创业邦 | AI应用算法框架研发商「SIGAI」获千万级Pre-A轮�
 author: sigai
 categories: news
 tags:
-  - sticky
 image: /assets/2020/07-sigai-fund-raising/simple-ai.jpg
 ---
 

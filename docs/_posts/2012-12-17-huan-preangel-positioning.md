@@ -1,6 +1,6 @@
 ---
 title: 我的投资定位：｛移动｝＠北京－｛电商｝∪｛游戏｝
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - mobile

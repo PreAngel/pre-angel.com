@@ -1,6 +1,6 @@
 ---
 title: 与PreAngel李卓桓漫谈3小时，他热爱的飞伞，技术与投资
-author: zhuohuan-li
+author: huan-li
 categories: news
 tags:
   - home
