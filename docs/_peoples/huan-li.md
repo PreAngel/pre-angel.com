@@ -2,7 +2,7 @@
 name: Huan Li
 site: https://github.com/huan
 avatar: /assets/peoples/huan-li/avatar.jpg
-bio: PreAngel Partner, AI/ML applicant, Chatbot producer & enthusiast 💸🧠🤖🖥👨‍💻⌨️
+bio: PreAngel Partner, Chatbot Producer & Enthusiast, AI/ML Applicator, Open-Source Software Builder. 💸🧠🤖🖥👨‍💻⌨️
 email: huan@pre-angel.com
 twitter: https://twitter.com/huan_us
 crunchbase: https://www.crunchbase.com/person/zhuohuan-li
