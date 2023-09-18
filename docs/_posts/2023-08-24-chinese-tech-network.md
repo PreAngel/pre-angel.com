@@ -62,6 +62,8 @@ Join us for an exciting in-person gathering at Plug and Play! The Chinese Tech N
 
 - **WeChat**: [@PNPChina - 一场超大规模科创盛会：硅谷ChineseTechNetwork等你来！](https://mp.weixin.qq.com/s/99JKAPQvUz_uGM28FqvSJw)
 - **LinkedIn**: [Chinese Tech Network August Event](https://www.linkedin.com/events/chinesetechnetworkaugustevent7092632927850676224/comments/)
+- **Eventbrite**: [Chinese Tech Network August Event](https://www.eventbrite.com/e/chinese-tech-network-august-event-tickets-691226716717)
+- **Plug and Play Tech Center**: [Chinese Tech Network August Event](https://www.plugandplaytechcenter.com/events/chinese-tech-network/)
 
 ### Supporting Organizations
 
