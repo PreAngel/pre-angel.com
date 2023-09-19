@@ -50,7 +50,7 @@ The **Chinese Tech Network** event series is a monthly hybrid program designed t
 
 Join us for an exciting in-person gathering at Plug and Play! The Chinese Tech Network Sept Event is for industry leaders, tech enthusiasts, and entrepreneurs. Connect with like-minded individuals, exchange ideas, and stay updated on the latest trends in the tech industry. Take advantage of this fantastic opportunity to expand your network and gain valuable insights. Pizza and drinks will be provided. Mark your calendars for this must-attend event!
 
-- **WeChat**: [@PNPChina - 线下·硅谷 | 9/19 Chinese Tech Network](https://mp.weixin.qq.com/s/uIf3-d-tZdYqOArRSgXjOA)
+- **WeChat**: [@PNPChina - 线下·硅谷 9/19 Chinese Tech Network](https://mp.weixin.qq.com/s/uIf3-d-tZdYqOArRSgXjOA)
 
 ### August 24 (Thu), 2023
 
