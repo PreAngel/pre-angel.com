@@ -4,12 +4,12 @@ site: https://github.com/huan
 avatar: /assets/peoples/huan-li/avatar.jpg
 bio: PreAngel Partner, Chatbot Producer & Enthusiast, AI/ML Applicator, Open-Source Software Builder. 💸🧠🤖🖥👨‍💻⌨️
 email: huan@pre-angel.com
-twitter: https://twitter.com/huan_us
+twitter: https://twitter.com/huan2024
 crunchbase: https://www.crunchbase.com/person/zhuohuan-li
-linkedin: https://linkedin.com/in/zixia
+linkedin: https://linkedin.com/in/huan42
 ---
 
-Huan Li,PreAngel Partner，[Plug and Play](https://www.pnpchina.com/) Venture Partner，Chatbot Producer.
+Huan Li, PreAngel Partner，[Plug and Play](https://www.pnpchina.com/) Venture Partner，Chatbot Architect.
 
 zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA。
 
@@ -42,7 +42,7 @@ zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BB
 
 ## As an AI Professional & ML Expert
 
-> I focus on helping Artifical Intelligence Startups  
+> I focus on helping Artificial Intelligence Startups  
 > to use the State-Of-The-Art Machine Learning Algorithms  
 > to solve the Real-world Problem.  
 
