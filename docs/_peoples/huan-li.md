@@ -9,7 +9,7 @@ crunchbase: https://www.crunchbase.com/person/zhuohuan-li
 linkedin: https://linkedin.com/in/huan42
 ---
 
-Huan Li, PreAngel Partner，[Plug and Play](https://www.pnpchina.com/) Venture Partner，Chatbot Architect.
+Huan Li, PreAngel Partner, Plug and Play Venture Partner, Chatbot Architect.
 
 zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BBS站长。清华大学本科，中欧国际工商学院EMBA。
 
