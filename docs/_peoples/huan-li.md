@@ -36,8 +36,8 @@ zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BB
 ## Contact
 
 - Github: <https://github.com/huan>
-- Linkedin: <https://linkedin.com/in/zixia>
-- Twitter: [@huan_us](https://twitter.com/huan_us)
+- Linkedin: <https://linkedin.com/in/huan42>
+- Twitter: [@huan2024](https://twitter.com/huan2024)
 - Email: <huan@pre-angel.com>
 
 ## As an AI Professional & ML Expert
