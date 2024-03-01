@@ -49,5 +49,5 @@ zixia BBS、优酷网（首席科学家）、叽歪网创始人，水木清华BB
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/huan/quick-meeting', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/huan/chat', text: 'Chat with Huan', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
 <!-- Calendly badge widget end -->
