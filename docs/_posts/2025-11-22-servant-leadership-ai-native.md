@@ -2,6 +2,7 @@
 title: "Servant Leadership for AI-Native Companies — The 12 Principles"
 date: 2025-11-22
 author: "huan-li"
+category: ai-native
 tags: ["PreAngel", "Servant Leadership", "AI-Native", "Solo Founder", "Manifesto"]
 excerpt: "Forget the old rules of leadership. In an AI-native world, true power comes from serving. Uncover the 12 revolutionary principles for human and AI co-founders to thrive."
 image: assets/2025/11-servant-leadership-ai-native/cover.webp

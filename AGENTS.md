@@ -13,10 +13,11 @@
   ```yaml
   ---
   title: "Title"
-  description: "Short summary"
+  excerpt: "Short summary with strong hook to attract readers to click."
   author: author-slug  # Must match `docs/_peoples/author-slug.md`
+  category: category-slug
   tags: [tag1, tag2]
-  image: assets/YYYY/MM-slug/cover.webp
+  image: assets/YYYY/MM-slug/teaser.webp
   ---
   ```
 
