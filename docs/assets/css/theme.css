@@ -689,6 +689,7 @@ article:first-letter {
 	margin:0 .2em 0 0;
 	vertical-align:top;
 }
+article > blockquote:first-of-type + *,
 article > p:first-of-type + p {
 	clear: both;
 }

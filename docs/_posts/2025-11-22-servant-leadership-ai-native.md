@@ -8,9 +8,7 @@ excerpt: "Forget the old rules of leadership. In an AI-native world, true power 
 image: assets/2025/11-servant-leadership-ai-native/cover.webp
 ---
 
-> A PreAngel manifesto for one-person, AI‑native incubators.
-
-## 0. Why I Became Obsessed with “Servant Leadership” (and Wolves)
+> Servant-leadership is all about making the goals clear and then rolling your sleeves up and doing whatever it takes to help people win. In that situation, they don’t work for you, you work for them. —— Ken Blanchard
 
 The story actually started in a very 2025 way: I was **scrolling Facebook**.
 
