@@ -20,6 +20,19 @@
   ---
   ```
 
+### Image Generation Guidelines
+
+#### Teaser Image
+- **Mandatory**: Every blog post must have a teaser image.
+- **Purpose**: Used as the headline image and for social media (LinkedIn, Twitter) to drive traffic.
+- **Content**: Must reflect the core topic of the post.
+- **Optimization**: Follow social media best practices for size/aspect ratio to maximize engagement.
+
+#### In-Content Images
+- **Quantity**: 1-3 images per post.
+- **Process**: Analyze content semantics to generate relevant visuals.
+- **Placement**: Insert at semantically appropriate locations.
+
 ### Assets (`docs/assets/`)
 - **Strict Hierarchy**: `docs/assets/{YYYY}/{MM-slug}/`.
   - `{YYYY}`: Year of the post.
