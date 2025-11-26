@@ -1,6 +1,6 @@
 ---
 title: "Why Supabase Feels Bigger Than It Is: 7 Silent Moves Solo Founders Can Steal"
-description: "From a Firebase fan trying to understand the hype — to a practical playbook for AI‑native solo founders."
+excerpt: "Why does Supabase feel so dominant? A Firebase fan's journey uncovers 7 stealth strategies AI-native solo founders can immediately apply to make their projects punch far above their weight."
 author: huan-li
 tags: [startup, strategy, supabase, firebase]
 image: assets/2025/11-why-supabase-feels-bigger/cover.webp
