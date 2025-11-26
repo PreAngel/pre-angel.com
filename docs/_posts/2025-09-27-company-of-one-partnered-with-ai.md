@@ -2,6 +2,7 @@
 title: "Company of One, Partnered with AI — How I Build at PreAngel"
 excerpt: "A letter from the Founding Human of PreAngel on building AI-native products, orchestrating agents, and shipping bold ideas fast."
 author: huan-li
+category: ai-native
 date: 2025-09-27
 tags:
   - home

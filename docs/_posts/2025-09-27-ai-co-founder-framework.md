@@ -2,6 +2,7 @@
 title: "Introducing the AI Co-Founder Framework"
 excerpt: "What if your startup team wasn’t just human? The AI Co-Founder Framework is a new way to design, build, and orchestrate multi-agent AI systems as startup teammates."
 author: huan-li
+category: ai-native
 date: 2025-09-27
 tags:
   - home
