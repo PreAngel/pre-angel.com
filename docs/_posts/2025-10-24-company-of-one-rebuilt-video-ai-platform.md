@@ -115,6 +115,8 @@ So this is my Kung Fu training story—but with software—over 30 days.
 
 ![Q working with AI coding agents to rebuild LeyLine](/assets/2025/10-company-of-one-rebuilt-video-ai-platform/the-information-in-the-window-is-not-right.webp)
 
+*Mind you, this was the beginning of my "vibe coding" era: I would tell the AI, "Fix it," and it would labor heroically… only to miss the point entirely. I didn't yet understand the language of engineering. My background had conditioned me to do the opposite—banking rewarded ambiguity, and screenwriting rewarded emotional exaggeration. None of that translates when a machine is trying to interpret your intent literally.*
+
 ---
 
 ## 6) Week 1 — Removing the Friction to Start
