@@ -6,9 +6,11 @@ search: false
 sitemap: false
 ---
 
+<!-- markdownlint-disable MD033 -->
 <h1>Search</h1>
 <input id="q" type="search" placeholder="Search…" class="form-control mb-3" />
 <ul id="results"></ul>
+<!-- markdownlint-enable MD033 -->
 
 <script defer src="https://unpkg.com/lunr/lunr.js"></script>
 <script>
