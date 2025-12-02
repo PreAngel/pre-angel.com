@@ -19,7 +19,7 @@
 
    `git checkout -b <my-new-feature-or-fix>`
 
-4. **Make necessary changes and commit those changes**:
+4. **Make changes and commit those changes**:
 
    `git add .`
 
