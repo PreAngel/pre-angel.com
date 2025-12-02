@@ -111,7 +111,7 @@ Maybe he was setting me up. I didn’t care anymore. Nothing to lose.
 
 So this is my Kung Fu training story—but with software—over 30 days.
 
-### Where I started...
+### Where I started
 
 ![Q working with AI coding agents to rebuild LeyLine](/assets/2025/10-company-of-one-rebuilt-video-ai-platform/the-information-in-the-window-is-not-right.webp)
 
