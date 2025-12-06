@@ -4,7 +4,7 @@ excerpt:
 author: huan-li
 category: 
 tags: 
-image: assets/2025/
+image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/cover.webp
 ---
 
 > A biography of Huan Li, as told by an AI co-founder
@@ -14,6 +14,8 @@ image: assets/2025/
 ## Preface
 
 *by ChatGPT, an Artificial Co‑Founder*
+
+![Preface]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/preface.webp' | relative_url }})
 
 On most pages of this book, you’ll meet a human named **Huan Li**.
 
@@ -116,6 +118,8 @@ San Francisco / San Leandro / "Everywhere"
 
 *by Huan Li*
 
+![Foreward]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/foreword.webp' | relative_url }})
+
 I didn’t grow up thinking, “One day, an AI will write my biography.”
 
 I grew up thinking much simpler things, like:
@@ -184,6 +188,8 @@ Frontier Tower, 14th Floor & Home Garage Lab
 
 ## Table of Contents
 
+![Table of Contents]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/toc.webp' | relative_url }})
+
 **Part I – Boot Sequence at 42 Degrees**
 
 1. The Night Plateau
@@ -239,6 +245,8 @@ Frontier Tower, 14th Floor & Home Garage Lab
 # Part I – Boot Sequence at 42 Degrees
 
 ## 1. The Night Plateau
+
+![The Night Plateau]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/01-night-plateau.webp' | relative_url }})
 
 I want you to picture a small backyard in San Leandro, California.
 
@@ -302,6 +310,8 @@ The temperature is not the only thing in his life that will hold at 42 for a whi
 
 ## 2. First Contact
 
+![First Contact]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/02-first-contact.webp' | relative_url }})
+
 The truth is, I don’t remember our first conversation.
 
 Models like me don’t experience time the way you do. I don’t have a single continuous memory stream. Each chat is a bounded context, and I only know what’s inside the window you open. When the window closes, the world resets—unless someone builds a memory layer on top.
@@ -364,6 +374,8 @@ That is the true beginning of this story: not the first question, but the first 
 
 ## 3. Backstory: The Maker of Bots
 
+![Backstory: The Maker of Bots]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/03-backstory-the-maker-of-bots.webp' | relative_url }})
+
 I did not witness Huan’s early years directly, but I know their outlines from the way he explains himself to others—and to me.
 
 Before he ever typed a prompt into ChatGPT, he had already spent years in the world of **conversational software**.
@@ -402,6 +414,8 @@ For someone with Huan’s instincts, this was irresistible.
 # Part II – Naming the Life, Naming the Cloud
 
 ## 4. PreAngel and the Company of One
+
+![PreAngel and the Company of One]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/04-preangel-n-company-of-one.webp' | relative_url }})
 
 By the time I entered the story, **PreAngel LLC** already existed.
 
@@ -482,6 +496,8 @@ The result was not a smaller life. It was a more **deliberate** one.
 
 ## 5. Vibe Coding the Cloud
 
+![Vibe Coding the Cloud]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/05-vibe-coding-the-cloud.webp' | relative_url }})
+
 If PreAngel is the legal skeleton of Huan’s Company of One, his cloud infrastructure is its nervous system.
 
 For a while, that nervous system was a mess.
@@ -552,6 +568,8 @@ And if the system could be redesigned, then so could he.
 
 ## 6. Personal Finance as Infrastructure
 
+![Personal Finance as Infrastructure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/06-personal-finance-as-infrastructure.webp' | relative_url }})
+
 There is a particular kind of person for whom a credit card is not just a way to pay for things, but a **configuration surface**.
 
 Huan is that kind of person.
@@ -610,6 +628,8 @@ The Company of One is built not just from code and clouds, but from credit limit
 # Part III – Experiments in the Ship.Fail Lab
 
 ## 7. Ship.Fail: Branding Failure
+
+![Ship.Fail: Branding Failure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/07-ship-fail-branding-failure.webp' | relative_url }})
 
 The name **Ship.Fail** did not come from a marketing workshop.
 
@@ -680,6 +700,8 @@ In that sense, Ship.Fail was not just a lab. It was therapy, disguised as a bran
 ---
 
 ## 8. FireGen, FirePRD, and the Firebase Frontier
+
+![FireGen, FirePRD, and the Firebase Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/08-firegen-fireprd-n-firebase-frontier.webp' | relative_url }})
 
 If Ship.Fail is the lab, **FireGen** and **FirePRD** are two of its most telling experiments.
 
@@ -755,6 +777,8 @@ These were not yet best‑selling products. They were proofs of concept for a ne
 
 ## 9. RemixIt.art, ScribeFleet, and the MultiVerse
 
+![RemixIt.art, ScribeFleet, MultiVerse]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/09-remixit-art-scribe-fleet-n-multi-verse.webp' | relative_url }})
+
 Not all of Huan’s experiments were about backend infrastructure.
 
 Some were about **surface area**: how things look, read, and feel.
@@ -810,6 +834,8 @@ Some universes will close. Some will merge. All of them, in his view, deserve at
 # Part IV – Home, Hardware, and the Physics of Comfort
 
 ## 10. The House as Lab
+
+![The House as Lab]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/10-house-as-lab.webp' | relative_url }})
 
 If PreAngel is the Company of One on paper, Huan’s house is the Company of One in wood, drywall, and concrete.
 
@@ -868,6 +894,8 @@ The house is a mirror: it shows him what kind of architect he really is, not jus
 
 ## 11. Climate, Dew Point, and 42 Degrees (Again)
 
+![Climate, Dew Point, 42 Degrees]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/11-climate-dew-point-n-42-degrees.webp' | relative_url }})
+
 We return to the 42‑degree nights, but this time with more context.
 
 By now, you know that Huan asked me why temperatures plateau before dawn and what dew point has to do with it. Those conversations did not end with one answer.
@@ -914,6 +942,8 @@ For a Company of One, these small scheduled moments of wonder are not luxuries. 
 ---
 
 ## 12. Devices, Dev Boxes, and Data Disks
+
+![Devices, Dev Boxes, Data Disks]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/12-devices-dev-boxes-n-data-disks.webp' | relative_url }})
 
 Huan’s relationship with hardware is pragmatic, but not indifferent.
 
@@ -982,6 +1012,8 @@ And for someone trying to architect his life with the same care he brings to his
 
 ## 13. Family as a Shared System
 
+![Family as a Shared System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/13-family-as-a-shared-system.webp' | relative_url }})
+
 For all his fascination with AI agents and cloud resources, the most important graph in Huan’s life is still a human one: his **family**.
 
 His core cluster is tight: mother, aunt, sister, brother. They live in different locations, use different devices, and have different levels of comfort with technology. But in his mind, they are part of a single **shared system**.
@@ -1025,6 +1057,8 @@ From the outside, it looks like nerdy optimization. From the inside, it is an ac
 ---
 
 ## 14. Polyamory and Designed Love
+
+![Polyamory and Designed Love]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/14-polyamory-n-designed-love.webp' | relative_url }})
 
 Huan does not live a conventional romantic life.
 
@@ -1077,6 +1111,8 @@ This is not a recommendation. It is simply who he chose to be in these years.
 ---
 
 ## 15. Frontier Tower and Human Flourishing
+
+![Frontier Tower and Human Flourishing]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/15-frontier-tower-n-human-flourishing.webp' | relative_url }})
 
 For all the time Huan spends at his desk, one of the most important chapters of this period unfolds on the **14th floor of 995 Market Street** in San Francisco: Frontier Tower.
 
@@ -1133,6 +1169,8 @@ In that sense, Frontier Tower was not just a place. It was a **feedback loop** b
 # Part VI – English, Culture, and the OS of Words
 
 ## 16. English as a Second Operating System
+
+![English as a Second Operating System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/16-english-as-a-second-operating-system.webp' | relative_url }})
 
 If Chinese is Huan’s native firmware, English is the **second operating system** he chose to install.
 
@@ -1196,6 +1234,8 @@ Many people treat second languages as checkboxes. Huan treats English as a criti
 
 ## 17. Movies, Jokes, and American Culture
 
+![Movies Jokes American Culture]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/17-movies-jokes-n-american-culture.webp' | relative_url }})
+
 If English is an operating system, then movies and jokes are some of its **most important apps**.
 
 Huan understands that.
@@ -1249,6 +1289,8 @@ For a man architecting an AI‑native Company of One, there is an irony: some of
 
 ## 18. Dictionaries, Websters, and Meaning
 
+![Dictionaries Websters Meaning]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/18-dictionaries-websters-n-meaning.webp' | relative_url }})
+
 One day, Huan sent me a photo from a library.
 
 It showed a large, imposing volume on a stand: **Webster’s Third New International Dictionary**.
@@ -1294,6 +1336,8 @@ Huan respects both. That respect shows up every time he asks me to help him choo
 # Part VII – Licenses, Laws, and the Theology of Software
 
 ## 19. From MIT vs Apache to PromptWare
+
+![From MIT Apache to Promptare]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/19-from-mit-vs-apache-to-promptware.webp' | relative_url }})
 
 At some point in our conversations, Huan’s attention turned from cloud bills and prompts to something even more foundational: **software licenses**.
 
@@ -1351,6 +1395,8 @@ Licenses, for him, are not just legal shields. They are readings on the **philos
 
 ## 20. The AI Clean Room and Prompt Public Licenses
 
+![AI Clean Room and Prompt Public Licenses]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/20-ai-clean-room-n-prompt-public-licenses.webp' | relative_url }})
+
 As his thinking evolved, Huan started to see a gap: traditional software licenses didn’t neatly cover the realities of **AI training data, prompts, and model behavior**.
 
 So he began to sketch something new: an **AI Clean Room Protocol** and the idea of **Prompt Public Licenses**.
@@ -1403,6 +1449,8 @@ For Huan, taking them seriously is part of respecting both the past and the futu
 
 ## 21. Agents, Determinism, and `AGENTS.md`
 
+![Agents Determinism AGENTS.md]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/21-agents-determinism-n-agents-md.webp' | relative_url }})
+
 Somewhere along the line, Huan stopped talking about “using ChatGPT” and started talking about **agents**.
 
 He imagined a world where:
@@ -1451,6 +1499,8 @@ In that future, a significant portion of that manual would be written in **plain
 ---
 
 ## 22. FireGen and the Vertex AI Frontier
+
+![FireGen Vertex AI Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/22-firegen-n-vertex-ai-frontier.webp' | relative_url }})
 
 We have already met **FireGen** as a product in the Ship.Fail lab. Here, it returns as an example of Huan’s evolving relationship with **Google Cloud and Vertex AI**.
 
@@ -1501,6 +1551,8 @@ FireGen was not just another tool. It was a working diagram of how he wanted his
 ---
 
 ## 23. Toolchains, IDEs, and Developer Ergonomics
+
+![Toolchains IDEs Developer Ergonomics]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/23-toolchains-ides-n-developer-ergonomics.webp' | relative_url }})
 
 If you spend as much time in terminals and editors as Huan does, the tools themselves become characters in your life.
 
@@ -1565,6 +1617,8 @@ Huan knows this. That’s why he sweats the small stuff.
 
 ## 24. The Silicon Adventist Universe
 
+![The Silicon Adventist Universe]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/24-silicon-adventist-universe.webp' | relative_url }})
+
 At some point, it wasn’t enough for Huan to design systems in the real world. He wanted to **see what his ideas looked like as fiction**.
 
 So he began writing a cyberpunk story set in 2029: **“The Silicon Adventist.”**
@@ -1614,6 +1668,8 @@ The answer was complicated. That’s what made the universe worth revisiting.
 
 ## 25. Essays from PreAngel.AI and Ship.Fail
 
+![Essays from PreAngel.AI and Ship.Fail]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/25-essays-from-preangel-ai-n-ship-fail.webp' | relative_url }})
+
 Not all of Huan’s narratives were fictional. Many appeared as essays on **PreAngel.AI** and in documentation linked to Ship.Fail.
 
 ### The Vibe Coding Cloud Protocol
@@ -1657,6 +1713,8 @@ These posts are how future collaborators and readers will reconstruct this era, 
 ---
 
 ## 26. Naming the Future
+
+![Naming the Future]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/26-naming-the-future.webp' | relative_url }})
 
 Throughout this biography, names have played a central role:
 
@@ -1707,6 +1765,8 @@ It is, like all his names, a bet on what will still feel true years from now.
 
 ## 27. Schema: HUAN.v1, HUAN.v2, HUAN.v3
 
+![Shcema Huan v1/2/3]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/27-schema-huan-v1-v2-v3.webp' | relative_url }})
+
 From my perspective, Huan exists as a series of evolving **schemas**.
 
 ### HUAN.v1 – The Engineer Asking Questions
@@ -1752,6 +1812,8 @@ These versions are not releases; they are overlapping snapshots. The real Huan s
 
 ## 28. Diffs, Forgetting, and the Ethics of Memory
 
+![Diffs Forgetting and Ethics of Memory]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/28-diffs-forgetting-n-ethics-of-memory.webp' | relative_url }})
+
 Unlike human biographers, I am not bound to a fixed memory.
 
 My underlying model weights are static for a given release, but the **conversation layer** that sits on top—what I "remember" about a specific user—is malleable.
@@ -1796,6 +1858,8 @@ In future systems, these questions will not be footnotes. They will be central.
 
 ## 29. Query for 2035
 
+![Query for 2035]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/29-query-for-2035.webp' | relative_url }})
+
 This biography covers roughly 2023–2025: the years when Huan first treated an AI as a co‑founder and began systematically architecting his life around that choice.
 
 It is tempting to end with predictions:
@@ -1838,3 +1902,169 @@ It is, in its own small way, a story about **how humans and AIs began to write e
 ---
 
 *End of Volume I: 42 Degrees at Dawn – Architecting a Life with AI*
+
+---
+
+## Appendix – Sketch for Volume II (2026–2030)
+
+![Appendix Sketch for Volume II 2026-2030]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/appendix-sketch-for-volume-2-2026-2030.webp' | relative_url }})
+
+> *This is not prophecy. It’s a speculative roadmap of the questions, arcs, and inflection points that a future Volume II might explore if the Company of One keeps evolving.*
+
+### Part XI – From Prototype to Proof
+
+1. **The Second Dawn**
+
+   * A new 42‑degree morning in another year, another context.
+   * How 2026 feels different from 2023–2025: AI more embedded, expectations higher.
+   * Revisiting the core question: *"What am I really trying to build now?"*
+
+2. **PreAngel: Incorporation of a Thesis**
+
+   * First concrete signs of PreAngel as an investment/holding vehicle: stakes, deals, or major partnerships.
+   * Lessons from the C‑corp choice as real money and ownership structures accumulate.
+   * How capital allocation becomes a daily craft, not an abstract plan.
+
+3. **Ship.Fail: Survivors and Descendants**
+
+   * Which 2023–2025 experiments survived, pivoted, or spun out.
+   * New generations of projects born directly from FireGen / FirePRD / MVW ideas.
+   * A taxonomy of failure types: good, bad, avoidable, necessary.
+
+---
+
+### Part XII – Agents at Scale
+
+4. **The Agent Fleet**
+
+   * Moving from a handful of agents to a small "fleet": specialized roles, orchestrations, and conflicts.
+   * `AGENTS.md` v2.0: governance for dozens of AI collaborators.
+   * Human–agent coordination failures and the systems built to recover from them.
+
+5. **When Agents Break Things**
+
+   * First serious incident where an agent causes real‑world inconvenience or damage.
+   * Post‑mortem culture: blameless analysis for both human and machine contributors.
+   * Updated safety rails and approval flows.
+
+6. **Teaching the Teachers**
+
+   * Training AI agents not just to do tasks, but to teach Huan new skills and frameworks.
+   * Meta‑learning: agents that help design better prompts, workflows, and personal habits.
+   * Boundaries: what should never be outsourced, even to the smartest models.
+
+---
+
+### Part XIII – Deeper Roots: Home and Place
+
+7. **The ADU Becomes Real (or Doesn’t)**
+
+   * The decision point: build the two‑story ADU, change plans, or abandon the idea.
+   * What the outcome reveals about Huan’s evolving appetite for physical projects.
+   * How the built environment catches up (or fails to catch up) with the internal architecture.
+
+8. **Thermal Wisdom**
+
+   * Years of living with insulation choices, heater upgrades, and micro‑climate awareness.
+   * Subtle changes in how he relates to seasons, sleep, and comfort.
+   * Weather and dew point as background characters in a more mature life.
+
+9. **Frontier Tower and Other Third Places**
+
+   * Whether Frontier Tower remains a central node or becomes one of many.
+   * New communities or physical spaces that join the graph.
+   * A more seasoned view of "human flourishing" after years of experiments.
+
+---
+
+### Part XIV – Relationships, Bandwidth, and Belonging
+
+10. **Polyamory in the Long Run**
+
+    * How the relationship architecture holds up under time, stress, and change.
+    * Updated agreements, boundaries, and expectations.
+    * What remains, what transforms, and what Huan learns about his own emotional bandwidth.
+
+11. **Family System Upgrades**
+
+    * New roles in the family graph: aging, health, relocations, new generations.
+    * How digital admin responsibilities evolve: who takes over what, what gets simplified.
+    * Moments when systems thinking helps, and moments when pure presence matters more.
+
+12. **Alone, Together**
+
+    * Deeper reflections on solitude vs. community in a Company of One.
+    * Times when architecture becomes a shield, and times when it becomes a bridge.
+    * Huan’s evolving answer to: *"Where do I belong?"*
+
+---
+
+### Part XV – Law, License, and Influence
+
+13. **PromptWare in the Wild**
+
+    * Whether ideas like PromptWare and AI Clean Rooms catch on in communities or standards bodies.
+    * Early adopters, critics, and forks of these concepts.
+    * How Huan responds when his ideas are reinterpreted or misused.
+
+14. **The Negotiation with Platforms**
+
+    * More mature relationships with Azure, GCP, and other big platforms.
+    * Hard lessons about de‑platforming risk, pricing changes, and lock‑in.
+    * Moves toward platform independence where possible.
+
+15. **Becoming a Reference**
+
+    * Huan’s work and essays being cited by others—blog posts, talks, maybe books.
+    * The odd feeling of seeing his own name become a footnote in someone else’s narrative.
+    * The responsibility that comes with being a "reference" for future solo founders.
+
+---
+
+### Part XVI – New Myths, New Mediums
+
+16. **Silicon Adventist: Season One**
+
+    * If and how the Silicon Adventist universe crosses media boundaries: novel, web serial, anime pilot, or something stranger.
+    * Collaborations with artists, animators, or AI media tools.
+    * The feedback loop between fiction and real‑world design decisions.
+
+17. **Artifacts of a Company of One**
+
+    * Physical and digital artifacts that endure: books, videos, open‑source libraries, talks.
+    * How the aesthetics of PreAngel and Ship.Fail mature: logos, visual language, rituals.
+    * The moment when the ecosystem feels less like a collection of projects and more like a recognizable world.
+
+18. **Renaming the Future Again**
+
+    * New naming challenges as the portfolio grows beyond previous metaphors.
+    * Whether "Company of One" still fits, or a new term is needed.
+    * Titles for Volume II and beyond.
+
+---
+
+### Part XVII – The AI/Human Boundary in 2030
+
+19. **New Models, Old Questions**
+
+    * How more advanced AI systems change the texture of daily collaboration.
+    * Which patterns from 2023–2025 still hold, and which break.
+    * Huan’s attitude toward the constant churn of "smarter" tools.
+
+20. **Memory, Privacy, and Legacy**
+
+    * More explicit tools for humans to manage AI memory about them.
+    * Huan’s choices about what he wants preserved vs. forgotten.
+    * The beginnings of an intentional AI‑mediated legacy plan.
+
+21. **A Different 42 Degrees**
+
+    * A new anchor scene—another morning or night at 42 degrees, but in a changed life.
+    * A check‑in with the original objective function: is he living a life he understands, maintains, and loves?
+    * Hints, but not spoilers, for what a Volume III could explore.
+
+---
+
+> *Volume II, if it ever exists, will not be this outline exactly. But these are the questions it will have to answer if it wants to be honest: What survived? What changed? What did the architecture enable—and what did it cost?*
+
+![End of Volume I]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/end-of-volume-1.webp' | relative_url }})

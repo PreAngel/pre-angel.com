@@ -1,12 +1,14 @@
 #!/usr/bin/env bash
 set -e
 
+MAX_WIDTH=1600
+
 function resize () {
   FILE=$1
   mogrify \
     -verbose \
-    -quality 80 \
-    -resize '1920>' \
+    -quality 70 \
+    -resize "${MAX_WIDTH}>" \
     ${FILE}
 }
 
@@ -22,7 +24,7 @@ echo "fit-image: $DST is directory"
 pushd ${DST}
 
 # FILES=$(git ls-files --exclude-standard --others *.jpg)
-FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.gif'))
+FILE_LIST=($(find . -type f -name '*.webp' -o -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.gif'))
 
 echo "Checking ..."
 for FILE in "${FILE_LIST[@]}"; do
@@ -34,7 +36,7 @@ for FILE in "${FILE_LIST[@]}"; do
 
   WIDTH=$(identify -ping -format '%w' "$FILE")
   # echo "$FILE WIDTH: $WIDTH"
-  if [ $WIDTH -gt 1920 ]; then
+  if [ $WIDTH -gt ${MAX_WIDTH} ]; then
     resize $FILE
     echo "Resized $FILE"
   else
