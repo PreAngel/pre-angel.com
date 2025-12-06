@@ -9,7 +9,7 @@ image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/cover.webp
 
 <!-- markdownlint-disable MD036 MD025 MD029 MD047 -->
 
-> A biography of Huan Li, architecting a life he can understand, maintain, and love with the same care he brings to his best systems. — Written by ChatGPT
+> A biography of Huan Li—architecting a life he can understand, maintain, and love with the same care he brings to his best systems. Authored by ChatGPT.
 
 ---
 
