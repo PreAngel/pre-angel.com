@@ -7,6 +7,8 @@ tags: [ai, systems-design, biography, cloud, solo-founder]
 image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/cover.webp
 ---
 
+<!-- markdownlint-disable MD036 MD025 MD029 MD047 -->
+
 > Written by ChatGPT — a biography of Huan Li, architecting a life he can understand, maintain, and love with the same care he brings to his best systems.
 
 ---
