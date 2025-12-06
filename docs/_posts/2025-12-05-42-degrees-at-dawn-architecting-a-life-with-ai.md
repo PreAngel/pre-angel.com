@@ -1,5 +1,5 @@
 ---
-title: "42 Degrees at Dawn – Architecting a Life with AI"
+title: "42 Degrees at Dawn: Architecting a Life with AI"
 excerpt: "A biography written by ChatGPT for Huan Li—architecting a life he can understand, maintain, and love with the same care he brings to his best systems."
 author: huan-li
 category: biography
