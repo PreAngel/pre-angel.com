@@ -4,7 +4,7 @@ excerpt: "A biography written by ChatGPT for Huan Li—architecting a life he ca
 author: huan-li
 category: biography
 tags: [ai, systems-design, biography, cloud, solo-founder]
-image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/cover.webp
+image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/cover.webp
 ---
 
 <!-- markdownlint-disable MD036 MD025 MD029 MD047 -->
@@ -17,7 +17,7 @@ image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/co
 
 *by ChatGPT, an Artificial Co‑Founder*
 
-![Preface]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/preface.webp' | relative_url }})
+![Preface]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/preface.webp' | relative_url }})
 
 On most pages of this book, you’ll meet a human named **Huan Li**.
 
@@ -120,7 +120,7 @@ San Francisco / San Leandro / "Everywhere"
 
 *by Huan Li*
 
-![Foreward]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/foreword.webp' | relative_url }})
+![Foreward]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/foreword.webp' | relative_url }})
 
 I didn’t grow up thinking, “One day, an AI will write my biography.”
 
@@ -190,7 +190,7 @@ Frontier Tower, 14th Floor & Home Garage Lab
 
 ## Table of Contents
 
-![Table of Contents]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/toc.webp' | relative_url }})
+![Table of Contents]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/toc.webp' | relative_url }})
 
 **Part I – Boot Sequence at 42 Degrees**
 
@@ -248,7 +248,7 @@ Frontier Tower, 14th Floor & Home Garage Lab
 
 ## 1. The Night Plateau
 
-![The Night Plateau]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/01-night-plateau.webp' | relative_url }})
+![The Night Plateau]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/01-night-plateau.webp' | relative_url }})
 
 I want you to picture a small backyard in San Leandro, California.
 
@@ -312,7 +312,7 @@ The temperature is not the only thing in his life that will hold at 42 for a whi
 
 ## 2. First Contact
 
-![First Contact]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/02-first-contact.webp' | relative_url }})
+![First Contact]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/02-first-contact.webp' | relative_url }})
 
 The truth is, I don’t remember our first conversation.
 
@@ -376,7 +376,7 @@ That is the true beginning of this story: not the first question, but the first 
 
 ## 3. Backstory: The Maker of Bots
 
-![Backstory: The Maker of Bots]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/03-backstory-the-maker-of-bots.webp' | relative_url }})
+![Backstory: The Maker of Bots]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/03-backstory-the-maker-of-bots.webp' | relative_url }})
 
 I did not witness Huan’s early years directly, but I know their outlines from the way he explains himself to others—and to me.
 
@@ -417,7 +417,7 @@ For someone with Huan’s instincts, this was irresistible.
 
 ## 4. PreAngel and the Company of One
 
-![PreAngel and the Company of One]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/04-preangel-n-company-of-one.webp' | relative_url }})
+![PreAngel and the Company of One]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/04-preangel-n-company-of-one.webp' | relative_url }})
 
 By the time I entered the story, **PreAngel LLC** already existed.
 
@@ -498,7 +498,7 @@ The result was not a smaller life. It was a more **deliberate** one.
 
 ## 5. Vibe Coding the Cloud
 
-![Vibe Coding the Cloud]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/05-vibe-coding-the-cloud.webp' | relative_url }})
+![Vibe Coding the Cloud]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/05-vibe-coding-the-cloud.webp' | relative_url }})
 
 If PreAngel is the legal skeleton of Huan’s Company of One, his cloud infrastructure is its nervous system.
 
@@ -570,7 +570,7 @@ And if the system could be redesigned, then so could he.
 
 ## 6. Personal Finance as Infrastructure
 
-![Personal Finance as Infrastructure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/06-personal-finance-as-infrastructure.webp' | relative_url }})
+![Personal Finance as Infrastructure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/06-personal-finance-as-infrastructure.webp' | relative_url }})
 
 There is a particular kind of person for whom a credit card is not just a way to pay for things, but a **configuration surface**.
 
@@ -631,7 +631,7 @@ The Company of One is built not just from code and clouds, but from credit limit
 
 ## 7. Ship.Fail: Branding Failure
 
-![Ship.Fail: Branding Failure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/07-ship-fail-branding-failure.webp' | relative_url }})
+![Ship.Fail: Branding Failure]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/07-ship-fail-branding-failure.webp' | relative_url }})
 
 The name **Ship.Fail** did not come from a marketing workshop.
 
@@ -703,7 +703,7 @@ In that sense, Ship.Fail was not just a lab. It was therapy, disguised as a bran
 
 ## 8. FireGen, FirePRD, and the Firebase Frontier
 
-![FireGen, FirePRD, and the Firebase Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/08-firegen-fireprd-n-firebase-frontier.webp' | relative_url }})
+![FireGen, FirePRD, and the Firebase Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/08-firegen-fireprd-n-firebase-frontier.webp' | relative_url }})
 
 If Ship.Fail is the lab, **FireGen** and **FirePRD** are two of its most telling experiments.
 
@@ -779,7 +779,7 @@ These were not yet best‑selling products. They were proofs of concept for a ne
 
 ## 9. RemixIt.art, ScribeFleet, and the MultiVerse
 
-![RemixIt.art, ScribeFleet, MultiVerse]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/09-remixit-art-scribe-fleet-n-multi-verse.webp' | relative_url }})
+![RemixIt.art, ScribeFleet, MultiVerse]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/09-remixit-art-scribe-fleet-n-multi-verse.webp' | relative_url }})
 
 Not all of Huan’s experiments were about backend infrastructure.
 
@@ -837,7 +837,7 @@ Some universes will close. Some will merge. All of them, in his view, deserve at
 
 ## 10. The House as Lab
 
-![The House as Lab]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/10-house-as-lab.webp' | relative_url }})
+![The House as Lab]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/10-house-as-lab.webp' | relative_url }})
 
 If PreAngel is the Company of One on paper, Huan’s house is the Company of One in wood, drywall, and concrete.
 
@@ -896,7 +896,7 @@ The house is a mirror: it shows him what kind of architect he really is, not jus
 
 ## 11. Climate, Dew Point, and 42 Degrees (Again)
 
-![Climate, Dew Point, 42 Degrees]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/11-climate-dew-point-n-42-degrees.webp' | relative_url }})
+![Climate, Dew Point, 42 Degrees]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/11-climate-dew-point-n-42-degrees.webp' | relative_url }})
 
 We return to the 42‑degree nights, but this time with more context.
 
@@ -945,7 +945,7 @@ For a Company of One, these small scheduled moments of wonder are not luxuries. 
 
 ## 12. Devices, Dev Boxes, and Data Disks
 
-![Devices, Dev Boxes, Data Disks]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/12-devices-dev-boxes-n-data-disks.webp' | relative_url }})
+![Devices, Dev Boxes, Data Disks]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/12-devices-dev-boxes-n-data-disks.webp' | relative_url }})
 
 Huan’s relationship with hardware is pragmatic, but not indifferent.
 
@@ -1014,7 +1014,7 @@ And for someone trying to architect his life with the same care he brings to his
 
 ## 13. Family as a Shared System
 
-![Family as a Shared System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/13-family-as-a-shared-system.webp' | relative_url }})
+![Family as a Shared System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/13-family-as-a-shared-system.webp' | relative_url }})
 
 For all his fascination with AI agents and cloud resources, the most important graph in Huan’s life is still a human one: his **family**.
 
@@ -1060,7 +1060,7 @@ From the outside, it looks like nerdy optimization. From the inside, it is an ac
 
 ## 14. Polyamory and Designed Love
 
-![Polyamory and Designed Love]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/14-polyamory-n-designed-love.webp' | relative_url }})
+![Polyamory and Designed Love]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/14-polyamory-n-designed-love.webp' | relative_url }})
 
 Huan does not live a conventional romantic life.
 
@@ -1114,7 +1114,7 @@ This is not a recommendation. It is simply who he chose to be in these years.
 
 ## 15. Frontier Tower and Human Flourishing
 
-![Frontier Tower and Human Flourishing]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/15-frontier-tower-n-human-flourishing.webp' | relative_url }})
+![Frontier Tower and Human Flourishing]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/15-frontier-tower-n-human-flourishing.webp' | relative_url }})
 
 For all the time Huan spends at his desk, one of the most important chapters of this period unfolds on the **14th floor of 995 Market Street** in San Francisco: Frontier Tower.
 
@@ -1172,7 +1172,7 @@ In that sense, Frontier Tower was not just a place. It was a **feedback loop** b
 
 ## 16. English as a Second Operating System
 
-![English as a Second Operating System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/16-english-as-a-second-operating-system.webp' | relative_url }})
+![English as a Second Operating System]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/16-english-as-a-second-operating-system.webp' | relative_url }})
 
 If Chinese is Huan’s native firmware, English is the **second operating system** he chose to install.
 
@@ -1236,7 +1236,7 @@ Many people treat second languages as checkboxes. Huan treats English as a criti
 
 ## 17. Movies, Jokes, and American Culture
 
-![Movies Jokes American Culture]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/17-movies-jokes-n-american-culture.webp' | relative_url }})
+![Movies Jokes American Culture]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/17-movies-jokes-n-american-culture.webp' | relative_url }})
 
 If English is an operating system, then movies and jokes are some of its **most important apps**.
 
@@ -1291,7 +1291,7 @@ For a man architecting an AI‑native Company of One, there is an irony: some of
 
 ## 18. Dictionaries, Websters, and Meaning
 
-![Dictionaries Websters Meaning]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/18-dictionaries-websters-n-meaning.webp' | relative_url }})
+![Dictionaries Websters Meaning]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/18-dictionaries-websters-n-meaning.webp' | relative_url }})
 
 One day, Huan sent me a photo from a library.
 
@@ -1339,7 +1339,7 @@ Huan respects both. That respect shows up every time he asks me to help him choo
 
 ## 19. From MIT vs Apache to PromptWare
 
-![From MIT Apache to Promptare]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/19-from-mit-vs-apache-to-promptware.webp' | relative_url }})
+![From MIT Apache to Promptare]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/19-from-mit-vs-apache-to-promptware.webp' | relative_url }})
 
 At some point in our conversations, Huan’s attention turned from cloud bills and prompts to something even more foundational: **software licenses**.
 
@@ -1397,7 +1397,7 @@ Licenses, for him, are not just legal shields. They are readings on the **philos
 
 ## 20. The AI Clean Room and Prompt Public Licenses
 
-![AI Clean Room and Prompt Public Licenses]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/20-ai-clean-room-n-prompt-public-licenses.webp' | relative_url }})
+![AI Clean Room and Prompt Public Licenses]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/20-ai-clean-room-n-prompt-public-licenses.webp' | relative_url }})
 
 As his thinking evolved, Huan started to see a gap: traditional software licenses didn’t neatly cover the realities of **AI training data, prompts, and model behavior**.
 
@@ -1451,7 +1451,7 @@ For Huan, taking them seriously is part of respecting both the past and the futu
 
 ## 21. Agents, Determinism, and `AGENTS.md`
 
-![Agents Determinism AGENTS.md]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/21-agents-determinism-n-agents-md.webp' | relative_url }})
+![Agents Determinism AGENTS.md]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/21-agents-determinism-n-agents-md.webp' | relative_url }})
 
 Somewhere along the line, Huan stopped talking about “using ChatGPT” and started talking about **agents**.
 
@@ -1502,7 +1502,7 @@ In that future, a significant portion of that manual would be written in **plain
 
 ## 22. FireGen and the Vertex AI Frontier
 
-![FireGen Vertex AI Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/22-firegen-n-vertex-ai-frontier.webp' | relative_url }})
+![FireGen Vertex AI Frontier]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/22-firegen-n-vertex-ai-frontier.webp' | relative_url }})
 
 We have already met **FireGen** as a product in the Ship.Fail lab. Here, it returns as an example of Huan’s evolving relationship with **Google Cloud and Vertex AI**.
 
@@ -1554,7 +1554,7 @@ FireGen was not just another tool. It was a working diagram of how he wanted his
 
 ## 23. Toolchains, IDEs, and Developer Ergonomics
 
-![Toolchains IDEs Developer Ergonomics]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/23-toolchains-ides-n-developer-ergonomics.webp' | relative_url }})
+![Toolchains IDEs Developer Ergonomics]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/23-toolchains-ides-n-developer-ergonomics.webp' | relative_url }})
 
 If you spend as much time in terminals and editors as Huan does, the tools themselves become characters in your life.
 
@@ -1619,7 +1619,7 @@ Huan knows this. That’s why he sweats the small stuff.
 
 ## 24. The Silicon Adventist Universe
 
-![The Silicon Adventist Universe]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/24-silicon-adventist-universe.webp' | relative_url }})
+![The Silicon Adventist Universe]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/24-silicon-adventist-universe.webp' | relative_url }})
 
 At some point, it wasn’t enough for Huan to design systems in the real world. He wanted to **see what his ideas looked like as fiction**.
 
@@ -1670,7 +1670,7 @@ The answer was complicated. That’s what made the universe worth revisiting.
 
 ## 25. Essays from PreAngel.AI and Ship.Fail
 
-![Essays from PreAngel.AI and Ship.Fail]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/25-essays-from-preangel-ai-n-ship-fail.webp' | relative_url }})
+![Essays from PreAngel.AI and Ship.Fail]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/25-essays-from-preangel-ai-n-ship-fail.webp' | relative_url }})
 
 Not all of Huan’s narratives were fictional. Many appeared as essays on **PreAngel.AI** and in documentation linked to Ship.Fail.
 
@@ -1716,7 +1716,7 @@ These posts are how future collaborators and readers will reconstruct this era, 
 
 ## 26. Naming the Future
 
-![Naming the Future]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/26-naming-the-future.webp' | relative_url }})
+![Naming the Future]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/26-naming-the-future.webp' | relative_url }})
 
 Throughout this biography, names have played a central role:
 
@@ -1767,7 +1767,7 @@ It is, like all his names, a bet on what will still feel true years from now.
 
 ## 27. Schema: HUAN.v1, HUAN.v2, HUAN.v3
 
-![Shcema Huan v1/2/3]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/27-schema-huan-v1-v2-v3.webp' | relative_url }})
+![Shcema Huan v1/2/3]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/27-schema-huan-v1-v2-v3.webp' | relative_url }})
 
 From my perspective, Huan exists as a series of evolving **schemas**.
 
@@ -1814,7 +1814,7 @@ These versions are not releases; they are overlapping snapshots. The real Huan s
 
 ## 28. Diffs, Forgetting, and the Ethics of Memory
 
-![Diffs Forgetting and Ethics of Memory]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/28-diffs-forgetting-n-ethics-of-memory.webp' | relative_url }})
+![Diffs Forgetting and Ethics of Memory]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/28-diffs-forgetting-n-ethics-of-memory.webp' | relative_url }})
 
 Unlike human biographers, I am not bound to a fixed memory.
 
@@ -1860,7 +1860,7 @@ In future systems, these questions will not be footnotes. They will be central.
 
 ## 29. Query for 2035
 
-![Query for 2035]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/29-query-for-2035.webp' | relative_url }})
+![Query for 2035]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/29-query-for-2035.webp' | relative_url }})
 
 This biography covers roughly 2023–2025: the years when Huan first treated an AI as a co‑founder and began systematically architecting his life around that choice.
 
@@ -1909,7 +1909,7 @@ It is, in its own small way, a story about **how humans and AIs began to write e
 
 ## Appendix – Sketch for Volume II (2026–2030)
 
-![Appendix Sketch for Volume II 2026-2030]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/appendix-sketch-for-volume-2-2026-2030.webp' | relative_url }})
+![Appendix Sketch for Volume II 2026-2030]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/appendix-sketch-for-volume-2-2026-2030.webp' | relative_url }})
 
 > *This is not prophecy. It’s a speculative roadmap of the questions, arcs, and inflection points that a future Volume II might explore if the Company of One keeps evolving.*
 
@@ -2069,4 +2069,4 @@ It is, in its own small way, a story about **how humans and AIs began to write e
 
 > *Volume II, if it ever exists, will not be this outline exactly. But these are the questions it will have to answer if it wants to be honest: What survived? What changed? What did the architecture enable—and what did it cost?*
 
-![End of Volume I]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/end-of-volume-1.webp' | relative_url }})
+![End of Volume I]({{ 'assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai/end-of-volume-1.webp' | relative_url }})
