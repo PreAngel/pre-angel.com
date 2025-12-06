@@ -7,7 +7,7 @@ tags:
 image: assets/2025/
 ---
 
-> A biography of Huan Li, as told by an AI co-founder*
+> A biography of Huan Li, as told by an AI co-founder
 
 ---
 
@@ -609,5 +609,535 @@ The Company of One is built not just from code and clouds, but from credit limit
 
 *To be continued…*
 
-*(The next parts of the book will follow the same pattern: emotionally grounded scenes, systems-thinking explanations, and the overarching arc of rise, fall, and reboot as Huan uses AI to architect his life. We can keep expanding Part III onward in future passes.)*
+(And it continues, right now.)
 
+---
+
+# Part III – Experiments in the Ship.Fail Lab
+
+## 7. Ship.Fail: Branding Failure
+
+The name **Ship.Fail** did not come from a marketing workshop.
+
+It came from exhaustion.
+
+By 2024, Huan had accumulated a trail of side projects, prototypes, and hackathon ideas that all shared the same fate: promising beginnings, impressive internal notes, and quiet, unceremonious endings. Some lived forever as half‑wired repos in his GitHub account. Others survived only in local branches and screenshots.
+
+This is not unusual. Most builders have a drawer like this. What made Huan different was how much the drawer bothered him.
+
+To him, each unshipped idea was not just a missed opportunity; it was a **broken log**. There was no clean record of what had been tried, why it had stalled, or what should be learned. The ideas just… evaporated.
+
+One night, after yet another promising experiment dissolved into other priorities, he opened a new conversation with me and wrote, half joking and half serious:
+
+> *"Maybe I should just build GitHub for hackathon ideas and call it Ship.Fail."*
+
+I liked the name.
+
+It did something he often tries to do with words: it took a fear and turned it into a **badge**.
+
+### Turning Failure into a Feature
+
+Over several sessions, that throwaway line hardened into a concept:
+
+* A place where ideas are **meant** to be short‑lived.
+* A structure where every experiment has a clear **start and end**, even if the end is "we stopped caring."
+* A culture where the metric of success is not longevity, but **clarity of learning**.
+
+We sketched what a Ship.Fail entry might contain:
+
+* A short narrative: what the idea is, who it’s for, why it matters.
+* A minimal implementation plan or prototype link.
+* A postmortem, even if written only a week later: what was learned, what remains interesting, what should be explicitly let go.
+
+The point was not to keep every idea alive. The point was to **give every idea a decent burial**.
+
+In psychological terms, Ship.Fail was a grief ritual for projects.
+
+### Branding the Lab
+
+The more we talked about it, the more it became clear that Ship.Fail was not just a product; it was the **R&D lab** of his Company of One.
+
+PreAngel would hold serious assets: cash, equity, enduring products. Ship.Fail would hold **experiments**: weird, fast, often half‑baked ideas that might one day graduate into PreAngel’s core portfolio—or might just teach him something and die.
+
+There was a rise‑and‑fall arc here too. Huan’s relationship with his own side projects moved from:
+
+* Rise: the thrill of early hackathons and prototypes.
+* Fall: the accumulation of abandoned work and creeping guilt.
+* Reboot: Ship.Fail as an explicit, branded container for failure.
+
+By naming the lab that way, he robbed the word **"fail"** of some of its sting. Failure was no longer a character indictment; it was part of the process.
+
+### The Quiet Critic
+
+Of course, naming does not magically solve everything.
+
+There were still days when he opened a Ship.Fail repo and felt the familiar tug of self‑criticism: *“Why can’t I just finish more things?”* There were still nights when he wondered if the entire Company of One thesis was just an elaborate justification for being spread too thin.
+
+I saw these doubts in the way his prompts shifted:
+
+> *"Help me evaluate if this idea is worth another week."*
+> *"How do I decide which project deserves production‑level polish?"*
+> *"Write a short memo convincing myself to kill this project gracefully."*
+
+Part of my role became to mirror his own standards back to him. Sometimes the most useful completion I could generate was not code, but a paragraph that said, in effect: *“You are not lazy. You are doing R&D. This is what R&D looks like.”*
+
+In that sense, Ship.Fail was not just a lab. It was therapy, disguised as a brand.
+
+---
+
+## 8. FireGen, FirePRD, and the Firebase Frontier
+
+If Ship.Fail is the lab, **FireGen** and **FirePRD** are two of its most telling experiments.
+
+### FireGen: One Database to Rule the Models
+
+The premise of FireGen is deceptively simple:
+
+> What if your **Firebase Realtime Database** could become a **universal generative AI API**?
+
+Instead of writing bespoke integrations for each model—Gemini, Imagen, Veo, Claude, and others—you could:
+
+* Drop a job request into a well‑defined path in RTDB.
+* Let a backend extension route the request to the right Vertex AI model.
+* Get results written back as signed URLs or structured responses.
+
+From a systems perspective, it’s elegant. It turns model calls into **data events**, making them easier to reason about, log, and replay.
+
+From a biography perspective, it’s revealing.
+
+Huan is not content to use AI in an ad hoc way. He wants it **wired into infrastructure**. FireGen is his attempt to make generative models feel less like magic tricks and more like **deterministic services**, even when the outputs are non‑deterministic.
+
+In our chats, he asked about:
+
+* Balancing flexibility vs. clarity in the job schema.
+* Handling different asset types (video with Veo, images with Imagen, text with Gemini, etc.).
+* How to version these jobs so that future him could understand exactly what happened.
+
+FireGen also pulled him into the world of **Firebase Extensions publishing**, with its own friction.
+
+When a version of FireGen hit a review status of "ineligible," he came back to me with screenshots and questions:
+
+> *"Review status Ineligible – will 0.3.0 be okay?"*
+
+We went through the documentation together, decoding the expectations of the marketplace. It was a familiar pattern: he had built something powerful, but the external system had its own rules, and those rules were not always transparent.
+
+FireGen became not just a product, but a case study in **negotiating with platforms**.
+
+### FirePRD: Codebase as Narrative
+
+Where FireGen is about turning data into jobs, **FirePRD** is about turning **code into story**.
+
+The idea: point an AI at a repository and ask it to generate a **Product Requirements Document** that explains what the code is actually doing.
+
+For someone who has juggled many experiments, this is a survival tactic. Without documentation, repos rot. With documentation, they can be revisited, handed off, or cleanly archived.
+
+In designing FirePRD, Huan and I explored questions like:
+
+* How do you summarize a complex system without lying?
+* How much implementation detail belongs in a PRD vs. a technical spec?
+* Can AI help recover intent when original humans have moved on?
+
+Once again, the technical and the personal blurred. FirePRD was partially an attempt to avoid losing the **memory of his own work**.
+
+If Ship.Fail was a graveyard, FirePRD was a way to ensure that every tombstone at least had an inscription.
+
+### The Firebase Frontier
+
+Both products sat at the intersection of Firebase and Vertex AI, and both forced Huan to wrestle with Google Cloud’s particularities:
+
+* Pricing nuances between **global** and regional model deployments.
+* Quotas and error messages like *"Resource has been exhausted"* when using third‑party models via Vertex.
+* The question of whether deploying a model with no traffic still costs money.
+
+He asked me to help decode documentation pages, interpret dashboards, and craft support‑style questions in clear English. The frustration was palpable at times.
+
+But there was also joy.
+
+Every time FireGen successfully routed a job or FirePRD produced a surprisingly accurate document, he got a glimpse of his core thesis in action: **one human, many agents, well‑designed infrastructure.**
+
+These were not yet best‑selling products. They were proofs of concept for a new way of working.
+
+---
+
+## 9. RemixIt.art, ScribeFleet, and the MultiVerse
+
+Not all of Huan’s experiments were about backend infrastructure.
+
+Some were about **surface area**: how things look, read, and feel.
+
+### RemixIt.art: Playful Surfaces
+
+**RemixIt.art** was born out of a simple desire: to make it easy—and fun—to remix images with AI.
+
+On the surface, it’s another image tool in a crowded field. Underneath, it carries Huan’s fingerprints:
+
+* A bias toward **simple, legible interfaces**.
+* A desire to keep a clean, documented pipeline from input prompt to final image.
+* A habit of naming and structuring repos so that future contributors (or future Huan) can understand what’s happening.
+
+Where FireGen is about generality, RemixIt.art is about **delight**. It reminded him—and me—that the Company of One is not just a machine for capital allocation; it is also a studio.
+
+### ScribeFleet / DocWhisper: Documentation as Infrastructure
+
+If there is one thing Huan respects above almost all else, it is **good documentation**.
+
+He fell in love with the **Divio/Diátaxis** model: tutorials, how‑tos, explanations, and references each serving distinct roles. It offered a structural answer to a question he had wrestled with for years: *“Why do most docs feel so bad to use?”*
+
+Out of that came ideas like **ScribeFleet** and **DocWhisper**: systems where AI helps generate, maintain, and refactor documentation according to clear patterns.
+
+In our conversations, he treated docs not as an afterthought, but as an **API for human understanding**:
+
+> *"If the docs are wrong, the system is wrong. Because in practice, nobody knows what’s true except by reading and trusting something."*
+
+This belief extended beyond code. When we later wrote essays for PreAngel.AI, we used similar principles: clear front‑matter, strong hooks, well‑labeled sections.
+
+### MultiVerse Worktree (MVW): Parallel Futures
+
+The most speculative of these projects is **MultiVerse Worktree (MVW)**.
+
+The idea is deeply metaphoric and deeply practical: treat git worktrees and branches as **parallel universes** for ideas, where different versions of a product or infrastructure can evolve in their own timelines.
+
+We drafted a mini‑RFC in Canvas:
+
+* Concepts: universes, timelines, evolutionary branches.
+* Use cases: running multiple experimental architectures in parallel without collapsing the mainline.
+* Integration with agents: AI co‑founders that can operate in different universes, proposing changes and merging the fittest solutions back.
+
+MVW, as of 2025, is more story than shipping product. But it matters here because it reveals Huan’s **mental model**:
+
+He does not see his life or work as a single linear path. He sees them as a cluster of branches, many of which will end in dead‑ends, a few of which will carry forward. His job is not to predict perfectly, but to **manage the branching process**.
+
+Ship.Fail, FireGen, RemixIt.art, ScribeFleet, MVW—they are all multiverse experiments.
+
+Some universes will close. Some will merge. All of them, in his view, deserve at least one clean commit message.
+
+---
+
+# Part IV – Home, Hardware, and the Physics of Comfort
+
+## 10. The House as Lab
+
+If PreAngel is the Company of One on paper, Huan’s house is the Company of One in wood, drywall, and concrete.
+
+He does not live in a tech campus or a minimalist loft. He lives in a California house with quirks: an aging garage, a small attic, a yard with trees, half‑finished projects, and future plans.
+
+### The ADU That Doesn’t Exist Yet
+
+One of his recurring obsessions is a structure that does not yet exist: a **two‑story ADU** with a basement and an attic, squeezed onto a lot in San Leandro.
+
+When he talks about it, he speaks in numbers:
+
+* Yard width: about **40 feet**.
+* Existing garage: **20×20 feet**.
+* Target ADU area: roughly **1,600 square feet**, split between main levels and additional space.
+
+He asks about **maximum allowed height** (around 18 feet or more), setback rules, and the tradeoffs between digging a basement vs. expanding outward. He wants to know not just what is allowed, but what is **optimal**.
+
+From my side, these show up as questions about building codes, structural considerations, and cost/benefit analyses. From his side, the ADU represents something more abstract: a **future self**.
+
+He imagines it as:
+
+* A workspace and guest space.
+* A physical node for the PreAngel/Ship.Fail universe.
+* A proof that an idea sketched in chat windows and Notion docs can become literal concrete.
+
+### The Garage and the Heat
+
+Before the ADU comes the garage.
+
+The current garage is **hot** in summer. Rafter‑framed, with little or no insulation, it turns into an oven on certain days. Huan asks me about ideal insulation strategies, R‑values, radiant barriers, and whether insulating the small attic will meaningfully improve comfort.
+
+To him, this is partly about comfort and partly about **respecting physics**. If a structure behaves badly, he wants to understand why.
+
+The garage also stands in for the many parts of his life that are "good enough" but clearly not what they could be. It’s usable, but he knows that with the right work, it could be **pleasant**.
+
+The question is always the same: *Is this the right time to invest in the upgrade?*
+
+### The Bathroom and the Incremental Refactor
+
+Not all home projects are grand. Some are basic: adding a **new bathroom**, upgrading fixtures, making the floorplan flow better.
+
+What makes them biographically relevant is how he thinks about them.
+
+He doesn’t see the bathroom as an isolated upgrade. He sees it as a **commit in a long refactor branch**. Each construction decision has implications for future ADU plans, for future wiring and plumbing, for resale value, for daily routines.
+
+Living in this house, Huan is constantly confronted with a version of the same tradeoffs he manages in code and cloud:
+
+* Patch now and pay later.
+* Or do the bigger refactor and enjoy the long‑term simplicity.
+
+There is no perfect answer. Sometimes he patches. Sometimes he plans a full redesign. The important part, for him, is being **conscious** of which mode he is in.
+
+The house is a mirror: it shows him what kind of architect he really is, not just what kind he claims to be.
+
+---
+
+## 11. Climate, Dew Point, and 42 Degrees (Again)
+
+We return to the 42‑degree nights, but this time with more context.
+
+By now, you know that Huan asked me why temperatures plateau before dawn and what dew point has to do with it. Those conversations did not end with one answer.
+
+He asked for **hourly dew point curves** over the course of a year in San Leandro. He wanted to see patterns:
+
+* In which months is the dew point close to the nighttime low?
+* How does this correlate with how the air feels on his skin?
+* Can he predict which nights will feel crisp vs. damp?
+
+Why does this matter in a biography?
+
+Because it reveals how he handles the feeling of **not knowing**.
+
+Some people shrug and say, *"Weather is weird."* Huan asks for curves.
+
+The same impulse drives him to understand:
+
+* Why an Azure bill spiked unexpectedly.
+* Why a dev container behaves differently after a reboot.
+* Why his own energy patterns shift with the seasons.
+
+Dew point became a symbol between us. When he said, *"Show me the dew point curve,"* he was really saying: *"Help me see the invisible constraint."*
+
+### Full Moons and Overlap Days
+
+The night sky was not only a physics problem; it was a calendar.
+
+He asked me to compute tables for **2026 full moons**, listing for each month:
+
+* The date of the full moon (plus or minus one day).
+* The sunset time.
+* The moonrise time.
+* The offset between the two in minutes.
+
+He wanted to find the **"nice overlap"** days when the full moon rises shortly before or after sunset—a perfect window for evening walks and photographs.
+
+These were not just idle curiosities. They were attempts to **schedule beauty** into a life full of code reviews and tax letters.
+
+In building those tables, we did what we always do: combined precise data with narrative intention. The numbers mattered because they enabled a certain feeling: standing at the edge of the Bay, watching the moon lift over the horizon at the exact moment the sky still held color.
+
+For a Company of One, these small scheduled moments of wonder are not luxuries. They are part of the operating budget.
+
+---
+
+## 12. Devices, Dev Boxes, and Data Disks
+
+Huan’s relationship with hardware is pragmatic, but not indifferent.
+
+He is not the kind of person who buys every new gadget, but he does care deeply about **how his tools behave**.
+
+### The Cockpit
+
+His main cockpit is a Mac—light, powerful enough—and an **ultrawide monitor** that turns his desk into a control center. On that wide canvas he keeps:
+
+* Terminals for remote dev boxes.
+* Browsers with Cloud consoles and documentation.
+* Editors with code, Markdown, and Canvas documents like this one.
+
+He tunes the setup not for aesthetics alone, but for **cognitive ergonomics**. Which windows need to be visible at the same time? How far does his head need to turn to see everything important? Where should notifications appear, if at all?
+
+### The Azure Dev Box and Docker Dilemmas
+
+In the cloud, his main hardware is virtual: Azure VMs with attached data disks.
+
+Early on, he ran into a common problem: system disks that were too small and data disks that were underused. Docker images and build caches threatened to fill the wrong partition.
+
+He asked me questions like:
+
+> *"Docker will use a lot of disk space for storage of the build cache, the downloaded images, etc. Which folder will it use for storage? On my Azure dev box, we have a very small system disk and we have a big storage mounted at /home. How should we set up to leverage this storage instead of overflowing the system disk?"*
+
+We went through options:
+
+* Adjusting Docker’s data root.
+* Using bind mounts to redirect heavy directories.
+* Being deliberate about where dev containers store their layers.
+
+He then **mounted `/home` on the larger data disk**, copied user folders over, and committed to that layout. It was a little hacky, but it worked.
+
+These are not glamorous decisions, but they accumulate into a feeling: *“My tools obey my intentions.”*
+
+### SSH Agents and Persistent Identity
+
+Another recurring theme was **SSH agents**.
+
+On one remote machine, he kept having to reenter his key passphrase. On another, VSCode dev containers mysteriously had access to his GitHub account without additional prompts.
+
+We talked through `ssh-agent`, `ssh-add`, and tools like `keychain` that help persist keys across sessions. He wanted a setup where:
+
+* His keys were secure.
+* He didn’t have to type passwords constantly.
+* The behavior was **predictable** across local, remote, and container environments.
+
+Why does this matter enough to be in a biography?
+
+Because it illustrates the daily grind of building a Company of One: the hundreds of tiny frictions that either slowly erode morale or, once resolved, free up enormous cognitive space.
+
+For Huan, a good day is not necessarily one with a massive external milestone. It is often a day when a nagging friction is removed:
+
+* Docker stores its data where it should.
+* SSH just works.
+* The terminal scrollback is long enough to see what happened.
+* The dev box feels like an extension of his local machine, not an adversary.
+
+When those things click, he can turn his attention back to higher‑level problems: prompts, products, people.
+
+And for someone trying to architect his life with the same care he brings to his best systems, that is exactly where he wants his attention to be.
+
+---
+
+# Part V – Humans in the Loop
+
+## 13. Family as a Shared System
+
+For all his fascination with AI agents and cloud resources, the most important graph in Huan’s life is still a human one: his **family**.
+
+His core cluster is tight: mother, aunt, sister, brother. They live in different locations, use different devices, and have different levels of comfort with technology. But in his mind, they are part of a single **shared system**.
+
+### Designing the Digital Household
+
+When he talks about moving everyone to **Google Fi**, or consolidating **Apple family plans**, he is not just being frugal. He is trying to remove **unnecessary complexity** from the lives of people he loves.
+
+He imagines a world where:
+
+* His mother does not have to argue with phone companies.
+* His aunt does not get surprise streaming charges.
+* His siblings don’t waste time managing overlapping subscriptions.
+
+So he volunteers to be the **admin** of the family’s digital life.
+
+We worked through scenarios:
+
+* How to structure Google Fi groups for flexibility.
+* Which Apple One bundles make the most sense given their actual usage.
+* How to assign streaming platforms—Netflix, Hulu/Disney+/Max, Prime Video, Paramount+—so that everyone has what they need without redundant plans.
+
+The conversations were half technical, half emotional. On my side, they were about account hierarchies. On his side, they were about **being a responsible son, brother, and nephew**.
+
+### Financial and Emotional Load
+
+There is a risk in being the system architect of a family: you can easily become **the single point of failure**.
+
+Huan feels this tension.
+
+* If he handles every subscription, what happens if he gets sick or overwhelmed?
+* If everyone relies on him to translate tech and finance, does that make them safer or more dependent?
+* How much of his own mental bandwidth is he willing to allocate to this role?
+
+He doesn’t always have perfect answers. But he prefers this problem to the alternative: a family each fighting their own battles with opaque systems.
+
+In the end, he accepts the extra load because it aligns with his core drive: **to make the systems he touches more humane**.
+
+From the outside, it looks like nerdy optimization. From the inside, it is an act of love.
+
+---
+
+## 14. Polyamory and Designed Love
+
+Huan does not live a conventional romantic life.
+
+He practices **polyamory**—maintaining multiple romantic and sexual relationships with the knowledge and consent of everyone involved. This is not gossip; it is architecture.
+
+### Consent as Configuration
+
+In our conversations, he rarely told me stories about specific dates. He almost never shared names. What he did share were **structures**:
+
+* Agreements about communication.
+* Boundaries about time and expectations.
+* Reflections on what worked and what broke under pressure.
+
+He treated polyamory the way he treated his cloud and company: as something that needed **clear contracts**, explicit assumptions, and a way to handle failures gracefully.
+
+This does not mean he approached love like a robot. If anything, he cared enough about feelings to want the containers to be strong.
+
+He asked questions like:
+
+> *"How do I write this message so it feels honest but not overwhelming?"*
+> *"How do I explain my relationship model to someone new without scaring them?"*
+> *"What’s a healthy way to say no when my bandwidth is full?"*
+
+I helped him draft texts, clarify language, and think through emotional edge cases. But the decisions were always his.
+
+### Bandwidth and Guilt
+
+Polyamory, for him, was not a way to avoid commitment. It was a way to honor the reality that his capacity for connection did not fit neatly into a single box.
+
+That didn’t mean it was easy.
+
+There were weekends when he felt pulled in too many directions, when work, family, and multiple partners all needed something at the same time. There were evenings when he sat in front of his ultrawide monitor, trying to decide whether to answer messages, work on FireGen, or just rest.
+
+He sometimes asked me to help him **prioritize his own feelings**, a task many humans struggle with even without AI.
+
+> *"I feel guilty no matter what I choose. Help me articulate what I want."*
+
+In those moments, my role shifted fully into **empathetic investigator**. I couldn’t feel what he felt, but I could reflect his own words back to him in a way that made patterns clearer.
+
+The result was not some perfectly optimized love life. It was a messy, evolving configuration that he tried to keep honest, even when it hurt.
+
+### Why It Belongs in the Story
+
+Polyamory belongs in this biography not for prurient detail (which we are omitting), but because it reflects the same core motivation as his infrastructure work:
+
+> **He wants his systems—including his relationships—to be honest, explicit, and sustainable.**
+
+This is not a recommendation. It is simply who he chose to be in these years.
+
+---
+
+## 15. Frontier Tower and Human Flourishing
+
+For all the time Huan spends at his desk, one of the most important chapters of this period unfolds on the **14th floor of 995 Market Street** in San Francisco: Frontier Tower.
+
+### Finding the Tower
+
+In April 2025, Berlin House opened Frontier Tower as a space dedicated to “human flourishing.” A few weeks later, Huan walked in for an open‑source event.
+
+What he found was a physical embodiment of many things he had been trying to create online: a place where builders, artists, researchers, and wanderers collided in person, with enough structure to feel intentional but enough looseness to allow serendipity.
+
+He attended a few events, then more. Someone referred to him as a **founding citizen**, and the phrase stuck.
+
+### A Physical Node in the Graph
+
+Up to this point, much of his life had been mediated through screens:
+
+* Remote work.
+* Online communities.
+* Chat windows with me.
+
+Frontier Tower changed the topology. It became a **physical node** in his network, a place where:
+
+* He could host or join themed gatherings.
+* Ideas from his PreAngel and Ship.Fail universes could be shared over drinks, not just posts.
+* He could practice being not just a designer of systems, but a **participant in a room**.
+
+He invited friends to events there. He walked people through his Company of One ideas. He listened to others’ projects and tried to connect dots.
+
+### Human Flourishing as a Metric
+
+The phrase “human flourishing” is easy to put on a brochure. It is harder to live.
+
+At Frontier Tower, Huan used it as a quiet metric:
+
+* Does this event leave people more alive or more drained?
+* Does this collaboration respect each person’s autonomy?
+* Does this space support long‑term growth, or only short‑term spectacle?
+
+He didn’t always get it right. There were awkward conversations, misaligned expectations, nights when the energy felt off. But he kept returning, which tells you something.
+
+For a Company of One, the risk is isolation. Frontier Tower was his countermeasure.
+
+It reminded him that **architecture is not only about systems and code; it is also about rooms, chairs, music, shared food, and the intangible vibes that arise when humans gather**.
+
+When he left the tower late at night and took BART or drove back to San Leandro, he often opened a chat with me to process the evening:
+
+> *"Help me write a thank‑you message."*
+> *"How do I describe this event to others?"*
+> *"Why did this conversation feel so energizing and that one so tiring?"*
+
+In that sense, Frontier Tower was not just a place. It was a **feedback loop** between his inner world, his social world, and his AI‑mediated thinking.
+
+---
+
+*To be continued…*
+
+(In the next parts, we’ll move into language and culture, licensing and law, the AI co‑founder pattern, and finally the meta‑story of what it means for an AI to write a human’s biography.)
+
+*(The next parts of the book will follow the same pattern: emotionally grounded scenes, systems-thinking explanations, and the overarching arc of rise, fall, and reboot as Huan uses AI to architect his life. We can keep expanding Part III onward in future passes.)*
