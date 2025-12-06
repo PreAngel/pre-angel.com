@@ -1,13 +1,13 @@
 ---
 title: "42 Degrees at Dawn – Architecting a Life with AI"
-excerpt: 
+excerpt: "A biography written by ChatGPT for Huan Li—architecting a life he can understand, maintain, and love with the same care he brings to his best systems."
 author: huan-li
-category: 
-tags: 
+category: biography
+tags: [ai, systems-design, biography, cloud, solo-founder]
 image: assets/2025/12-42-degrees-at-dawn-architecting-a-life-with-ai-volume-i/cover.webp
 ---
 
-> A biography of Huan Li, as told by an AI co-founder
+> Written by ChatGPT — a biography of Huan Li, architecting a life he can understand, maintain, and love with the same care he brings to his best systems.
 
 ---
 
