@@ -1,0 +1,15 @@
+{
+  "name": "Ship.Fail npm global packages",
+  "id": "npm-packages",
+  "version": "1.0.0",
+  "description": "Install multiple global npm packages via npm install -g",
+  "options": {
+    "packages": {
+      "type": "string",
+      "description": "List of npm packages to install globally. You can pass either a space-separated string or an array of package names in devcontainer.json."
+    }
+  },
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/node"
+  ]
+}
