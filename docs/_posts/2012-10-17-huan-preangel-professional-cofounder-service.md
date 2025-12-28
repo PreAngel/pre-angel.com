@@ -64,8 +64,3 @@ PreAngel前四期在王利杰的管理下成绩很不错：不到2年投资了50
 最后，可以来这里了解PreAngel更多：
 
 - 网站： <https://www.pre-angel.com>
-- 商业计划书投递邮箱： <BP@pre-angel.com>
-
-下面是我的微信二维码（扫一扫即可添加），微信号 918999 。非常愿意和在移动互联网领域的创业朋友交流！:)
-
-![李卓桓微信二维码](/assets/peoples/huan-li/wechat-qrcode.jpg)
