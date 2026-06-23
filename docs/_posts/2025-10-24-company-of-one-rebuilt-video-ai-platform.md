@@ -1,7 +1,7 @@
 ---
 title: "How a Non-Technical CEO Rebuilt a Video AI Platform in 30 Days"
 excerpt: "A case study on how Q, Founder of LeyLine, used AI to completely rebuild their video AI platform in just one month."
-author: qiushi-powers
+author: qiushi-zhang
 category: ai-native
 tags:
   - vibe-coding

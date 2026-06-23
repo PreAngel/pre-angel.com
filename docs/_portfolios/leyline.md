@@ -4,7 +4,7 @@ site: https://www.leylinepro.ai
 bio: Bringing Taste to AI and Storytelling to Everyone
 avatar: /assets/portfolios/leyline/icon.jpg
 people:
-  - qiushi-powers
+  - qiushi-zhang
 ventures:
   - preangel
 ---
